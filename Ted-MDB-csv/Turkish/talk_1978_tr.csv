@@ -1,0 +1,143 @@
+rel_type	rel_sense	conn_text	arg1_text	arg2_text
+Explicit	Contingency.Cause.Reason	için	kendimi çok şanslı hissediyorum	İlk işim Modern Sanat Müzesi'nde ressam Elizabeth Murray'in retrospektifinde çalışmak olduğu
+Implicit	Contingency.Cause.Reason	çünkü	İlk işim Modern Sanat Müzesi'nde ressam Elizabeth Murray'in retrospektifinde çalışmak olduğu için kendimi çok şanslı hissediyorum	Ondan çok fazla şey öğrendim
+Explicit	Temporal.Asynchronous.Succession	sonra	1970'lerdeki resimlere bakmaya bayıldım	Küratör Robert Storr hayat boyu ürettiği işler içinden bütün tabloları seçtikten
+Implicit	Contingency.Cause.Reason	ve	1970'lerdeki resimlere bakmaya bayıldım	İleride hayatında tekrar ortaya çıkacak olan bazı motifler ve öğeler vardı
+Implicit	Expansion	öyle ki	Ona ilk çalışmaları hakkında ne düşündüğünü sorduğumu hatırlıyorum	Ona ait olduğunu bilmeseniz, bunu tahmin edemezdiniz
+Explicit	Contingency.Condition.Arg2-as-cond	bilmeseniz	bunu tahmin edemezdiniz	Ona ait olduğunu bilmeseniz
+Explicit	Expansion.Instantiation	Aslında	Bana birkaçının olmasını istediği gibi kendi ölçülerine ulaşamadığını belirtti	biri kendi standartlarına öylesine ulaşmamıştı ki, onu stüdyosunda çöpe atmıştı
+Explicit	Expansion.Conjunction	ve	onu stüdyosunda çöpe atmıştı	komşusu da değerini anladığı için onu almıştı
+Explicit	Contingency.Cause.Reason	için		değerini anladığı
+AltLex	Temporal.Synchronous	O anda	Aslında biri kendi standartlarına öylesine ulaşmamıştı ki, onu stüdyosunda çöpe atmıştı ve komşusu da değerini anladığı için onu almıştı	başarı ve yaratıcılık hakkındaki görüşüm değişti
+Implicit	Expansion.Level-of-detail.Arg2-as-detail	bilhassa	başarı ve yaratıcılık hakkındaki görüşüm değişti	Başarının bir an olduğunu, ancak her zaman göklere çıkardığımız şeyin yaratıcılık ve ustalık olduğunu anladım
+Explicit	Comparison.Concession.Arg2-as-denier	ancak	Başarının bir an olduğunu	her zaman göklere çıkardığımız şeyin yaratıcılık ve ustalık olduğunu
+Explicit	Comparison.Concession.Arg2-as-denier	Ama	Başarının bir an olduğunu, ancak her zaman göklere çıkardığımız şeyin yaratıcılık ve ustalık olduğunu anladım	işte olay şu
+AltLex	Hypophora	ne	Uzun zamandır kendi kendime sorduğum bir soru bu. Bence başarıya yaklaşma lütfuna değer vermeye başladığımızda ortaya çıkıyor	Başarıyı ustalığa dönüştürmemizi sağlayan şey ne
+Implicit	Expansion.Conjunction	ve	Uzun zamandır kendi kendime sorduğum bir soru bu	Bence başarıya yaklaşma lütfuna değer vermeye başladığımızda ortaya çıkıyor
+Implicit	Expansion.Level-of-detail.Arg2-as-detail	aslında	Bence başarıya yaklaşma lütfuna değer vermeye başladığımızda ortaya çıkıyor	Manhattan'ın en kuzeyinde bulunan Columbia'nın Baker Spor Kompleksi'nde soğuk bir Mayıs günü üniversitenin, kadere bakın ki hepsi kadın olan, okçuluk takımını seyretmeye gittiğimde bunu anlamaya başladım
+Explicit	Temporal.Synchronous	gittiğimde	bunu anlamaya başladım	okçuluk takımını seyretmeye gittiğimde
+Implicit	Expansion.Level-of-detail.Arg2-as-detail	özellikle 	okçuluk takımını seyretmeye gittiğimde bunu anlamaya başladım	Okçu paradoksu denen, yani aslında hedefinizi vurmak için ondan biraz eğimli bir şeye nişan almanız gerektiğini söyleyen fikri görmek istedim
+Explicit	Expansion.Equivalence	yani	Okçu paradoksu denen	aslında hedefinizi vurmak için ondan biraz eğimli bir şeye nişan almanız gerektiğini söyleyen
+Explicit	Contingency.Purpose.Arg2-as-goal	için	ondan biraz eğimli bir şeye nişan almanız gerektiğini	hedefinizi vurmak
+Implicit	Contingency.Cause.Result	o nedenle	Okçu paradoksu denen, yani aslında hedefinizi vurmak için ondan biraz eğimli bir şeye nişan almanız gerektiğini söyleyen fikri görmek istedim	Koç bu kadınlarla gri minibüsünde yaklaşırken durup seyrettim ve adeta rahat bir odaklanma içinde dışarı çıktılar
+Explicit	Temporal.Synchronous	yaklaşırken	durup seyrettim	Koç bu kadınlarla gri minibüsünde yaklaşırken
+Explicit	Expansion.Conjunction	durup	seyrettim	durup
+Explicit	Expansion.Conjunction	ve	durup seyrettim	adeta rahat bir odaklanma içinde dışarı çıktılar
+Implicit	Temporal.Asynchronous.Precedence	sonra	durup seyrettim	ve adeta rahat bir odaklanma içinde dışarı çıktılar
+Explicit	Expansion.Conjunction	geçip	gülümsediler	Yanımdan geçip
+Explicit	Comparison.Concession.Arg2-as-denier	ama	Yanımdan geçip gülümsediler	çim alana doğru giderken kim olduğumu anlamaya çalıştılar
+Explicit	Temporal.Synchronous	giderken	kim olduğumu anlamaya çalıştılar	çim alana doğru giderken
+Implicit	Expansion.Level-of-detail.Arg2-as-detail	şöyle ki	çim alana doğru giderken kim olduğumu anlamaya çalıştılar	Birbirleriyle kelimelerle değil, sayılarla, derecelerle konuştular, sanırım hedeflerini vurmayı planladıkları pozisyonlarla
+Implicit	Expansion.Substitution.Arg2-as-subst	daha çok	Birbirleriyle kelimelerle değil	sayılarla, derecelerle konuştular
+Implicit	Temporal.Asynchronous.Succession	sonra 	Birbirleriyle kelimelerle değil, sayılarla, derecelerle konuştular, sanırım hedeflerini vurmayı planladıkları pozisyonlarla	Belki de kimin desteğe ihtiyacı olabilir diye değerlendirmek üzere koçu aramızda dururken bir okçunun arkasında durdum ve onu seyrettim, birinin bile nasıl onluk daireyi vuracağını anlayamamıştım
+Explicit	Contingency.Purpose.Arg2-as-goal	üzere	koçu aramızda dururken	Belki de kimin desteğe ihtiyacı olabilir diye değerlendirmek
+Explicit	Temporal.Synchronous	dururken	bir okçunun arkasında durdum ve onu seyrettim	koçu aramızda dururken
+Explicit	Expansion.Conjunction	ve	bir okçunun arkasında durdum	onu seyrettim
+Implicit	Expansion.Conjunction	ve	Onluk daire standart 75 yarda mesafeden, bir kol boyu uzaklığından bir kibrit çöpünün ucu kadar küçük görünür	Bu her atışta 50 librelik çekiş ağırlığını kaldırırken olur
+Explicit	Temporal.Synchronous	kaldırırken		her atışta 50 librelik çekiş ağırlığını
+Explicit	Expansion.Conjunction	ve	Önce yediyi, ardından dokuzu ve sonra iki kere onu vurduğunu hatırlıyorum	sonraki ok da hedefi dahi vuramadı
+Implicit	Expansion.Conjunction	ve	sonraki ok da hedefi dahi vuramadı	Bunun ona daha çok kararlılık verdiğini gördüm
+Explicit	Expansion.Conjunction	ve	Bunun ona daha çok kararlılık verdiğini gördüm	tekrar tekrar denedi
+Implicit	Contingency.Cause.Result	sonra	Bunun ona daha çok kararlılık verdiğini gördüm	ve tekrar tekrar denedi
+AltLex	Expansion.Conjunction	Antrenmanın sonunda	Bu üç saat sürdü	okçulardan biri öylesine zorlanmıştı ki, yere pestil gibi serildi, kafası gökyüzüne doğru bakıyor, T.S. Eliot'un dönen dünyadaki bu duran noktaya ne diyeceğini bulmaya çalışıyordu
+Explicit	Expansion.Level-of-detail.Arg2-as-detail	ki	yere pestil gibi serildi	okçulardan biri öylesine zorlanmıştı
+Explicit	Contingency.Purpose.Arg2-as-goal	için	üç saat bedenin duruşunu ayarlamanın ne demek olduğunu	bir hedefi vurmak
+Explicit	Comparison.Concession.Arg2-as-denier	Ancak	Amerikan kültüründe bu çok nadirdir, bunun artık meslekle pek ilgisi yoktur, bu derecede kusursuz bir kararlılığın nasıl olduğunu, bir hedefi vurmak için üç saat bedenin duruşunu ayarlamanın ne demek olduğunu görmek, bilinmezlik içinde bir çeşit mükemmellik aramak	orada kaldım
+Explicit	Contingency.Cause.Reason	çünkü	orada kaldım	çok nadir olarak görülecek bir şeye tanıklık ettiğimi anladım, başarı ve ustalık arasındaki o farka
+Explicit	Comparison.Concession.Arg2-as-denier	ancak	başarı o onluk daireye isabet ettirmektir	ustalık bunu tekrar tekrar yapamazsan bunun hiçbir şey ifade etmediğini bilmektir
+Explicit	Contingency.Condition.Arg2-as-cond	yapamazsan		bunu tekrar tekrar yapamazsan
+Explicit	Comparison.Concession.Arg2-as-denier	Ancak	ustalık bunu tekrar tekrar yapamazsan bunun hiçbir şey ifade etmediğini bilmektir	ustalık mükemmellikle aynı şey değildir
+Implicit	Expansion.Conjunction	aynı zamanda	ustalık mükemmellikle aynı şey değildir	Başarıyla aynı şey değildir
+Explicit	Expansion.Level-of-detail.Arg2-as-detail	ki	Başarıyla aynı şey değildir	başarıyı bir hadise olarak, zamanın içinde bir an olarak ve dünyanın size verdiği bir etiket olarak görürüm
+Implicit	Expansion.Conjunction	ayrıca	Başarıyla aynı şey değildir, ki başarıyı bir hadise olarak, zamanın içinde bir an olarak ve dünyanın size verdiği bir etiket olarak görürüm	Ustalık bir hedefe bağlılık değil, bitmeyen bir arayıştır
+Implicit	Expansion.Substitution.Arg2-as-subst	daha çok	Ustalık bir hedefe bağlılık değil	bitmeyen bir arayıştır
+Implicit	Expansion.Instantiation	örneğin	Bunu yapmamıza sebep olan şey, bizi daha fazla ileriye iten şey, neredeyse kazanmanın değeridir	Kaç kere bir şeyi bir klasik, hatta başyapıt olarak tanımladık, yaratıcısı onu umutsuzca bitmemiş olarak görürken, zorluklar ve hatalarla dolu olarak, yani başka bir ifadeyle bir neredeyse kazanmak olarak
+Explicit	Comparison.Concession+SpeechAct	görürken	Kaç kere bir şeyi bir klasik, hatta başyapıt olarak tanımladık	yaratıcısı onu umutsuzca bitmemiş olarak görürken
+Explicit	Expansion.Equivalence	yani	yaratıcısı onu umutsuzca bitmemiş olarak görürken, zorluklar ve hatalarla dolu olarak	başka bir ifadeyle bir neredeyse kazanmak olarak
+Explicit	Expansion.Equivalence	başka bir ifadeyle	yaratıcısı onu umutsuzca bitmemiş olarak görürken, zorluklar ve hatalarla dolu olarak	
+Implicit	Comparison.Similarity	aynı ... gibi	Elizabeth Murray, ilk tabloları hakkındaki itirafıyla beni şaşırtmıştı	Ressam Paul Cézanne, çalışmalarının sıklıkla bitmemiş olduğunu düşünerek, onları tekrar ele almak niyetiyle kasıtlı olarak bir kenara koyardı
+Explicit	Expansion.Conjunction	düşünerek		çalışmalarının sıklıkla bitmemiş olduğunu düşünerek
+Explicit	Comparison.Concession.Arg2-as-denier	ancak	onları tekrar ele almak niyetiyle kasıtlı olarak bir kenara koyardı	hayatının sonunda sonuç resimlerinin sadece yüzde onunu imzalamış olmasıydı
+Explicit	Expansion.Conjunction	ve	En sevdiği roman, Honoré de Balzac'ın Gizli Başyapıt'ıydı	ana karakteri kendisiyle özdeşleştirmişti
+Implicit	Expansion.Conjunction	ve	En sevdiği roman, Honoré de Balzac'ın Gizli Başyapıt'ıydı ve ana karakteri kendisiyle özdeşleştirmişti	Diğerleri çalışmalarını yalnızca övgüye değer bulurken, Franz Kafka bitmemiş olarak gördü
+Explicit	Comparison.Contrast	bulurken	Franz Kafka bitmemiş olarak gördü	Diğerleri çalışmalarını yalnızca övgüye değer bulurken
+AltLex	Contingency.Cause.Result	o kadar ki	Franz Kafka bitmemiş olarak gördü	o kadar ki bütün günlüklerinin, el yazılarının, mektuplarının ve hatta taslaklarının öldükten sonra yakılmasını istedi
+Explicit	Temporal.Asynchronous.Succession	sonra	yakılmasını	öldükten
+Implicit	Comparison.Concession.Arg2-as-denier	ama	bütün günlüklerinin, el yazılarının, mektuplarının ve hatta taslaklarının öldükten sonra yakılmasını istedi	Arkadaşları bu isteğine uymayı reddettiler
+Explicit	Expansion.Conjunction	ve	Arkadaşları bu isteğine uymayı reddettiler	"bu yüzden şimdi Kafka'nın yaptığı bütün çalışmalara sahibiz: ""Amerika"", ""Dava"" ve ""Şato"", öylesine tamamlanmamış bir eser ki, cümlenin ortasında bitiyor"
+AltLex	Contingency.Cause.Result	bu yüzden	Arkadaşları bu isteğine uymayı reddettiler	
+Implicit	Expansion.Instantiation	örneğin	şimdi Kafka'nın yaptığı bütün çalışmalara sahibiz	"""Amerika"", ""Dava"" ve ""Şato"", öylesine tamamlanmamış bir eser ki, cümlenin ortasında bitiyor"
+Explicit	Expansion.Equivalence	diğer bir deyişle	"""Amerika"", ""Dava"" ve ""Şato"", öylesine tamamlanmamış bir eser ki, cümlenin ortasında bitiyor"	
+Explicit	Comparison.Similarity	sanki	"Tanrım, bana başarabileceğimden daha fazlasını istemeyi bahşet,"" diye yakarmıştı Michelangelo"	Sistina Şapeli'ndeki Eski Ahit Tanrısı'na ve kendisi de uzattığı parmağı Tanrı'nın eline tam değmeyen Âdem'di
+Implicit	Expansion.Conjunction	ve	"Tanrım, bana başarabileceğimden daha fazlasını istemeyi bahşet,"" diye yakarmıştı Michelangelo"	sanki Sistina Şapeli'ndeki Eski Ahit Tanrısı'na ve kendisi de uzattığı parmağı Tanrı'nın eline tam değmeyen Âdem'di
+Implicit	Expansion.Substitution.Arg1-as-subst	ama	uzanmaktır	ulaşmak değildir
+Implicit	Expansion.Conjunction	ve	Ustalık uzanmaktır, ulaşmak değildir	Olduğunuz yer ve olmak istediğiniz yer arasındaki boşluğu sürekli kapatmayı istemektir
+Implicit	Expansion.Conjunction	ve	Olduğunuz yer ve olmak istediğiniz yer arasındaki boşluğu sürekli kapatmayı istemektir	Ustalık sanatınız için fedakârlık yapmaktır, kariyerinizi inşa etmeniz için değil
+Implicit	Expansion.Substitution.Arg2-as-subst	tam tersine	sanatınız için fedakârlık yapmaktır	kariyerinizi inşa etmeniz için değil
+AltLex	Expansion.Instantiation	Kaç tane	Bunu yılmaz Kuzey Kutbu kâşifi Ben Saunders'ın yaşamında bile görüyoruz, ki bana zaferlerinin sadece büyük başarılarının sonucu olmadığını, onun yerine bir dizi kazanmaya yaklaştıklarının itici gücü söylemiştir	mucit ve sayısız girişimci bu olguyu yaşıyor
+Explicit	Expansion.Conjunction	ki	Bunu yılmaz Kuzey Kutbu kâşifi Ben Saunders'ın yaşamında bile görüyoruz	bana zaferlerinin sadece büyük başarılarının sonucu olmadığını, onun yerine bir dizi kazanmaya yaklaştıklarının itici gücü söylemiştir
+AltLex	Expansion.Substitution.Arg1-as-subst	onun yerine	sadece büyük başarılarının sonucu olmadığını	bir dizi kazanmaya yaklaştıklarının itici gücü söylemiştir
+Explicit	Undecided	ki	Duke Ellington tarafından anlaşılmış bir bilgelikti bu	kendisi repertuvarındaki en sevdiği şarkının hep bir sonraki olduğunu, hep daha bestelemediği şarkı olduğunu söylemiştir
+AltLex	Contingency.Cause	sebeplerinden biri	uzmanlığımız ne kadar fazlaysa, bildiğimizi düşündüğümüz şeylerin hepsini bilmediğimizi daha net görebilmemizdir	Neredeyse kazanmanın ustalığın doğasında olmasının sebeplerinden biri
+AltLex	Expansion.Instantiation	sebeplerinden biri	uzmanlığımız ne kadar fazlaysa, bildiğimizi düşündüğümüz şeylerin hepsini bilmediğimizi daha net görebilmemizdir	Neredeyse kazanmanın ustalığın doğasında olmasının
+Explicit	Temporal.Synchronous	sorduğunda		James Baldwin'e sorduğunda
+Explicit	Expansion.Conjunction	ve	"Paris Review, James Baldwin'e sorduğunda şu cevabı alabilmişti, ""Bilgiyle artan şey sizce nedir"	"o da şöyle söyledi, ""Ne kadar az bildiğini öğreniyorsun"
+Implicit	Q/A	NONE	Bilgiyle artan şey sizce nedir	Ne kadar az bildiğini öğreniyorsun
+Explicit	Comparison.Contrast	ama	Başarı bizi motive eder	neredeyse kazanmak süregelen bir arayışta bizi ileriye götürebilir
+AltLex	Expansion.Conjunction	Bunun en etkili örneklerinden biri	neredeyse kazanmak süregelen bir arayışta bizi ileriye götürebilir	Bunun en etkili örneklerinden biri, yarışmadan sonra Olimpiyat gümüş madalyası ile bronz madalyası kazananlar arasındaki farka baktığımızda görülür
+Explicit	Contingency.Condition.Arg2-as-cond	baktığımızda	görülür	Olimpiyat gümüş madalyası ile bronz madalyası kazananlar arasındaki farka
+Implicit	Expansion.Instantiation	örneğin	Bunun en etkili örneklerinden biri, yarışmadan sonra Olimpiyat gümüş madalyası ile bronz madalyası kazananlar arasındaki farka baktığımızda görülür	Thomas Gilovich ve Cornell'den ekibi bu farkı araştırmış ve gümüş madalya alanların, dördüncü olmayıp hiç madalya almamaları söz konusu olmadığı için tipik olarak daha mutlu olan bronz kazananlarla karşılaştırıldığında hissettikleri öfkenin, gümüş madalya kazananlara bir sonraki yarışmada bir odak noktası verdiğini bulmuştur
+Explicit	Expansion.Conjunction	ve	Thomas Gilovich ve Cornell'den ekibi bu farkı araştırmış	gümüş madalya alanların, dördüncü olmayıp hiç madalya almamaları söz konusu olmadığı için tipik olarak daha mutlu olan bronz kazananlarla karşılaştırıldığında hissettikleri öfkenin, gümüş madalya kazananlara bir sonraki yarışmada bir odak noktası verdiğini bulmuştur
+Implicit	Contingency.Cause.Result	sonuçta	Thomas Gilovich ve Cornell'den ekibi bu farkı araştırmış	ve gümüş madalya alanların, dördüncü olmayıp hiç madalya almamaları söz konusu olmadığı için tipik olarak daha mutlu olan bronz kazananlarla karşılaştırıldığında hissettikleri öfkenin, gümüş madalya kazananlara bir sonraki yarışmada bir odak noktası verdiğini bulmuştur
+Implicit	Contingency.Cause.Result	sonuçta		dördüncü olmayıp
+Explicit	Expansion.Conjunction	olmayıp		dördüncü olmayıp
+Explicit	Contingency.Cause.Reason	için	tipik olarak daha mutlu olan bronz kazananlarla karşılaştırıldığında hissettikleri öfkenin, gümüş madalya kazananlara bir sonraki yarışmada bir odak noktası verdiğini	dördüncü olmayıp hiç madalya almamaları söz konusu olmadığı
+Explicit	Temporal.Synchronous	karşılaştırıldığında	hissettikleri öfkenin, gümüş madalya kazananlara bir sonraki yarışmada bir odak noktası verdiğini	daha mutlu olan bronz kazananlarla karşılaştırıldığında
+Explicit	Expansion.Conjunction	alıp	neredeyse kazanma oranı ortalamadan daha yüksek olan kazı kazan biletleri yarattılar	bu neredeyse kazanma olgusunu bir zamanlar alıp
+Explicit	Expansion.Conjunction	ve	neredeyse kazanma oranı ortalamadan daha yüksek olan kazı kazan biletleri yarattılar	insanlar daha fazla bilet almak için öylesine istekliydi
+Implicit	Contingency.Cause.Result	sonuçta	neredeyse kazanma oranı ortalamadan daha yüksek olan kazı kazan biletleri yarattılar	ve insanlar daha fazla bilet almak için öylesine istekliydi
+Explicit	Contingency.Purpose.Arg2-as-goal	için	öylesine istekliydi	insanlar daha fazla bilet almak
+Explicit	Expansion.Level-of-detail.Arg2-as-detail	ki	bunlara yürek durduran dendi	ve insanlar daha fazla bilet almak için öylesine istekliydi
+Explicit	Expansion.Conjunction	ve	bunlara yürek durduran dendi	1970'lerde Britanya'da kumar endüstrisinin bir dizi suistimali ile körüklendi
+AltLex	Contingency.Cause	nedeni	olaya bakışımızı değiştirmesi ve uzağa koymaya meyilli olduğumuz hedeflerimizi bulunduğumuz daha yakın bir yere koymasıdır	Neredeyse kazanmanın itici gücü olmasının
+Explicit	Expansion.Conjunction	ve	olaya bakışımızı değiştirmesi	uzağa koymaya meyilli olduğumuz hedeflerimizi bulunduğumuz daha yakın bir yere koymasıdır
+Implicit	Expansion.Instantiation	mesela	Neredeyse kazanmanın itici gücü olmasının nedeni, olaya bakışımızı değiştirmesi ve uzağa koymaya meyilli olduğumuz hedeflerimizi bulunduğumuz daha yakın bir yere koymasıdır	Gelecek hafta harika bir günün neye benzediğini düşünmenizi istesem, bunu daha genel ifadelerle anlatabilirsiniz
+Explicit	Contingency.Condition.Arg2-as-cond	istesem	bunu daha genel ifadelerle anlatabilirsiniz	Gelecek hafta harika bir günün neye benzediğini düşünmenizi istesem
+Explicit	Comparison.Contrast	Ama	Gelecek hafta harika bir günün neye benzediğini düşünmenizi istesem, bunu daha genel ifadelerle anlatabilirsiniz	yarın TED'de harika bir günü anlatmanızı istesem, bunu tane tane, gerçekçi bir netlikte anlatabilirsiniz
+Explicit	Contingency.Condition.Arg2-as-cond	istesem	bunu tane tane, gerçekçi bir netlikte anlatabilirsiniz	TED'de harika bir günü anlatmanızı istesem
+Implicit	Expansion.Conjunction	ve	yarın TED'de harika bir günü anlatmanızı istesem, bunu tane tane, gerçekçi bir netlikte anlatabilirsiniz	Neredeyse kazanma işte bunu yapar
+AltLex	Expansion.Level-of-detail.Arg1-as-detail	işte	yarın TED'de harika bir günü anlatmanızı istesem, bunu tane tane, gerçekçi bir netlikte anlatabilirsiniz	
+Implicit	Expansion.Level-of-detail.Arg2-as-detail	bir başka deyişle	Neredeyse kazanma işte bunu yapar	Görüş alanımız içinde olan o dağı ele almak için şu an ne yapmayı planladığımıza odaklanmamızı sağlar
+Explicit	Contingency.Purpose.Arg2-as-goal	için	şu an ne yapmayı planladığımıza odaklanmamızı sağlar	Görüş alanımız içinde olan o dağı ele almak
+Explicit	Expansion.Conjunction	ve	altını saniyenin üçte biri ile kaçırmıştı	kocası bunun bir sonraki yarışmada ona ihtiyacı olan kararlılığı vereceğini öngörmüştü
+Implicit	Contingency.Cause+Belief.Reason+Belief	sonra	heptatlonda altını saniyenin üçte biri ile kaçırmıştı	ve kocası bunun bir sonraki yarışmada ona ihtiyacı olan kararlılığı vereceğini öngörmüştü
+Implicit	Temporal.Asynchronous.Precedence	sonra	kocası bunun bir sonraki yarışmada ona ihtiyacı olan kararlılığı vereceğini öngörmüştü	1988'de heptatlonda altını kazandı ve 7.921 puanla rekor kırdı, ki bu o zamandan beri hiçbir sporcunun yaklaşmadığı bir skor
+Explicit	Expansion.Conjunction	ve	heptatlonda altını kazandı	7.921 puanla rekor kırdı
+Explicit	Contingency.Condition.Arg2-as-cond	yaptığımızda	gelişmeyiz	Her şeyi
+Explicit	Expansion.Substitution.Arg2-as-subst	aksine	Her şeyi yaptığımızda gelişmeyiz	daha yapacak şeyler olduğunda
+Explicit	Expansion.Conjunction	ve	düşünüyor	merak ediyorum
+Explicit	Contingency.Cause+Belief.Reason+Belief	Çünkü	merak ediyorum	bence biraz içgüdüsel seviyede bunu biliyoruz
+Implicit	Expansion.Level-of-detail.Arg1-as-detail	bir başka deyişle	bence biraz içgüdüsel seviyede bunu biliyoruz	Öncüsü olduğumuz yerde kaldığımızda başarılı olduğumuzu biliyoruz
+AltLex	Contingency.Cause.Result	Bu yüzden	Öncüsü olduğumuz yerde kaldığımızda başarılı olduğumuzu biliyoruz	kasti eksiklikler yaratılış efsaneleri içine yerleştirilmiştir
+Implicit	Expansion.Instantiation	örneğin	kasti eksiklikler yaratılış efsaneleri içine yerleştirilmiştir	Navaho kültüründe, bazı erkek ve kadın sanatçılar tekstil ve seramikler içine bilerek kusur koyarlar
+Explicit	Contingency.Purpose.Arg2-as-goal	için	desende kasti bir kusur	dokumacı veya yapana bir çıkış yolu vermek
+Explicit	Expansion.Conjunction	aynı zamanda da	dokumacı veya yapana bir çıkış yolu vermek için	iş yapmasına devam etmesi için
+Explicit	Contingency.Purpose.Arg2-as-goal	için	bir sebep olarak desende kasti bir kusur	dokumacı veya yapana bir çıkış yolu vermek için, aynı zamanda da iş yapmasına devam etmesi
+Implicit	Contingency.Cause.Reason	çünkü	Buna ruh çizgisi adı verilir, dokumacı veya yapana bir çıkış yolu vermek için, aynı zamanda da iş yapmasına devam etmesi için bir sebep olarak desende kasti bir kusur	Ustalar bir konuyu kavramsal sona getirdikleri için uzman değillerdir
+Explicit	Contingency.Cause+Belief.Reason+Belief (Arg2-gives-evidence)	için	uzman değillerdir	Ustalar bir konuyu kavramsal sona getirdikleri
+Implicit	Expansion.Substitution.Arg2-as-subst	aslında	Ustalar bir konuyu kavramsal sona getirdikleri için uzman değillerdir	Ustalardır çünkü bunun olmadığını fark ederler
+Explicit	Contingency.Cause.Reason	çünkü	Ustalardır	bunun olmadığını fark ederler
+Explicit	Temporal.Synchronous	düşününce	neden okçuluk koçunun idmanın sonunda bana okçularının işitmeyeceği mesafeden, onun ve meslektaşlarının ekipleri için ne yapsalar yetmeyeceğini düşündüklerini, kazanmak üzere olmak konusunu aşmalarına yardımcı olması için yeterli gözünde canlandırma tekniği ve duruş eğitimi olmadığını söylediğini anlıyorum	Bunun hakkında düşününce
+Explicit	Contingency.Purpose.Arg2-as-goal	için	yeterli gözünde canlandırma tekniği ve duruş eğitimi olmadığını	kazanmak üzere olmak konusunu aşmalarına yardımcı olması
+Explicit	Expansion.Level-of-detail.Arg2-as-detail	Aslında	Bunun hakkında düşününce, neden okçuluk koçunun idmanın sonunda bana okçularının işitmeyeceği mesafeden, onun ve meslektaşlarının ekipleri için ne yapsalar yetmeyeceğini düşündüklerini, kazanmak üzere olmak konusunu aşmalarına yardımcı olması için yeterli gözünde canlandırma tekniği ve duruş eğitimi olmadığını söylediğini anlıyorum	tam olarak şikâyet gibi gelmedi bu,
+Explicit	Expansion.Substitution.Arg1-as-subst	sadece	tam olarak şikâyet gibi gelmedi bu	bana yaptığı naif bir itiraf gibiydi
+AltLex	Contingency.Cause.Reason	içindi	kendisini hep daha fazlasını talep eden doymak bilmez, bitmeyen bir yola adadığını bildiğini	bana hatırlatmak içindi
+Explicit	Contingency.Cause.Reason	içindi	kendisini hep daha fazlasını talep eden doymak bilmez, bitmeyen bir yola adadığını bildiğini	bana hatırlatmak
+Explicit	Contingency.Condition.Arg2-as-cond	olsa bile	Bitmemiş bir fikir üzerine inşa ederiz	bu fikir eski hâlimiz olsa bile
+Implicit	Expansion.Conjunction	ve	Bitmemiş bir fikir üzerine inşa ederiz, bu fikir eski hâlimiz olsa bile	Bu ustalığın dinamiğidir
+Implicit	Expansion.Level-of-detail.Arg2-as-detail	ayrıca	Bu ustalığın dinamiğidir	İstediğinizi düşündüğünüz şeye yaklaşmak, yapmayı hayal ettiğinizden daha fazlasına ulaşmanıza yardımcı olabilir
+Explicit	Temporal.Synchronous	gülümserken	Elizabeth Murray'in ne düşündüğünü anlamam için gereken şey bu	Bir gün galeride o ilk resimlerine gülümserken onu gördüğümde
+Explicit	Temporal.Synchronous	gördüğümde	Elizabeth Murray'in ne düşündüğünü anlamam	ilk resimlerine gülümserken onu
+Explicit	Contingency.Purpose.Arg2-as-goal	için	gereken şey bu	Elizabeth Murray'in ne düşündüğünü anlamam
+Explicit	Contingency.Negative-condition.Arg2-as-negcond	olsaydık bile	bence hâlâ bitmemişlere sahip olurduk	Ütopyalar yaratmış olsaydık bile
+Explicit	Comparison.Concession.Arg2-as-denier	ama	Tamamlamak bir amaçtır	onun hiçbir zaman son olmadığını ümit ederiz

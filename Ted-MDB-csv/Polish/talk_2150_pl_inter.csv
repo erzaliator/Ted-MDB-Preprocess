@@ -1,0 +1,17 @@
+rel_type	rel_sense	conn_text	arg1_text	arg2_text
+Implicit	Temporal.Synchronous	jednocześnie z	"Słysząc termin ""odwzorowanie miasta"	myślimy o ulicach i budynkach, czynnikach wpływających na ich stworzenie albo o śmiałej wizji miejskiego architekta
+Implicit	Comparison.Contrast	a	Każda kropka reprezentuje pojedynczą osobę	każda linia to związek pomiędzy tymi ludźmi
+Explicit	Comparison.Contrast	a	każda linia to związek pomiędzy tymi ludźmi	każdy kolor przedstawia wspólnotę w ramach tej sieci
+Explicit	Expansion.Conjunction	i	Ja jestem na zielono, po prawej, z innymi okularnikami	TEDx też jest tutaj po prawej
+Explicit	Contingency.Condition.Arg2-as-cond	Aby	zieloną część mapy nazwiemy Smalltimore, ponieważ dla tych, którzy ją zamieszkują, jest jak wioska	pokazać sens mapy
+Explicit	Contingency.Cause.Reason	ponieważ	Aby pokazać sens mapy, zieloną część mapy nazwiemy Smalltimore	dla tych, którzy ją zamieszkują, jest jak wioska
+Implicit	Expansion.Level-of-detail.Arg2-as-detail	i (and)	Spotykamy ciągle tych samych ludzi	tak naprawdę nie odkrywamy miasta w całej jego rozciągłości
+Explicit	Expansion.Level-of-detail.Arg2-as-detail	a	Pomiędzy nimi znajdziemy jednak coś, co łączy dwie różne społeczności	jest to sport
+Implicit	Expansion.Instantiation	i w efekcie	napięcia panujące w San Francisco w związku z gentryfikacją i nowymi firmami gwarantującymi bogactwo i przebudowę miasta są prawdziwe	widać je na tej mapie
+Implicit	Expansion.Manner.Arg2-as-manner	w taki sposób, że 	Można spróbować to zrozumieć	analizując naszą mapę
+Implicit	Expansion.Manner.Arg2-as-manner	w taki sposób, że 	Spędziłem kilka tygodni	zbierając dane o tym mieście
+Explicit	Expansion.Conjunction	i	Spędziłem kilka tygodni, zbierając dane o tym mieście	szczególnie uderzyło mnie to, że wszystko jest tu pomieszane
+Explicit	Contingency.Cause.Result	więc	Jest to coś, co wybieramy	możemy wybrać inaczej
+Explicit	Expansion.Conjunction	i	nasze badanie jest jak patrzenie przez teleskop na ogromną szkolną stołówkę	określanie, kto z kim siedzi
+Explicit	Expansion.Conjunction	i	Możemy zmienić strukturę naszych miast	wierzę, że skoro mamy takie możliwości, jest to wręcz nasz obowiązek
+Explicit	Contingency.Condition.Arg2-as-cond	skoro	jest to wręcz nasz obowiązek	mamy takie możliwości

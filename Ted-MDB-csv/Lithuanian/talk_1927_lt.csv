@@ -1,0 +1,180 @@
+rel_type	rel_sense	conn_text	arg1_text	arg2_text
+Explicit	Expansion.Conjunction	ir	﻿Pasaulis keičiasi keliais esmingais būdais	man rūpi
+Explicit	Contingency.Condition.Arg2-as-cond	ar	 man rūp	ar investuotojai skiria pakankamai dėmesio svarbiausioms pokyčių priežastims ypač kalbant apie tvarumą.
+Explicit	Expansion.Level-of-detail.Arg2-as-detail	O	﻿Pasaulis keičiasi keliais esmingais būdais ir man rūpi, ar investuotojai skiria pakankamai dėmesio svarbiausioms pokyčių priežastims ypač kalbant apie tvarumą	tvarumas, mano manymu, yra tokie viliojantys dalykai kaip aplinkosauga, socialiniai klausimai ir įmonių valdymas.
+Implicit	Expansion.Level-of-detail.Arg2-as-detail	be to	O tvarumas, mano manymu, yra tokie viliojantys dalykai kaip aplinkosauga, socialiniai klausimai ir įmonių valdymas	Manau, yra neatsakinga ignoruoti šiuos dalykus, nes taip darydami keliame pavojų ilgalaikei grąžai ateityje
+Explicit	Contingency.Cause.Reason	nes	Manau, yra neatsakinga ignoruoti šiuos dalykus	taip darydami keliame pavojų ilgalaikei grąžai ateityje
+Explicit	Contingency.Cause+SpeechAct.Result+SpeechAct	Tad	Manau, yra neatsakinga ignoruoti šiuos dalykus, nes taip darydami keliame pavojų ilgalaikei grąžai ateityje	pasakysiu kai ką, kas gali jus nustebinti: galios balansas, galintis išties paveikti tvarumą, yra institucinių investuotojų rankose
+Explicit	Expansion.Level-of-detail.Arg2-as-detail	kas	pasakysiu kai ką	gali jus nustebinti
+Explicit	Expansion.Level-of-detail.Arg1-as-detail	kad	Tikiu	tvarus investavimas ne toks komplikuotas
+Explicit	Expansion.Level-of-detail.Arg2-as-detail	kas	Noriu priminti	mums jau žinoma
+Implicit	Expansion.Level-of-detail.Arg2-as-detail	kad	Noriu priminti, kas mums jau žinoma	Mūsų populiacija ir didėja, ir senėja
+Explicit	Temporal	o	šiandien pasaulyje gyvena 7 milijardai sielų	mūsų amžiaus pabaigoje priartėsime prie 10 milijardų
+Explicit	Expansion.Substitution.Arg2-as-subst	nei	gamtos išteklius mes naudojame greičiau	juos galima atkurti
+Explicit	Expansion.Conjunction	o	gamtos išteklius mes naudojame greičiau, nei juos galima atkurti	teršalų išmetimas yra labiausiai kaltas dėl didėjančio klimato atšilimo
+Explicit	Comparison.Contrast	bet	tai aplinkosaugos ir socialiniai klausimai	juk tai dar ne viskas.
+Implicit	Expansion.Conjunction	ir	Žinoma, tai aplinkosaugos ir socialiniai klausimai, bet juk tai dar ne viskas	Tai tai pat ekonominiai klausimai ir todėl jie svarbūs verslo rizikai ir grąžai
+Explicit	Expansion.Conjunction	ir	Tai tai pat ekonominiai klausimai	jie svarbūs verslo rizikai ir grąžai
+Explicit	Contingency.Cause.Result	todėl	Tai tai pat ekonominiai klausimai	jie svarbūs verslo rizikai ir grąžai
+Explicit	Expansion.Conjunction	Ir	Tai tai pat ekonominiai klausimai ir todėl jie svarbūs verslo rizikai ir grąžai	jie tokie sudėtingi
+Explicit	Expansion.Conjunction	ir	jie tokie sudėtingi	gali atrodyti mums tolimi
+Explicit	Contingency.Cause.Result	kad	Ir jie tokie sudėtingi ir gali atrodyti mums tolimi	galime būti linkę daryti štai ką: slėpti galvą smėlyje ir negalvoti apie tai
+Explicit	Contingency.Condition.Arg1-as-cond	Jei	tik galite	priešinkitės tam
+Implicit	Comparison.Contrast	bet	jie tokie sudėtingi ir gali atrodyti mums tolimi, kad galime būti linkę daryti štai ką: slėpti galvą smėlyje ir negalvoti apie tai	Jei tik galite, priešinkitės tam
+Implicit	Comparison.Contrast	bet	Jei tik galite, priešinkitės tam	Nedarykite šito namie
+Explicit	Expansion.Level-of-detail.Arg2-as-detail	ar	tai verčia mane klausti	šiandienos investavimo taisyklės tinkamos ateities tikslams
+Explicit	Expansion.Level-of-detail.Arg2-as-detail	kad	Žinome	investuotojai, žiūrėdami į įmonę ir spręsdami, ar į ją investuoti, įvertina finansinius duomenis, tokius rodiklius kaip pardavimų augimas, pinigų srautai, rinkos dalis, vertės nustatymas – na, tokius gundančius dalykėlius
+Explicit	Expansion.Level-of-detail.Arg2-as-detail	ar	investuotojai, žiūrėdami į įmonę ir spręsdami	į ją investuoti
+Implicit	Comparison.Concession.Arg2-as-denier	nors	Žinome, kad investuotojai, žiūrėdami į įmonę ir spręsdami, ar į ją investuoti, įvertina finansinius duomenis, tokius rodiklius kaip pardavimų augimas, pinigų srautai, rinkos dalis, vertės nustatymas – na, tokius gundančius dalykėlius	Žinoma, visa tai yra labai svarbu, bet nepakankama
+Implicit	Contingency.Cause+Belief.Result+Belief	todėl	Žinoma, visa tai yra labai svarbu, bet nepakankama	Jie turėtų įvertinti ir tuos efektyvumo rodiklius, kuriuos vadiname ASV: aplinkosauga, socialiniai klausimai ir valdymas
+Implicit	Expansion.Conjunction	ir	Aplikosauga apima energijos vartojimą, prieigą prie vandens, atliekų tvarkymą ir taršą ir ekonomišką išteklių naudojimą	Socialinė pusė – žmogiškasis kapitalas, įdarbinimo klausimai ir gebėjimas imtis inovacijų, taip pat tiekimo grandinės valdymas ir darbuotojų teisės bei žmogaus teisės
+Explicit	Expansion.Conjunction	O	Socialinė pusė – žmogiškasis kapitalas, įdarbinimo klausimai ir gebėjimas imtis inovacijų, taip pat tiekimo grandinės valdymas ir darbuotojų teisės bei žmogaus teisės	valdymas – tai įmonių priežiūra vykdoma valdybų ir investuotojų
+Explicit	Contingency.Cause+Belief.Result+Belief	Taigi	Aplikosauga apima energijos vartojimą, prieigą prie vandens, atliekų tvarkymą ir taršą ir ekonomišką išteklių naudojimą. Socialinė pusė – žmogiškasis kapitalas, įdarbinimo klausimai ir gebėjimas imtis inovacijų, taip pat tiekimo grandinės valdymas ir darbuotojų teisės bei žmogaus teisės. O valdymas – tai įmonių priežiūra vykdoma valdybų ir investuotojų	kaip ir sakiau, tai išties patrauklūs dalykai
+Explicit	Expansion.Conjunction	Bet	kaip ir sakiau, tai išties patrauklūs dalykai	ASV – tai tvarumo matas
+Explicit	Expansion.Conjunction	o	ASV – tai tvarumo matas	tvarus investavimas atsižvelgia į ASV faktorius ir finansinius faktorius investavimo procese
+Implicit	Expansion.Level-of-detail.Arg2-as-detail	taigi	tvarus investavimas atsižvelgia į ASV faktorius ir finansinius faktorius investavimo procese	Tai reiškia riboti riziką ateityje mažinant žalą žmonėms ir planetai, ir tai reiškia kapitalo teikimą naudotojams, kurie juo naudojasi siekdami produktyvių ir tvarių rezultatų
+Explicit	Expansion.Conjunction	ir	Tai reiškia riboti riziką ateityje mažinant žalą žmonėms ir planetai	tai reiškia kapitalo teikimą naudotojams, kurie juo naudojasi siekdami produktyvių ir tvarių rezultatų
+Explicit	Contingency.Cause.Result	Taigi	Tai reiškia riboti riziką ateityje mažinant žalą žmonėms ir planetai, ir tai reiškia kapitalo teikimą naudotojams, kurie juo naudojasi siekdami produktyvių ir tvarių rezultatų	jeigu tvarumas svarbus finansiniu požiūriu šiandien, o visi požymiai rodo, kad ateityje jo svarba didės, klausiu
+Explicit	Contingency.Condition.Arg1-as-cond	jeigu	tvarumas svarbus finansiniu požiūriu šiandien	klausiu
+Explicit	Expansion.Conjunction	o	tvarumas svarbus finansiniu požiūriu šiandien	visi požymiai rodo, kad ateityje jo svarba didės
+Explicit	Expansion.Level-of-detail.Arg2-as-detail	kad	visi požymiai rodo	ateityje jo svarba didės
+Explicit	Expansion.Level-of-detail.Arg2-as-detail	ar	Reikia pripažinti, kad šaunu, jog dauguma vadovų išties tai daro	privatusis sektorius į tai atsižvelgia
+Explicit	Contingency.Cause+Belief.Result+Belief	kad	Reikia pripažinti	šaunu
+Explicit	Contingency.Cause.Reason	jog	šaunu	dauguma vadovų išties tai daro
+Implicit	Contingency.Cause.Reason	nes	Reikia pripažinti, kad šaunu, jog dauguma vadovų išties tai daro	Jie ėmė matyti tvarumą ne tik kaip svarbų, bet kaip lemiantį verslo sėkmę
+Implicit	Expansion.Instantiation	pavyzdžiui	Jie ėmė matyti tvarumą ne tik kaip svarbų, bet kaip lemiantį verslo sėkmę	Apie 80 procentų globalių vadovų mano, kad tvarumas yra inovacijų augimo pagrindas ir veiksnys, teikiantis konkurencinio pranašumojų įmonės veiklos srityje
+Explicit	Expansion.Level-of-detail.Arg2-as-detail	kad	Apie 80 procentų globalių vadovų mano	tvarumas yra inovacijų augimo pagrindas ir veiksnys, teikiantis konkurencinio pranašumojų įmonės veiklos srityje
+Explicit	Expansion.Conjunction	Bet	Apie 80 procentų globalių vadovų mano, kad tvarumas yra inovacijų augimo pagrindas ir veiksnys, teikiantis konkurencinio pranašumojų įmonės veiklos srityje	93 procentai vadovų mano, kad ASV yra jų ateitis
+Explicit	Contingency.Cause.Result	Tad	Bet 93 procentai vadovų mano, kad ASV yra jų ateitis, ar bent jau svarbus jų verslo ateities veiksnys	įmonių vadovų požiūriai aiškūs
+Explicit	Contingency.Cause.Result	Tad	Tvarumas teikia begalinių galimybių	kaipgi iš tiesų įmonės pasitelkia ASV siekdamos tvirtų rezultatų
+Explicit	Expansion.Manner.Arg2-as-manner	kaipgi	Vienas pavyzdys mums labai artimas ir svarbus	iš tiesų įmonės pasitelkia ASV siekdamos tvirtų rezultatų
+Implicit	Expansion.Instantiation	pavyzdžiui	Vienas pavyzdys mums labai artimas ir svarbus	2012 m. įmonė „State Street“ perkėlė 54 paraiškas į debesijos aplinką
+Explicit	Comparison.Contrast	o	2012 m. įmonė „State Street“ perkėlė 54 paraiškas į debesijos aplinką	mes perkėlėme dar 85
+Implicit	Expansion.Level-of-detail.Arg2-as-detail	be to	2012 m. įmonė „State Street“ perkėlė 54 paraiškas į debesijos aplinką, o mes perkėlėme dar 85	Mes virtualizavome savo operacinių sistemų aplinkas ir įvykdėme daugybę automatizavimo projektų
+Explicit	Contingency.Cause.Result	To rezultatai	Mes virtualizavome savo operacinių sistemų aplinkas ir įvykdėme daugybę automatizavimo projektų	šiandien – mobilesnės darbo vietos, mažinančios mūsų nekilnojamojo turto pėdsaką, o tai leidžia sutaupyti 23 milijonus dolerių kasmetinių veiklos išlaidų ir sumažinti anglies dioksido išmetimą 100 000 metrinių tonų
+Explicit	Contingency.Cause.Result	o	To rezultatai šiandien – mobilesnės darbo vietos, mažinančios mūsų nekilnojamojo turto pėdsaką	tai leidžia sutaupyti 23 milijonus dolerių kasmetinių veiklos išlaidų ir sumažinti anglies dioksido išmetimą 100 000 metrinių tonų
+Implicit	Expansion.Restatement.Specification	ir	tai leidžia sutaupyti 23 milijonus dolerių kasmetinių veiklos išlaidų ir sumažinti anglies dioksido išmetimą 100 000 metrinių tonų	Tai prilygsta 21 000 mažiau automobilių mūsų keliuose
+Explicit	Contingency.Cause.Result	Argi	Tai prilygsta 21 000 mažiau automobilių mūsų keliuose	ne puiku
+Implicit	Expansion.Restatement.Specification	faktiskai	Kitas pavyzdys – „Pentair“	Tai JAV pramonės konglomeratas, kuris maždaug prieš dešimtmetį pardavė savo svarbiausią elektrinių įrankių verslą ir reinvestavo savo pajamasį vandens verslą
+Implicit	Contingency.Cause.Result	taigi	Tai JAV pramonės konglomeratas, kuris maždaug prieš dešimtmetį pardavė savo svarbiausią elektrinių įrankių verslą ir reinvestavo savo pajamasį vandens verslą	Ant kortos buvo pastatyta labai daug
+Explicit	Contingency.Cause.Reason	Kodėl	Ant kortos buvo pastatyta labai daug	jie taip padarė
+AltLex	Hypophora	Kodėl	vandens verslas žada didesnį augimą nei elektros įrankiai	jie taip padarė
+Explicit	Contingency.Cause.Result	Na	Kodėl jie taip padarė	pirmiausia atsiprašysiu „Home Improvement“ gerbėjų
+Explicit	Contingency.Cause.Reason	bet	pirmiausia atsiprašysiu „Home Improvement“ gerbėjų	vandens verslas žada didesnį augimą nei elektros įrankiai
+Explicit	Expansion.Conjunction	o	vandens verslas žada didesnį augimą nei elektros įrankiai	ši įmonė nusitaikė į tai, ką jie vadina „nauju Naujuoju Pasauliu“
+Explicit	Expansion.Level-of-detail.Arg2-as-detail	ką	ši įmonė nusitaikė į tai	jie vadina „nauju Naujuoju Pasauliu“
+Implicit	Expansion.Level-of-detail.Arg2-as-detail	trumpai tariant	jie vadina „nauju Naujuoju Pasauliu	Tai 4 milijardai viduriniosios klasės žmonių, kuriems reikia maisto, energijosir vandens
+Explicit	Expansion.Level-of-detail.Arg2-as-detail	gal	Dabar jūs tubūt klausiate savęs	tai tik pavieniai atvejai
+Explicit	Comparison.Concession.Arg2-as-denier	Na gi	tai tik pavieniai atvejai	ar tikrai
+Explicit	Expansion.Conjunction	Ar	ar tikrai	įmonės, atsižvelgiančios į tvarumą, išties finansiškai sėkmingos
+AltLex	Hypophora	Ar	Jus galintis nustebinti atsakymasyra „taip“	įmonės, atsižvelgiančios į tvarumą, išties finansiškai sėkmingos
+Implicit	Expansion.Level-of-detail.Arg2-as-detail	iš tiesų	Jus galintis nustebinti atsakymasyra „taip“	Duomenys rodo, kad akcijos, kurių geresni ASV rodikliai, veikia taip pat gerai kaip ir kitos
+Explicit	Expansion.Level-of-detail.Arg2-as-detail	kad	Duomenys rodo	akcijos, kurių geresni ASV rodikliai, veikia taip pat gerai kaip ir kitos
+Implicit	Comparison.Contrast	o	Tai didelių įmonių iš išsivysčiusių pasaulio rinkų rodiklis	Auksine spalva pažymėtas pogrupis įmonių, turinčių geriausius ASV rodiklius
+Implicit	Expansion.Conjunction	ir	Auksine spalva pažymėtas pogrupis įmonių, turinčių geriausius ASV rodiklius	Jau virš trejų metų – jokių veiklos kompromisų
+Implicit	Contingency.Cause+SpeechAct.Result+SpeechAct	taigi	Jau virš trejų metų – jokių veiklos kompromisų	Nebogai, tiesa
+Explicit	Comparison.Concession.Arg2-as-denier	Bet	Nebogai, tiesa	mes norim daugiau
+Implicit	Expansion.Conjunction	ir	mes norim daugiau	Aš noriu daugiau
+Explicit	Comparison.Contrast	O	Aš noriu daugiau	kartais tokios įmonės netgi pirmauja, nes atsižvelgia į ASV
+Explicit	Contingency.Cause.Reason	nes	kartais tokios įmonės netgi pirmauja	atsižvelgia į ASV
+Implicit	Expansion.Instantiation	pavyzdžiui	kartais tokios įmonės netgi pirmauja, nes atsižvelgia į ASV	Mėlyna spalva rodo 500 didžiausių globalių kompanijų veiklos efektyvumą, o auksine spalva pažymėtas pogrupis kompanijų kurių praktika klimato kaitos srityje ir rizikos valdyme geriausia
+Explicit	Comparison.Contrast	o	Mėlyna spalva rodo 500 didžiausių globalių kompanijų veiklos efektyvumą	auksine spalva pažymėtas pogrupis kompanijų kurių praktika klimato kaitos srityje ir rizikos valdyme geriausia
+Explicit	Expansion.Level-of-detail.Arg2-as-detail	Dabar	Mėlyna spalva rodo 500 didžiausių globalių kompanijų veiklos efektyvumą, o auksine spalva pažymėtas pogrupis kompanijų kurių praktika klimato kaitos srityje ir rizikos valdyme geriausia	per aštuonerius metus, jos ėmė pirmauti beveik dviem trečdaliais
+Explicit	Contingency.Cause+SpeechAct.Result+SpeechAct	Tad taip	per aštuonerius metus, jos ėmė pirmauti beveik dviem trečdaliais.	tai koreliacija
+Implicit	Expansion.Substitution.Arg1-as-subst	negu	tai koreliacija	Ne priežastinis ryšys
+Explicit	Expansion.Level-of-detail.Arg2-as-detail	Bet	Ne priežastinis ryšys	tai tik rodo, kad aplinkosaugą laikant prioritetu įmanoma pasiekti geros grąžos
+Explicit	Expansion.Level-of-detail.Arg2-as-detail	kad	tai tik rodo	aplinkosaugą laikant prioritetu įmanoma pasiekti geros grąžos
+Explicit	Contingency.Cause+SpeechAct.Result+SpeechAct	Tad	tai tik rodo, kad aplinkosaugą laikant prioritetu įmanoma pasiekti geros grąžos	jeigu grąža yra tokia pat ar geresnė, o dar ir planetai nuo to geriau, ar tai neturėtų būti norma
+Explicit	Contingency.Condition+SpeechAct	jeigu	tai neturėtų būti norma	grąža yra tokia pat ar geresnė
+Explicit	Expansion.Conjunction	o	grąža yra tokia pat ar geresnė	dar ir planetai nuo to geriau
+Explicit	Expansion.Level-of-detail.Arg1-as-detail	Ar	Kai kurie – taip, o kai kurie išties pirmauja šioje srityje	investuotojai, ypač instituciniai investuotojai, į tai įsitraukia
+Implicit	Expansion.Conjunction	ir	Tad jeigu grąža yra tokia pat ar geresnė, o dar ir planetai nuo to geriau, ar tai neturėtų būti norma	Ar investuotojai, ypač instituciniai investuotojai, į tai įsitraukia
+Explicit	Expansion.Conjunction	o	Kai kurie – taip	kai kurie išties pirmauja šioje srityje
+Implicit	Expansion.Instantiation	pavyzdžiui	Kai kurie – taip, o kai kurie išties pirmauja šioje srityje	Hesta
+Implicit	Expansion.Level-of-detail.Arg2-as-detail	tiesa sakant	Hesta	Hesta“ yra Australijos sveikatos ir benduomenės srities darbuotojų pensijų fondas, kurio vertė 22 milijardai [dolerių].
+Implicit	Expansion.Conjunction	ir	„Hesta“ yra Australijos sveikatos ir benduomenės srities darbuotojų pensijų fondas, kurio vertė 22 milijardai [dolerių	Jie mano, kad ASV gali paveikti rizikas ir grąžą
+Explicit	Expansion.Level-of-detail.Arg2-as-detail	kad	Jie mano	ASV gali paveikti rizikas ir grąžą
+Explicit	Contingency.Cause.Result	todėl	Jie mano, kad ASV gali paveikti rizikas ir grąžą	jo įtraukimas į investicinius procesusyra esmė jų pareigos siekti didžiausios naudossavo nariam
+Implicit	Expansion.Level-of-detail.Arg1-as-detail	trumpai	jo įtraukimas į investicinius procesusyra esmė jų pareigos siekti didžiausios naudossavo nariams	jų pareigos esmė
+Implicit	Contingency.Cause+SpeechAct.Result+SpeechAct	taigi	Jie mano, kad ASV gali paveikti rizikas ir grąžą, todėl jo įtraukimas į investicinius procesusyra esmė jų pareigos siekti didžiausios naudossavo nariams, jų pareigos esmė	Kaipgi nemylėsi mielųjų austalų, tiesa
+Implicit	Expansion.Level-of-detail.Arg2-as-detail	iš tiesų	Kitas pavayzdyz – „CalPERS	Tai Kalifornijos valdininkų pensijų fondas, kurio vertė 244 milijardai [dolerių], tai antras pagal dydį JAV pensijų fondas ir šeštas pagal dydį pasaulyje
+Implicit	Expansion.Conjunction	ir	Tai Kalifornijos valdininkų pensijų fondas, kurio vertė 244 milijardai [dolerių	tai antras pagal dydį JAV pensijų fondas ir šeštas pagal dydį pasaulyje
+Implicit	Expansion.Conjunction	ir	Tai Kalifornijos valdininkų pensijų fondas, kurio vertė 244 milijardai [dolerių], tai antras pagal dydį JAV pensijų fondas ir šeštas pagal dydį pasaulyje	Jie artėja prie 100 procentų tvaraus investavimo, sistemingai integravę ASV visose fondo veiklose
+Implicit	Expansion.Manner.Arg2-as-manner	kaip	Jie artėja prie 100 procentų tvaraus investavimo	sistemingai integravę ASV visose fondo veiklose
+Explicit	Contingency.Cause.Reason	 Kodė	Jie artėja prie 100 procentų tvaraus investavimo, sistemingai integravę ASV visose fondo veiklos	 Kodė
+Explicit	Contingency.Cause.Reason	Nes	Kodėl	jie mano, kad tai lemia geriausią ilgalaikę grąžą, ne mažiau
+Implicit	Expansion.Level-of-detail.Arg2-as-detail	ir	Nes jie mano, kad tai lemia geriausią ilgalaikę grąžą, ne mažiau	Jie teigia: „Ilgalaikės vertės kūrimuireikia efektyviai valdyti tris kapitalo formas: finansinį, žmogiškąjį ir fizinį
+Explicit	Contingency.Cause+Belief.Reason+Belief	Todėl	Ilgalaikės vertės kūrimuireikia efektyviai valdyti tris kapitalo formas: finansinį, žmogiškąjį ir fizinį.	mums ir rūpi ASV
+Implicit	Expansion.Conjunction	ir	Todėl mums ir rūpi ASV	Mano darbas iš dalies yra kalbėtis su nemažai investuotojų
+Explicit	Comparison.Concession.Arg2-as-denier	ir	Mano darbas iš dalies yra kalbėtis su nemažai investuotojų	ne visi tą patį galvoja apie tai
+Implicit	Expansion.Instantiation	pavyzdžiui	Mano darbas iš dalies yra kalbėtis su nemažai investuotojų ir ne visi tą patį galvoja apie tai	Neretai išgirstu: „Iš mūsų reikalaujama maksimizuoti grąžą, todėl čia mes tuo neužsiimame
+Implicit	Expansion.Level-of-detail.Arg2-as-detail	konkrečiai	Neretai išgirstu	Iš mūsų reikalaujama maksimizuoti grąžą, todėl čia mes tuo neužsiimame
+Explicit	Contingency.Cause.Result	todėl	Iš mūsų reikalaujama maksimizuoti grąžą	čia mes tuo neužsiimame
+Explicit	Expansion.Disjunction	Arba	Iš mūsų reikalaujama maksimizuoti grąžą, todėl čia mes tuo neužsiimame	Nenorim naudoti portfelio, savo strategijai skelbti
+Explicit	Comparison.Contrast	O	Nenorim naudoti portfelio, savo strategijai skelbti	labiausiai mane erzina toks atsakymas
+Explicit	Contingency.Condition.Arg2-as-cond	Jei	užsidirbk pinigų ir aukok pelną labdarai	nori kažkuo prie to prisidėti
+Implicit	Expansion.Level-of-detail.Arg2-as-detail	konkrečiai	O labiausiai mane erzina toks atsakymas	Jei nori kažkuo prie to prisidėti, užsidirbk pinigų ir aukok pelną labdarai
+Implicit	Contingency.Cause+SpeechAct.Result+SpeechAct	todėl	Jei nori kažkuo prie to prisidėti, užsidirbk pinigų ir aukok pelną labdarai	Sunku tuo patikėti, sunku
+Implicit	Expansion.Level-of-detail.Arg2-as-detail	kad	Leiskite kai ką paaiškinti	Kompanijos ir investuotojai nėra vieninteliai atsakingi už planetos likimą
+Implicit	Contingency.Cause.Reason	kadangi	Kompanijos ir investuotojai nėra vieninteliai atsakingi už planetos likimą	Jie neturi beribių socialinių įsipareigojimų, o pamatuotas investavimas ir finansų teorijos nėra pavaldžios tvarumui
+Explicit	Expansion.Conjunction	o	Jie neturi beribių socialinių įsipareigojimų	pamatuotas investavimas ir finansų teorijos nėra pavaldžios tvarumui
+Implicit	Comparison.Concession.Arg2-as-denier	taciau	Jie neturi beribių socialinių įsipareigojimų, o pamatuotas investavimas ir finansų teorijos nėra pavaldžios tvarumui	Šie dalykai yra suderinami
+Implicit	Comparison.Contrast	bet	Šie dalykai yra suderinami	Nekalbu apie kompromisus
+Explicit	Comparison.Concession.Arg2-as-denier	Bet	Nekalbu apie kompromisus	instituciniai investuotojai yra tvarumo „X faktorius
+Explicit	Contingency.Cause+SpeechAct.Reason+SpeechAct	Kodėl	instituciniai investuotojai yra tvarumo „X faktorius	raktas jų rankose
+Explicit	Contingency.Cause+SpeechAct.Reason+SpeechAct	Kodėl	Atsakymas, aišku, paprastas: jie turi pinigų	raktas jų rankose
+Implicit	Expansion.Level-of-detail.Arg2-as-detail	faktiskai	Atsakymas, aišku, paprastas	jie turi pinigų
+Implicit	Expansion.Equivalence	kitaip tariant	jie turi pinigų.	Daug pinigų
+Implicit	Expansion.Equivalence	kitaip	Daug pinigų	Tikrai labai daug
+Implicit	Expansion.Instantiation	pavyzdziui	Tikrai labai daug	Pasaulio akcijų rinka verta 55 trilijonų dolerių
+Implicit	Expansion.Conjunction	dar daugiau	Pasaulio akcijų rinka verta 55 trilijonų dolerių	Pasaulinė obligacijų rinka –78 trilijonų
+Implicit	Contingency.Cause.Result	taigi	Pasaulinė obligacijų rinka –78 trilijonų	Kartu tai – 133 trilijonai
+Implicit	Comparison.Similarity	palyginus	Kartu tai – 133 trilijonai	Tai aštuoni su puse karto daugiau nei JAV BVP
+Explicit	Contingency.Cause.Result	O	Tai aštuoni su puse karto daugiau nei JAV BVP	tai didžiausia pasaulio ekonomika
+Implicit	Expansion.Equivalence	kitaip tariant	tai didžiausia pasaulio ekonomika	Tai velniškai didelis potencialas
+Explicit	Contingency.Cause+SpeechAct.Result+SpeechAct	Tad	Tai velniškai didelis potencialas	pagalvokime dar kartą apie kai kurios šių svarbių iššūkių, pavyzdžiui, šviežią vandenį, švarų orą, maistą 10 milijardų burnų
+Explicit	Contingency.Condition.Arg2-as-cond	jei tik	pagalvokime dar kartą apie kai kurios šių svarbių iššūkių, pavyzdžiui, šviežią vandenį, švarų orą, maistą 10 milijardų burnų	instituciniai investuotojai integruotų ASV į savo investavimą
+Implicit	Expansion.Level-of-detail.Arg2-as-detail	taigi	Tad pagalvokime dar kartą apie kai kurios šių svarbių iššūkių, pavyzdžiui, šviežią vandenį, švarų orą, maistą 10 milijardų burnų, jei tik instituciniai investuotojai integruotų ASV į savo investavimą	Kas būtų, jei jie panaudotų šį potencialą skirti daugiau kapitalo kompanijoms, kurios daugiausiai prisideda sprendžiant šiuos iššūkius ar bent jau siekiant, kad jie nedidėtų
+Explicit	Contingency.Condition.Arg2-as-cond	jei	Kas būtų	jie panaudotų šį potencialą skirti daugiau kapitalo kompanijoms, kurios daugiausiai prisideda sprendžiant šiuos iššūkius ar bent jau siekiant, kad jie nedidėtų
+Explicit	Expansion.Disjunction	ar	kurios daugiausiai prisideda sprendžiant šiuos iššūkius	ar bent jau siekiant, kad jie nedidėtų
+Explicit	Expansion.Level-of-detail.Arg2-as-detail	kad	siekiant	jie nedidėtų
+Explicit	Comparison.Contrast	O	Kas būtų, jei jie panaudotų šį potencialą skirti daugiau kapitalo kompanijoms, kurios daugiausiai prisideda sprendžiant šiuos iššūkius ar bent jau siekiant, kad jie nedidėtų	kas jeigu mes dirbame, taupome ir investuojametik tam, kad pasaulis, kokį turėsime išėję į pensiją bus dar labiau įsitempęs ir nesaugesnis nei šiandien
+Explicit	Contingency.Condition.Arg2-as-cond	jeigu	pasaulis, kokį turėsime išėję į pensiją bus dar labiau įsitempęs ir nesaugesnis nei šiandien	mes dirbame, taupome ir investuojametik tam
+Explicit	Contingency.Purpose.Arg2-as-goal	kad	mes dirbame, taupome ir investuojametik tam	pasaulis, kokį turėsime išėję į pensiją bus dar labiau įsitempęs ir nesaugesnis nei šiandien
+Implicit	Expansion.Conjunction	ir	O kas jeigu mes dirbame, taupome ir investuojametik tam, kad pasaulis, kokį turėsime išėję į pensiją bus dar labiau įsitempęs ir nesaugesnis nei šiandien	Kas bus, jei trūks švaraus oro ir šviežio vandens
+Implicit	Comparison.Contrast	taciau	Kas bus, jei trūks švaraus oro ir šviežio vandens	Teisinga būtų paklausti ir štai ko: o kas jeigu visa tvarumui kylanti rizika yra perdėta, pernelyg sureikšminta, visai ne aktuali, o tik moralizuojančių vartotojų ar gyvenimo būdo pasirinkimas
+Explicit	Expansion.Level-of-detail.Arg2-as-detail	o	Teisinga būtų paklausti ir štai ko	kas jeigu visa tvarumui kylanti rizika yra perdėta, pernelyg sureikšminta, visai ne aktuali, o tik moralizuojančių vartotojų ar gyvenimo būdo pasirinkimas
+Explicit	Contingency.Condition+SpeechAct	kas	Prezidentas Džonas F. Kenedis pasakė vieną dalyką, kuris puikiausiai tinka mūsų dienoms: „Kiekviena veiksmų programa turi savas rizikas ir kaštus, bet jie daug mažesni, negu ilgalaikės rizikos ir patogaus neveikimo kaštai	jeigu visa tvarumui kylanti rizika yra perdėta, pernelyg sureikšminta, visai ne aktuali, o tik moralizuojančių vartotojų ar gyvenimo būdo pasirinkimas
+Explicit	Contingency.Condition.Arg2-as-cond	jeigu	tik moralizuojančių vartotojų ar gyvenimo būdo pasirinkimas	visa tvarumui kylanti rizika yra perdėta, pernelyg sureikšminta, visai ne aktuali
+Explicit	Expansion.Conjunction	o	kas jeigu visa tvarumui kylanti rizika yra perdėta, pernelyg sureikšminta, visai ne aktuali	tik moralizuojančių vartotojų ar gyvenimo būdo pasirinkimas
+Implicit	Expansion.Level-of-detail.Arg2-as-detail	trumpai tariant	Prezidentas Džonas F. Kenedis pasakė vieną dalyką, kuris puikiausiai tinka mūsų dienoms	Kiekviena veiksmų programa turi savas rizikas ir kaštus, bet jie daug mažesni, negu ilgalaikės rizikos ir patogaus neveikimo kaštai
+Explicit	Comparison.Contrast	bet	Kiekviena veiksmų programa turi savas rizikas ir kaštus	jie daug mažesni, negu ilgalaikės rizikos ir patogaus neveikimo kaštai
+Explicit	Comparison.Contrast	negu	jie daug mažesni	ilgalaikės rizikos ir patogaus neveikimo kaštai
+Implicit	Contingency.Cause+SpeechAct.Result+SpeechAct	taigi	Kiekviena veiksmų programa turi savas rizikas ir kaštus, bet jie daug mažesni, negu ilgalaikės rizikos ir patogaus neveikimo kaštai	Suprantu, kad čia svarbi poveikio įvertinimo rizika
+Explicit	Comparison.Concession.Arg2-as-denier	bet	Suprantu, kad čia svarbi poveikio įvertinimo rizika	kadangi tai paremta dideliu moksliniu konsensusu, tikimybė, kad tai nėra visiška netiesa, didesnė nei tikimybė, kad mūsų namas sudegs ar kad mes pateksime į eismo įvykį
+Explicit	Contingency.Cause.Reason	kadangi	tikimybė, kad tai nėra visiška netiesa, didesnė nei tikimybė, kad mūsų namas sudegs ar kad mes pateksime į eismo įvykį	tai paremta dideliu moksliniu konsensusu
+Explicit	Expansion.Disjunction	ar	mūsų namas sudegs	mes pateksime į eismo įvykį
+Explicit	Expansion.Exception.Arg2-as-excpt	Na	Suprantu, kad čia svarbi poveikio įvertinimo rizika, bet kadangi tai paremta dideliu moksliniu konsensusu, tikimybė, kad tai nėra visiška netiesa, didesnė nei tikimybė, kad mūsų namas sudegs ar kad mes pateksime į eismo įvykį	gal ir ne, jeigu gyvenate Bostone
+Explicit	Contingency.Condition.Arg2-as-cond	jeigu	gal ir ne	gyvenate Bostone
+Explicit	Comparison.Contrast	Bet	Na, gal ir ne, jeigu gyvenate Bostone	aš noriu pasakyti, kad perkame draudimą, kad apsisaugotumėme finansiškai, jei tai kartais nutiktų, tiesa
+Explicit	Expansion.Level-of-detail.Arg2-as-detail	kad	aš noriu pasakyti	perkame draudimą
+Explicit	Contingency.Purpose.Arg2-as-goal	kad	perkame draudimą	apsisaugotumėme finansiškai
+Explicit	Contingency.Condition.Arg2-as-cond	jei	apsisaugotumėme finansiškai	tai kartais nutiktų
+Explicit	Contingency.Cause+SpeechAct.Result+SpeechAct	Tad	Bet aš noriu pasakyti, kad perkame draudimą, kad apsisaugotumėme finansiškai, jei tai kartais nutiktų, tiesa	investuodami tvariai, padarome du dalykus
+Implicit	Contingency.Condition.Arg2-as-cond	kai	padarome du dalykus	investuodami tvariai
+Implicit	Expansion.Level-of-detail.Arg2-as-detail	tai yra	padarome du dalykus	Didiname draudimą, mažiname riziką mūsų planetai ir mūsų ekonomikai ir tuo pačiu trumpalaikėje perspektyvoje veiklos efektyvumas nuo to nenukenčia
+Explicit	Expansion.Conjunction	ir	Didiname draudimą, mažiname riziką mūsų planetai ir mūsų ekonomikai	tuo pačiu trumpalaikėje perspektyvoje veiklos efektyvumas nuo to nenukenčia
+Explicit	Expansion.Conjunction	ir	Gal tai tik apgaulė	veltui kuriame geresnį pasaulį
+Implicit	Contingency.Cause+SpeechAct.Result+SpeechAct	taigi	Gal tai tik apgaulė ir veltui kuriame geresnį pasaulį	Puiku, jums patinka
+Implicit	Expansion.Conjunction	ir	Puiku	jums patinka
+Implicit	Comparison.Similarity	taip pat	Puiku, jums patinka	Man irgi
+Implicit	Expansion.Level-of-detail.Arg2-as-detail	trumpai tariant	Man irgi	Man tai patinka, nes pašiepia abi klimato kaitos stovyklas
+Explicit	Contingency.Cause.Reason	nes	Man tai patinka	pašiepia abi klimato kaitos stovyklas
+Implicit	Comparison.Contrast	bet	Man tai patinka, nes pašiepia abi klimato kaitos stovyklas	Lažinuosi, neatspėsit, kurią pusę palaikau aš
+Implicit	Contingency.Purpose.Arg2-as-goal	kad	Lažinuosi	neatspėsit
+Implicit	Expansion.Level-of-detail.Arg2-as-detail	faktiškai	neatspėsit	kurią pusę palaikau aš
+Explicit	Comparison.Contrast	Bet	Lažinuosi, neatspėsit, kurią pusę palaikau aš	kas man išties čia patinka, yra tai, kas man primena Marką Tveną, pasakiusį: „Planuok ateitį, nes ten tu praleisisavo likusį gyvenimą
+Implicit	Expansion.Level-of-detail.Arg2-as-detail	faktiškai	kas man išties čia patinka	yra tai
+Implicit	Expansion.Level-of-detail.Arg2-as-detail	iš tiesų	yra tai	kas man primena Marką Tveną
+Implicit	Expansion.Level-of-detail.Arg2-as-detail	konkreciai	Bet kas man išties čia patinka, yra tai, kas man primena Marką Tveną, pasakiusį	Planuok ateitį, nes ten tu praleisisavo likusį gyvenimą
+Explicit	Contingency.Cause.Reason	nes	Planuok ateitį	ten tu praleisisavo likusį gyvenimą

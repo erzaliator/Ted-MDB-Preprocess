@@ -1,0 +1,117 @@
+rel_type	rel_sense	conn_text	arg1_text	arg2_text
+Implicit	Expansion.Conjunction	e	O universo está repleto de planetas	Gostaria que , na próxima década , construíssemos um telescópio espacial que conseguisse a imagem de uma Terra na órbita de outra estrela e descobrisse se pode ter vida
+Explicit	Expansion.Conjunction	e	conseguisse a imagem de uma Terra na órbita de outra estrela	descobrisse se pode ter vida
+Implicit	Contingency.Cause.Result	por conseguinte	Gostaria que , na próxima década , construíssemos um telescópio espacial que conseguisse a imagem de uma Terra na órbita de outra estrela e descobrisse se pode ter vida	Eu e os meus colegas no Laboratório de Propulsão a Jacto de_ a NASA , em Princeton , estamos a trabalhar na tecnologia que fará isso mesmo nos próximos anos
+Explicit	Expansion.Conjunction	e	Os astrónomos acreditam que cada estrela de_ a galáxia tem um planeta ,	especulam que até um quinto de_ eles tem um planeta de_ o tipo de_ a Terra que poderá ter vida
+Explicit	Comparison.Concession.Arg2-as-denier	mas	especulam que até um quinto de_ eles tem um planeta de_ o tipo de_ a Terra que poderá ter vida	ainda não vimos nenhum de_ eles
+Implicit	Expansion.Substitution.Arg2-as-subst	pelo contrário	ainda não vimos nenhum de_ eles	Apenas os detectámos indirectamente
+Explicit	Temporal.Synchronous	quando	Foi tirada pela nave Voyager em 1990	a fizeram rodar a_ o sair de_ o sistema solar para tirar uma foto de_ a Terra à distância de seis mil milhões de quilómetros
+Explicit	Temporal.Synchronous	a_ o	a fizeram rodar	sair de_ o sistema solar
+Explicit	Contingency.Purpose.Arg2-as-goal	para	a fizeram rodar a_ o sair de_ o sistema solar	tirar uma foto de_ a Terra à distância de seis mil milhões de quilómetros
+Implicit	Comparison.Similarity	Da mesma forma	Foi tirada pela nave Voyager em 1990 , quando a fizeram rodar a_ o sair de_ o sistema solar para tirar uma foto de_ a Terra à distância de seis mil milhões de quilómetros	Gostaria de ter uma de um planeta de_ o tipo de_ a Terra na órbita de outra estrela
+Implicit	Comparison.Concession.Arg2-as-denier	mas	Gostaria de ter uma de um planeta de_ o tipo de_ a Terra na órbita de outra estrela	Porque ainda não o conseguimos
+Implicit	Expansion.Conjunction	e	Porque ainda não o conseguimos	Porque é tão difícil
+AltLex	Contingency.Cause.Reason	Porque	imaginemos que pegamos no Telescópio Espacial Hubble e o rodamos e o deslocamos para a órbita de Marte . Veríamos algo assim , Uma imagem algo difusa de_ a Terra , porque é um telescópio um pouco pequeno na órbita de Marte . Afastemo -nos dez vezes mais . Aqui estamos na órbita de Urano . Ficou mais pequena , com menos detalhe , menor resolução . Ainda podemos ver a pequena Lua , mas afastemo -nos de novo dez vezes mais , Estamos no limiar de_ o sistema solar , na Cintura de Kuiper . Agora não tem qualquer resolução . É o ponto azul pálido , de Carl Sagan . Mas afastemo -nos de novo mais dez vezes . Aqui estamos na Nuvem de Oort , fora de_ o sistema solar , aqui começamos a ver o Sol a mover -se para o campo de visão e a sobrepor -se a_ o planeta . Mais uma vez , dez vezes mais distantes . Agora estamos na Alfa Centauri , a nossa estrela vizinha mais próxima , e o planeta desapareceu . Tudo o que vemos é a imagem de grandes feixes de_ a estrela que é dez mil milhões de vezes mais brilhante de_ o que o planeta , que deveria estar em_ aquele pequeno círculo vermelho . É o que queremos ver . É por isso que é difícil	é tão difícil
+AltLex	Contingency.Condition.Arg2-as-cond	imaginemos que	Veríamos algo assim , Uma imagem algo difusa de_ a Terra , porque é um telescópio um pouco pequeno na órbita de Marte	pegamos no Telescópio Espacial Hubble e o rodamos e o deslocamos para a órbita de Marte
+Explicit	Expansion.Conjunction	e	pegamos no Telescópio Espacial Hubble	o rodamos
+Implicit	Temporal.Asynchronous.Precedence	depois	pegamos no Telescópio Espacial Hubble	e o rodamos
+Explicit	Expansion.Conjunction	e	o rodamos	o deslocamos para a órbita de Marte
+Implicit	Temporal.Asynchronous.Precedence	depois	o rodamos	e o deslocamos para a órbita de Marte
+Explicit	Contingency.Cause.Reason	porque	Veríamos algo assim , Uma imagem algo difusa de_ a Terra	é um telescópio um pouco pequeno na órbita de Marte
+Implicit	Temporal.Asynchronous.Precedence	a seguir	Veríamos algo assim , Uma imagem algo difusa de_ a Terra , porque é um telescópio um pouco pequeno na órbita de Marte	Afastemo -nos dez vezes mais
+Implicit	Contingency.Cause.Result	assim	Afastemo -nos dez vezes mais	Aqui estamos na órbita de Urano
+Implicit	Comparison.Concession.Arg2-as-denier	no entanto	Ficou mais pequena , com menos detalhe , menor resolução	Ainda podemos ver a pequena Lua
+Explicit	Expansion.Conjunction	mas	Ainda podemos ver a pequena Lua	afastemo -nos de novo dez vezes mais
+Implicit	Contingency.Cause.Result	por conseguinte	Estamos no limiar de_ o sistema solar , na Cintura de Kuiper	Agora não tem qualquer resolução
+Implicit	Expansion.Level-of-detail.Arg2-as-detail	de facto	Agora não tem qualquer resolução	É o ponto azul pálido , de Carl Sagan
+Explicit	Expansion.Conjunction	Mas	É o ponto azul pálido , de Carl Sagan	afastemo -nos de novo mais dez vezes
+Implicit	Contingency.Cause.Result	por conseguinte	afastemo -nos de novo mais dez vezes	Aqui estamos na Nuvem de Oort , fora de_ o sistema solar , aqui começamos a ver o Sol a mover -se para o campo de visão e a sobrepor -se a_ o planeta
+Explicit	Expansion.Conjunction	e	a mover -se para o campo de visão	a sobrepor -se a_ o planeta
+Implicit	Contingency.Cause.Result	por conseguinte	Mais uma vez , dez vezes mais distantes	estamos na Alfa Centauri , a nossa estrela vizinha mais próxima , e o planeta desapareceu
+Explicit	Expansion.Conjunction	e	estamos na Alfa Centauri , a nossa estrela vizinha mais próxima	o planeta desapareceu
+Implicit	Expansion.Conjunction	e	estamos na Alfa Centauri , a nossa estrela vizinha mais próxima , e o planeta desapareceu	Tudo o que vemos é a imagem de grandes feixes de_ a estrela que é dez mil milhões de vezes mais brilhante de_ o que o planeta
+Implicit	Expansion.Conjunction	e	É o que queremos ver	É por isso que é difícil
+Implicit	Expansion.Level-of-detail.Arg2-as-detail	especificamente	É por isso que é difícil	A luz de_ a estrela sofre difracção
+Implicit	Expansion.Conjunction	e	A luz de_ a estrela sofre difracção	Dispersa -se dentro de_ o telescópio , criando esta imagem muito brilhante que ofusca o planeta
+Implicit	Contingency.Cause.Result	assim	Dispersa -se dentro de_ o telescópio	criando esta imagem muito brilhante que ofusca o planeta
+Explicit	Contingency.Purpose.Arg2-as-goal	Para	temos que fazer algo em relação a toda esta luz	vermos o planeta
+Implicit	Contingency.Cause.Result	por conseguinte	A luz de_ a estrela sofre difracção . Dispersa -se dentro de_ o telescópio , criando esta imagem muito brilhante que ofusca o planeta	Para vermos o planeta , temos que fazer algo em relação a toda esta luz
+Implicit	Expansion.Level-of-detail.Arg2-as-detail	isto é	temos que fazer algo em relação a toda esta luz	Temos que nos livrar de_ ela
+Implicit	Expansion.Conjunction	e	Temos que nos livrar de_ ela	Tenho vários colegas a trabalhar em tecnologias fantásticas para fazer isso
+Explicit	Contingency.Purpose.Arg2-as-goal	para	Tenho vários colegas a trabalhar em tecnologias fantásticas	fazer isso
+Explicit	Comparison.Concession.Arg2-as-denier	mas	Tenho vários colegas a trabalhar em tecnologias fantásticas para fazer isso ,	hoje quero falar -vos de uma que penso ser a mais fixe , e provavelmente a que tem mais hipóteses de nos conseguir uma Terra na próxima década
+Implicit	Expansion.Level-of-detail.Arg2-as-detail	nomeadamente	Foi inicialmente sugerida por Lyman Spitzer , o pai de_ o telescópio espacial , em 1962 , que se inspirou em_ um eclipse , Já todos viram isto	É um eclipse solar
+Implicit	Expansion.Level-of-detail.Arg2-as-detail	isto é	É um eclipse solar	A Lua colocou -se à frente de_ o Sol
+Implicit	Expansion.Conjunction	e	A Lua colocou -se à frente de_ o Sol	Bloqueou a maior parte de_ a sua luz
+AltLex	Contingency.Cause.Result	por isso	Bloqueou a maior parte de_ a sua luz	podemos ver a coroa ténue à sua volta
+Explicit	Contingency.Condition.Arg2-as-cond	se	Seria o mesmo	erguesse o meu polegar e bloqueasse o ponto luminoso à frente de_ os meus olhos ,
+AltLex	Expansion.Equivalence	Seria o mesmo	A Lua colocou -se à frente de_ o Sol . Bloqueou a maior parte de_ a sua luz por isso podemos ver a coroa ténue à sua volta	se erguesse o meu polegar e bloqueasse o ponto luminoso à frente de_ os meus olhos , poderia vê# -los na última fila
+Explicit	Expansion.Conjunction	e	erguesse o meu polegar	bloqueasse o ponto luminoso à frente de_ os meus olhos
+AltLex	Hypophora	o que	a Lua projecta uma sombra na Terra	está a acontecer
+Implicit	Contingency.Condition.Arg2-as-cond	se	a Lua projecta uma sombra na Terra	Colocamos um telescópio ou uma câmara em_ essa sombra
+Explicit	Expansion.Conjunction	e	Colocamos um telescópio ou uma câmara em_ essa sombra	olhamos para o Sol
+Implicit	Temporal.Asynchronous.Precedence	a seguir	Colocamos um telescópio ou uma câmara em_ essa sombra	e olhamos para o Sol
+Explicit	Expansion.Conjunction	e	olhamos para o Sol	a maior parte de_ a luz foi removida
+Implicit	Contingency.Cause.Result	por conseguinte	Colocamos um telescópio ou uma câmara em_ essa sombra , e olhamos para o Sol	e a maior parte de_ a luz foi removida
+Explicit	Expansion.Conjunction	e	a maior parte de_ a luz foi removida	podemos ver essa ténue e fina estrutura na coroa
+Implicit	Comparison.Contrast	por sua vez	Colocamos um telescópio ou uma câmara em_ essa sombra , e olhamos para o Sol , e a maior parte de_ a luz foi removida e podemos ver essa ténue e fina estrutura na coroa	A sugestão de Spitzer foi que o fizéssemos no espaço
+Implicit	Expansion.Level-of-detail.Arg2-as-detail	especificamente	A sugestão de Spitzer foi que o fizéssemos no espaço	Construíamos uma tela grande , colocávamo# -la no espaço , em frente a uma estrela , bloqueávamos a maior parte de_ a luz , colocávamos um telescópio espacial em_ essa sombra criada , e zás , conseguíamos ver os planetas
+Explicit	Expansion.Conjunction	e	Construíamos uma tela grande , colocávamo# -la no espaço , em frente a uma estrela , bloqueávamos a maior parte de_ a luz , colocávamos um telescópio espacial em_ essa sombra criada	conseguíamos ver os planetas
+Implicit	Contingency.Cause.Result	por conseguinte	Construíamos uma tela grande , colocávamo# -la no espaço , em frente a uma estrela , bloqueávamos a maior parte de_ a luz , colocávamos um telescópio espacial em_ essa sombra criada	e zás , conseguíamos ver os planetas
+Implicit	Expansion.Conjunction	e	conseguíamos ver os planetas	Seria algo parecido com isto
+Explicit	Expansion.Conjunction	e	Aqui está a tela grande	não há planetas
+Explicit	Contingency.Cause.Reason	porque	não há planetas	infelizmente , não funciona lá muito bem por causa de_ as ondas luminosas
+Explicit	Expansion.Conjunction	e	não funciona lá muito bem por causa de_ as ondas luminosas	as ondas sofrem difracção à volta de_ essa tela tal como no telescópio
+AltLex	Expansion.Equivalence	É como	as ondas sofrem difracção à volta de_ essa tela tal como no telescópio	a água que contorna uma pedra em_ uma corrente , e toda essa luz destrói a sombra
+Explicit	Expansion.Conjunction	e	É como a água que contorna uma pedra em_ uma corrente	toda essa luz destrói a sombra
+Explicit	Expansion.Conjunction	E	toda essa luz destrói a sombra . É uma sombra terrível	não conseguimos ver planetas
+Implicit	Contingency.Cause.Result	por conseguinte	toda essa luz destrói a sombra . É uma sombra terrível	E não conseguimos ver planetas
+Explicit	Comparison.Concession.Arg2-as-denier	Mas	não conseguimos ver planetas	Spitzer sabia a solução
+Implicit	Expansion.Level-of-detail.Arg2-as-detail	isto é	Spitzer sabia a solução	Se conseguirmos suavizar as arestas de modo a controlar a difracção , então poderemos ver um planeta
+Explicit	Expansion.Conjunction	e	poderemos ver um planeta	nos últimos 10 anos conseguimos soluções ideais para o conseguir
+Explicit	Contingency.Purpose.Arg2-as-goal	para	conseguimos soluções ideais	o conseguir
+Implicit	Expansion.Conjunction	e	conseguimos soluções ideais para o conseguir	É algo parecido com isto
+Explicit	Contingency.Condition.Arg2-as-cond	Se	podemos controlar a difracção	fizermos as arestas de_ a forma correcta , se controlarmos a sua forma
+Explicit	Expansion.Conjunction	e	podemos controlar a difracção	conseguimos uma grande sombra
+Implicit	Contingency.Cause.Result	por conseguinte	podemos controlar a difracção	e conseguimos uma grande sombra
+Explicit	Expansion.Conjunction	e	conseguimos uma grande sombra	conseguimos ver os planetas a aparecer
+Implicit	Contingency.Cause.Result	por conseguinte	conseguimos uma grande sombra	e conseguimos ver os planetas a aparecer
+Implicit	Comparison.Concession.Arg2-as-denier	mas	É cerca de 10 mil milhões de vezes mais ténue de_ o que era , e conseguimos ver os planetas a aparecer	Tem que ser , claro , maior de_ o que o meu polegar
+Implicit	Expansion.Level-of-detail.Arg2-as-detail	especificamente	Tem que ser , claro , maior de_ o que o meu polegar	Esta sombra estelar tem cerca de metade de_ o tamanho de um campo de futebol e tem que se distanciar 50 000 quilómetros de_ o telescópio que tem que ser mantido na sua sombra
+Explicit	Expansion.Conjunction	e	Esta sombra estelar tem cerca de metade de_ o tamanho de um campo de futebol	tem que se distanciar 50 000 quilómetros de_ o telescópio que tem que ser mantido na sua sombra
+Explicit	Expansion.Conjunction	e	Esta sombra estelar tem cerca de metade de_ o tamanho de um campo de futebol e tem que se distanciar 50 000 quilómetros de_ o telescópio que tem que ser mantido na sua sombra	então poderemos ver os planetas
+Explicit	Temporal.Asynchronous.Precedence	então	Esta sombra estelar tem cerca de metade de_ o tamanho de um campo de futebol e tem que se distanciar 50 000 quilómetros de_ o telescópio que tem que ser mantido na sua sombra , e	poderemos ver os planetas
+Explicit	Comparison.Concession.Arg2-as-denier	mas	Isto parece formidável	"engenheiros brilhantes , colegas meus no LPJ , conseguiram um "" design "" fabuloso para o conseguir"
+Explicit	Contingency.Purpose.Arg2-as-goal	para	"conseguiram um "" design "" fabuloso"	o conseguir
+Explicit	Expansion.Conjunction	e	"conseguiram um "" design "" fabuloso para o conseguir"	é parecido com isto
+Implicit	Expansion.Level-of-detail.Arg2-as-detail	isto é	é parecido com isto	De início está enrolado em_ um eixo
+Implicit	Temporal.Asynchronous.Precedence	depois	De início está enrolado em_ um eixo	Separa -se de_ o telescópio
+Implicit	Temporal.Asynchronous.Precedence	a seguir	Separa -se de_ o telescópio	As pétalas desdobram -se , abrem -se , o telescópio vira -se
+Explicit	Temporal.Asynchronous.Precedence	Então	As pétalas desdobram -se , abrem -se , o telescópio vira -se	ele vira -se
+Explicit	Expansion.Conjunction	e	ele vira -se	afasta -se 50 000 quilómetros de_ o telescópio
+Implicit	Temporal.Asynchronous.Precedence	a seguir	ele vira -se	e afasta -se 50 000 quilómetros de_ o telescópio
+Implicit	Expansion.Conjunction	e	afasta -se 50 000 quilómetros de_ o telescópio	Coloca -se à frente de_ a estrela deste modo , criando uma sombra maravilhosa
+Implicit	Contingency.Cause.Result	por conseguinte	Coloca -se à frente de_ a estrela deste modo , criando uma sombra maravilhosa	vemos os planetas a orbitar à sua volta
+Implicit	Comparison.Concession.Arg2-as-denier	mas	"Isto parece formidável , mas engenheiros brilhantes , colegas meus no LPJ , conseguiram um "" design "" fabuloso para o conseguir e é parecido com isto . De início está enrolado em_ um eixo . Separa -se de_ o telescópio . As pétalas desdobram -se , abrem -se , o telescópio vira -se . Então ele vira -se e afasta -se 50 000 quilómetros de_ o telescópio . Coloca -se à frente de_ a estrela deste modo , criando uma sombra maravilhosa . Zás , vemos os planetas a orbitar à sua volta"	Não é ficção científica
+Implicit	Expansion.Level-of-detail.Arg2-as-detail	de facto	Não é ficção científica	Estamos a trabalhar em_ isto há cinco ou seis anos
+Implicit	Expansion.Conjunction	e	Estamos a trabalhar em_ isto há cinco ou seis anos	No último Verão , fizemos um teste mesmo fixe na Califórnia , na Northrop Grumman
+Implicit	Expansion.Level-of-detail.Arg2-as-detail	especificamente	fizemos um teste mesmo fixe na Califórnia , na Northrop Grumman	São quatro pétalas . É uma sombra estelar em escala reduzida . Tem cerca de metade de_ o tamanho de_ a que viram antes . Podem ver as pétalas a desdobrar . Essas quatro pétalas foram construídas por quatro estudantes universitários em_ um curso de verão no LPJ . Agora podem vê# -la a desenrolar . As petalas têm que se colocar em posição . A base de_ essas pétalas tem que se colocar sempre na mesma posição com a precisão de um décimo de milímetro
+Implicit	Expansion.Level-of-detail.Arg2-as-detail	isto é	São quatro pétalas	É uma sombra estelar em escala reduzida
+Implicit	Expansion.Conjunction	e	É uma sombra estelar em escala reduzida	Tem cerca de metade de_ o tamanho de_ a que viram antes
+Implicit	Temporal.Asynchronous.Precedence	agora	Tem cerca de metade de_ o tamanho de_ a que viram antes	Podem ver as pétalas a desdobrar
+Explicit	Temporal.Asynchronous.Precedence	Agora	Podem ver as pétalas a desdobrar	podem vê# -la a desenrolar
+Implicit	Expansion.Level-of-detail.Arg2-as-detail	especificamente	podem vê# -la a desenrolar	As petalas têm que se colocar em posição
+Implicit	Expansion.Conjunction	e	As petalas têm que se colocar em posição	A base de_ essas pétalas tem que se colocar sempre na mesma posição com a precisão de um décimo de milímetro
+Implicit	Expansion.Level-of-detail.Arg2-as-detail	de facto	A base de_ essas pétalas tem que se colocar sempre na mesma posição com a precisão de um décimo de milímetro	Efectuámos este teste 16 vezes , e de_ as 16 vezes voltou à posição exacta com a precisão de um décimo de milímetro
+Explicit	Expansion.Conjunction	e	Efectuámos este teste 16 vezes	de_ as 16 vezes voltou à posição exacta com a precisão de um décimo de milímetro
+Implicit	Expansion.Level-of-detail.Arg2-as-detail	de facto	Efectuámos este teste 16 vezes , e de_ as 16 vezes voltou à posição exacta com a precisão de um décimo de milímetro	Isto tem que ser feito com grande precisão
+Explicit	Comparison.Concession.Arg2-as-denier	mas	Isto tem que ser feito com grande precisão	se o conseguirmos , se conseguirmos construir esta tecnologia , se a colocarmos no espaço , poderão ver algo assim
+Explicit	Contingency.Condition.Arg2-as-cond	se	poderão ver algo assim	o conseguirmos , se conseguirmos construir esta tecnologia , se a colocarmos no espaço
+Explicit	Contingency.Condition.Arg2-as-cond	Se	o que poderemos ver é algo como isto — isto é um retrato de família de_ o nosso sistema solar — mas não o nosso	usarmos um telescópio semelhante , ligeiramente maior , se o colocarmos no espaço , se pusermos uma antepara à sua frente
+Implicit	Expansion.Conjunction	e	Isto é uma imagem de uma de_ as estrelas mais próximas de nós obtida com o Telescópio Espacial Hubble	Se usarmos um telescópio semelhante , ligeiramente maior , se o colocarmos no espaço , se pusermos uma antepara à sua frente , o que poderemos ver é algo como isto — isto é um retrato de família de_ o nosso sistema solar — mas não o nosso
+Explicit	Comparison.Concession.Arg2-as-denier	mas	isto é um retrato de família de_ o nosso sistema solar	não o nosso
+Explicit	Expansion.Conjunction	e	podemos ver Saturno , Urano , Neptuno	mesmo no centro , próximo de_ a luz residual está o ponto azul pálido
+AltLex	Contingency.Cause.Reason	É por isso que	Penso que esta é a ciência mais fixe possível	me dediquei a isto
+Explicit	Contingency.Cause.Reason	porque	me dediquei a isto	penso que vai mudar o mundo
+Implicit	Expansion.Equivalence	na verdade	penso que vai mudar o mundo	Irá mudar tudo quando surgir
+Explicit	Temporal.Synchronous	quando	Irá mudar tudo	surgir

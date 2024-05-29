@@ -1,0 +1,108 @@
+rel_type	rel_sense	conn_text	arg1_text	arg2_text
+Implicit	Expansion.Conjunction	and	Im All wimmelt es von Planeten	Ich will , dass wir in nur einem Jahrzehnt ein Weltraumteleskop bauen , das das Bild einer Erde im Orbit eines anderen Sterns erfassen und herausfinden kann , ob es dort Leben geben könnte
+Explicit	Expansion.Conjunction	und	das Bild einer Erde im Orbit eines anderen Sterns erfassen	herausfinden
+Implicit	Contingency.Cause.Result	that is why	Ich will , dass wir in nur einem Jahrzehnt ein Weltraumteleskop bauen , das das Bild einer Erde im Orbit eines anderen Sterns erfassen und herausfinden kann , ob es dort Leben geben könnte	Meine Kollegen im NASA Jet Propulsion Laboratory in Princeton und ich arbeiten an einer Technologie , die in einigen Jahren genau dazu in der Lage sein wird
+Implicit	Expansion.Level-of-detail.Arg2-as-detail	specifically	Astronomen glauben heute , dass jeder Stern in der Galaxis einen Planeten hat	Sie schätzen , dass bis zu ein Fünftel davon einen erdähnlichen Planeten hat , auf dem Leben möglich wäre
+Explicit	Comparison.Concession.Arg2-as-denier	aber	Sie schätzen , dass bis zu ein Fünftel davon einen erdähnlichen Planeten hat , auf dem Leben möglich wäre	
+Explicit	Temporal.Synchronous	als	Aufgenommen wurde es 1990 von der Raumsonde Voyager	man sie beim Verlassen des Sonnensystems drehte , um aus einer Entfernung von 6 Mrd. km eine Foto von der Erde zu machen
+Explicit	Contingency.Purpose.Arg2-as-goal	um	man sie beim Verlassen des Sonnensystems drehte	aus einer Entfernung von 6 Mrd. km eine Foto von der Erde zu machen
+Implicit	Comparison.Concession.Arg2-as-denier	but	So ein Bild möchte ich von einem erdähnlichen Planeten eines anderen Sterns machen	Warum gibt es das noch nicht
+Explicit	Hypophora	Warum	ist das schwer	"Stellen Sie sich vor , wir nähmen das Hubble Weltraumteleskop , drehten es um und setzten es in eine Umlaufbahn um den Mars .
+Wir würden vermutlich ein leicht unscharfes Bild der Erde sehen , weil wir ein recht kleines Teleskop in der Umlaufbahn des Mars sind .
+Nun gehen wir auf die 10-fache Distanz .
+Hier sind wir in der Umlaufbahn des Uranus .
+Das Bild ist kleiner , weniger detailliert , gröber .
+Man sieht den kleinen Mond noch .
+Gehen wir wieder 10-mal so weit weg !
+Hier sind wir am Rand des Sonnensystems , im Kuipergürtel .
+Es gibt gar keine Auflösung mehr .
+Die Erde ist nun Carl Sagans blass-blauer Punkt .
+Wir entfernen uns wieder um das 10-Fache .
+Nun sind wir in der Oort ' schen Wolke außerhalb des Sonnensystems , und wir sehen , wie die Sonne langsam in unser Sichtfeld rückt , wo sich der Planet befindet .
+Und wieder 10-mal weiter weg .
+Nun sind wir bei Alpha Centauri , unserem nächsten Nachbarstern , und der Planet ist weg .
+Alles , was wir sehen , ist das große strahlende Bild des Sterns , der 10-Mrd.-mal heller leuchtet als der Planet , der in dem kleinen roten Kreis sein sollte .
+Das wollen wir sehen"
+Implicit	Expansion.Conjunction	and	Warum gibt es das noch nicht	Warum ist das schwer
+Explicit	Expansion.Conjunction	und	drehten es um	setzten es in eine Umlaufbahn um den Mars
+Implicit	Temporal.Asynchronous.Precedence	then	drehten es um	setzten es in eine Umlaufbahn um den Mars
+Implicit	Contingency.Cause.Result	as a result	Stellen Sie sich vor , wir nähmen das Hubble Weltraumteleskop , drehten es um und setzten es in eine Umlaufbahn um den Mars	Wir würden vermutlich ein leicht unscharfes Bild der Erde sehen , weil wir ein recht kleines Teleskop in der Umlaufbahn des Mars sind
+Explicit	Contingency.Cause.Reason	weil	Wir würden vermutlich ein leicht unscharfes Bild der Erde sehen	wir ein recht kleines Teleskop in der Umlaufbahn des Mars sind
+Implicit	Temporal.Asynchronous.Precedence	then	Wir würden vermutlich ein leicht unscharfes Bild der Erde sehen , weil wir ein recht kleines Teleskop in der Umlaufbahn des Mars sind	Nun gehen wir auf die 10-fache Distanz
+Implicit	Contingency.Cause.Result	as a result	Nun gehen wir auf die 10-fache Distanz	Hier sind wir in der Umlaufbahn des Uranus
+Implicit	Comparison.Concession.Arg2-as-denier	nevertheless	Das Bild ist kleiner , weniger detailliert , gröber	Man sieht den kleinen Mond noch
+Implicit	Temporal.Asynchronous.Precedence	after that	Man sieht den kleinen Mond noch	Gehen wir wieder 10-mal so weit weg
+Implicit	Contingency.Cause.Result	as a result	Gehen wir wieder 10-mal so weit weg	Hier sind wir am Rand des Sonnensystems , im Kuipergürtel
+Implicit	Expansion.Level-of-detail.Arg2-as-detail	in fact	Hier sind wir am Rand des Sonnensystems , im Kuipergürtel	Es gibt gar keine Auflösung mehr
+Implicit	Comparison.Similarity	in other words	Es gibt gar keine Auflösung mehr	Die Erde ist nun Carl Sagans blass-blauer Punkt
+Implicit	Expansion.Conjunction	and	Die Erde ist nun Carl Sagans blass-blauer Punkt	Wir entfernen uns wieder um das 10-Fache
+Implicit	Contingency.Cause.Result	as a result	Wir entfernen uns wieder um das 10-Fache	Nun sind wir in der Oort ' schen Wolke außerhalb des Sonnensystems , und wir sehen , wie die Sonne langsam in unser Sichtfeld rückt , wo sich der Planet befindet
+Explicit	Expansion.Conjunction	und	Nun sind wir in der Oort ' schen Wolke außerhalb des Sonnensystems	wir sehen , wie die Sonne langsam in unser Sichtfeld rückt , wo sich der Planet befindet
+Explicit	Expansion.Conjunction	Und	wir sehen , wie die Sonne langsam in unser Sichtfeld rückt , wo sich der Planet befindet	wieder 10-mal weiter weg
+Implicit	Contingency.Cause.Result	as a result	Und wieder 10-mal weiter weg	Nun sind wir bei Alpha Centauri , unserem nächsten Nachbarstern , und der Planet ist weg
+Explicit	Expansion.Conjunction	und	Nun sind wir bei Alpha Centauri , unserem nächsten Nachbarstern	der Planet ist weg
+Implicit	Expansion.Conjunction	and	der Planet ist weg	Alles , was wir sehen , ist das große strahlende Bild des Sterns , der 10-Mrd.-mal heller leuchtet als der Planet
+Explicit	Contingency.Cause.Result	Deshalb	"Alles , was wir sehen , ist das große strahlende Bild des Sterns , der 10-Mrd.-mal heller leuchtet als der Planet , der in dem kleinen roten Kreis sein sollte .
+Das wollen wir sehen"	ist es so schwer
+Implicit	Expansion.Level-of-detail.Arg2-as-detail	in fact	Deshalb ist es so schwer	Das Licht vom Stern wird gebeugt , im Inneren des Teleskops gestreut , und erzeugt das sehr helle Bild , das den Planeten verblassen lässt
+Explicit	Expansion.Conjunction	und	im Inneren des Teleskops gestreut	erzeugt das sehr helle Bild , das den Planeten verblassen lässt
+Explicit	Contingency.Purpose.Arg2-as-goal	Um	müssen wir etwas gegen all das Licht tun	den Planeten sichtbar zu machen
+Implicit	Contingency.Cause.Result	so	Das Licht vom Stern wird gebeugt , im Inneren des Teleskops gestreut , und erzeugt das sehr helle Bild , das den Planeten verblassen lässt	Um den Planeten sichtbar zu machen , müssen wir etwas gegen all das Licht tun
+Implicit	Expansion.Equivalence	in other words	Um den Planeten sichtbar zu machen , müssen wir etwas gegen all das Licht tun	Wir müssen es loswerden
+Explicit	Comparison.Concession.Arg2-as-denier	aber	Viele meiner Kollegen arbeiten an tollen Technologien zu dem Zweck	ich möchte Ihnen heute die vorstellen , die ich am coolsten finde und die uns am ehesten innerhalb des nächsten Jahrzehnts eine Erde liefert
+Implicit	Expansion.Level-of-detail.Arg2-as-detail	in particular	Viele meiner Kollegen arbeiten an tollen Technologien zu dem Zweck , aber ich möchte Ihnen heute die vorstellen , die ich am coolsten finde und die uns am ehesten innerhalb des nächsten Jahrzehnts eine Erde liefert	Vorgestellt wurde die Idee 1962 vom Vater des Weltraumteleskops , Lyman Spitzer
+Implicit	Contingency.Cause.Reason	because	Vorgestellt wurde die Idee 1962 vom Vater des Weltraumteleskops , Lyman Spitzer	Dazu angeregt hatte ihn eine Eklipse
+AltLex	Expansion.Equivalence	Sie kennen das alle	Dazu angeregt hatte ihn eine Eklipse	eine Sonnenfinsternis
+Implicit	Expansion.Equivalence	namely	Sie kennen das alle : eine Sonnenfinsternis	Der Mond hat sich vor die Sonne geschoben
+Implicit	Contingency.Cause.Result	as a result	Der Mond hat sich vor die Sonne geschoben	Er deckt den Großteils des Lichts ab und wir sehen um ihn herum eine matte Korona
+Explicit	Expansion.Conjunction	und	Er deckt den Großteils des Lichts ab	wir sehen um ihn herum eine matte Korona
+AltLex	Comparison.Similarity	Es ist wie	Er deckt den Großteils des Lichts ab und wir sehen um ihn herum eine matte Korona	wenn ich den Daumen hochhalte und den Strahler abblocke , der mich blendet : Ich kann Sie in der hinteren Reihe sehen
+Explicit	Contingency.Cause.Reason	Also	Es ist wie wenn ich den Daumen hochhalte und den Strahler abblocke , der mich blendet : Ich kann Sie in der hinteren Reihe sehen	Nun , der Mond wirft einen Schatten auf die Erde
+Implicit	Temporal.Asynchronous.Precedence	then	Nun , der Mond wirft einen Schatten auf die Erde	Wir platzieren ein Teleskop oder eine Kamera in diesen Schatten , blicken zurück auf die Sonne , der Großteil des Lichts ist weg , und wir können die matte , feine Struktur in der Korona erkennen
+Explicit	Expansion.Conjunction	und	der Großteil des Lichts ist weg	wir können die matte , feine Struktur in der Korona erkennen
+Implicit	Expansion.Level-of-detail.Arg2-as-detail	specifically	Spitzer schlug vor , das im Weltraum nachzustellen	"Wir bauen eine große Lichtblende , fliegen sie ins All , platzieren sie vor dem Stern , verdecken den Großteil des Lichts , fliegen ein Weltraumteleskop in den so erzeugten Schatten und "" Zack ! "" -- wir sehen Planeten"
+Implicit	Expansion.Level-of-detail.Arg2-as-detail	in particular	"Wir bauen eine große Lichtblende , fliegen sie ins All , platzieren sie vor dem Stern , verdecken den Großteil des Lichts , fliegen ein Weltraumteleskop in den so erzeugten Schatten und "" Zack ! "" -- wir sehen Planeten"	Aussehen würde das ungefähr so : Da ist die große Lichtblende -- und es gibt keine Planeten
+Explicit	Expansion.Conjunction	und	Da ist die große Lichtblende	es gibt keine Planeten
+Explicit	Contingency.Cause.Reason	Denn	Aussehen würde das ungefähr so : Da ist die große Lichtblende -- und es gibt keine Planeten	leider funktioniert das so nicht sehr gut , weil die Lichtwellen des Lichts und die Wellen um die Lichtblende gebeugt werden , auf dieselbe Weise wie im Teleskop
+Explicit	Contingency.Cause.Reason	weil	Denn leider funktioniert das so nicht sehr gut	die Lichtwellen des Lichts und die Wellen um die Lichtblende gebeugt werden , auf dieselbe Weise wie im Teleskop
+Explicit	Expansion.Conjunction	und	Es ist wie Wasser , das einen Stein im Bach umfließt	all das Licht zerstört den Schatten einfach
+Implicit	Contingency.Cause+SpeechAct.Result+SpeechAct	as a result	Es ist wie Wasser , das einen Stein im Bach umfließt , und all das Licht zerstört den Schatten einfach	Es ist ein schlechter Schatten : Wir sehen keine Planeten
+Explicit	Comparison.Concession.Arg2-as-denier	Aber	Es ist ein schlechter Schatten : Wir sehen keine Planeten	Spitzer kannte die Lösung
+Explicit	Contingency.Condition.Arg2-as-cond	Wenn	wir die Kanten aufbrechen , sie weicher machen könnten , um die Beugung zu reduzieren	dann können wir einen Planeten sehen
+Implicit	Expansion.Level-of-detail.Arg2-as-detail	in particular	Aber Spitzer kannte die Lösung	Wenn wir die Kanten aufbrechen , sie weicher machen könnten , um die Beugung zu reduzieren , dann können wir einen Planeten sehen
+Implicit	Expansion.Conjunction	and	Wenn wir die Kanten aufbrechen , sie weicher machen könnten , um die Beugung zu reduzieren , dann können wir einen Planeten sehen	In den letzten , rund zehn Jahren haben wir genau dafür optimale Lösungen gefunden
+Implicit	Expansion.Instantiation	for instace	In den letzten , rund zehn Jahren haben wir genau dafür optimale Lösungen gefunden	"Eine davon sieht ungefähr so aus : Wir nennen sie blütenförmige Sternenblende ( "" Starshade"
+Explicit	Contingency.Condition.Arg2-as-cond	Wenn	wir die Kanten der Blütenblätter genau richtig hinbekommen	regulieren wir ihre Form so , dass wir die Beugung reduzieren
+Implicit	Contingency.Cause.Result	so	Wenn wir die Kanten der Blütenblätter genau richtig hinbekommen , regulieren wir ihre Form so , dass wir die Beugung reduzieren	Nun ist es ein toller Schatten
+Implicit	Expansion.Level-of-detail.Arg2-as-detail	specifically	Nun ist es ein toller Schatten	Er ist etwa 10-Mrd.-mal dunkler als zuvor , und wir erkennen die angestrahlten Planeten -- einfach so
+Explicit	Expansion.Conjunction	und	Er ist etwa 10-Mrd.-mal dunkler als zuvor	wir erkennen die angestrahlten Planeten -- einfach so
+Implicit	Expansion.Conjunction	and	Er ist etwa 10-Mrd.-mal dunkler als zuvor , und wir erkennen die angestrahlten Planeten -- einfach so	Sie muss natürlich größer sein als mein Daumen
+Implicit	Expansion.Level-of-detail.Arg2-as-detail	in particular	Sie muss natürlich größer sein als mein Daumen	Starshade ist halb so groß wie ein Fußballfeld
+Implicit	Expansion.Conjunction	and	Starshade ist halb so groß wie ein Fußballfeld	Sie muss 50 000 Kilometer vom Teleskop wegfliegen , das exakt in ihrem Schatten bleiben muss , und dann können wir diese Planeten sehen
+Explicit	Expansion.Conjunction	und	Sie muss 50 000 Kilometer vom Teleskop wegfliegen , das exakt in ihrem Schatten bleiben muss	dann können wir diese Planeten sehen
+Explicit	Temporal.Asynchronous.Precedence	dann	Sie muss 50 000 Kilometer vom Teleskop wegfliegen , das exakt in ihrem Schatten bleiben muss	können wir diese Planeten sehen
+Implicit	Contingency.Cause+SpeechAct.Result+SpeechAct	as a result	Sie muss 50 000 Kilometer vom Teleskop wegfliegen , das exakt in ihrem Schatten bleiben muss , und dann können wir diese Planeten sehen	Das klingt schwierig , aber brillante Ingenieure , meine Kollegen bei JPL , haben ein fabelhaftes Design entwickelt , und das sieht so aus
+Explicit	Comparison.Concession.Arg2-as-denier	aber	Das klingt schwierig	brillante Ingenieure , meine Kollegen bei JPL , haben ein fabelhaftes Design entwickelt
+Explicit	Expansion.Conjunction	und	aber brillante Ingenieure , meine Kollegen bei JPL , haben ein fabelhaftes Design entwickelt	das sieht so aus
+Implicit	Temporal.Asynchronous.Precedence	then	Sie ist anfangs um eine Nabe gewickelt	Sie trennt sich vom Teleskop
+Implicit	Temporal.Asynchronous.Precedence	then	Sie trennt sich vom Teleskop	Die Blütenblätter entfalten sich -- öffnen sich
+Implicit	Temporal.Asynchronous.Precedence	then	Die Blütenblätter entfalten sich -- öffnen sich	Das Teleskop dreht sich herum
+Implicit	Contingency.Cause.Result	so	Das Teleskop dreht sich herum	Sie sehen , wie Starshade wendet und 50 000 Kilometer vom Teleskop wegfliegt
+Implicit	Temporal.Asynchronous.Precedence	after that	Sie sehen , wie Starshade wendet und 50 000 Kilometer vom Teleskop wegfliegt	Sie wird sich vor den Stern platzieren und , einfach so , einen wunderbaren Schatten erzeugen
+Explicit	Expansion.Conjunction	und	sich vor den Stern platzieren	einen wunderbaren Schatten erzeugen
+AltLex	Contingency.Cause.Result	Zack	Sie wird sich vor den Stern platzieren und , einfach so , einen wunderbaren Schatten erzeugen	wir kriegen die Planeten in seiner Umlaufbahn
+Implicit	Expansion.Level-of-detail.Arg2-as-detail	in fact	Das ist kein Science-Fiction	Wir arbeiten seit 5 oder 6 Jahren daran
+Implicit	Expansion.Instantiation	for instance	Wir arbeiten seit 5 oder 6 Jahren daran	Letzten Sommer haben wir einen coolen Test durchgeführt , in Kalifornien bei Northrop Grumman
+Implicit	Expansion.Level-of-detail.Arg2-as-detail	in fact	Hier entfalten sich die Blätter	Vier Studenten haben diese vier Blätter im Sommerpraktikum bei JPL gebaut
+Implicit	Temporal.Asynchronous.Precedence	then	Sie sehen , wie sie ausfahren	Die Blätter müssen sich richtig drehen
+Implicit	Expansion.Conjunction	and	Die Blätter müssen sich richtig drehen	Das Gerüst der Blätter muss jedes Mal exakt zur selben Stelle ausfahren , auf ein Zehntel Millimeter genau
+Implicit	Expansion.Level-of-detail.Arg2-as-detail	in fact	Das Gerüst der Blätter muss jedes Mal exakt zur selben Stelle ausfahren , auf ein Zehntel Millimeter genau	Wir haben den Test 16-mal ausgeführt , und 16-mal blieb es exakt an derselben Stelle stehen , auf ein Zehntel Millimeter genau
+Explicit	Expansion.Conjunction	und	Wir haben den Test 16-mal ausgeführt	16-mal blieb es exakt an derselben Stelle stehen , auf ein Zehntel Millimeter genau
+Implicit	Expansion.Conjunction	and	Wir haben den Test 16-mal ausgeführt , und 16-mal blieb es exakt an derselben Stelle stehen , auf ein Zehntel Millimeter genau	Dies muss mit absoluter Präzision erfolgen
+Explicit	Comparison.Concession.Arg2-as-denier	aber	Dies muss mit absoluter Präzision erfolgen	wenn es gelingt , diese Technologie zu bauen und ins All zu bringen , dann könnte man so etwas erblicken
+Explicit	Contingency.Condition.Arg2-as-cond	wenn	es gelingt , diese Technologie zu bauen und ins All zu bringen	dann könnte man so etwas erblicken
+Explicit	Contingency.Condition.Arg2-as-cond	Wenn	wir ein ähnliches Weltraumteleskop , ein etwas größeres , dort hinausbringen und eine Blende davorfliegen könnten	dann sähen wir vielleicht so etwas
+Implicit	Expansion.Conjunction	and	Dies ist ein Bild eines unserer Nachbarsterne vom Hubble-Weltraumteleskop	Wenn wir ein ähnliches Weltraumteleskop , ein etwas größeres , dort hinausbringen und eine Blende davorfliegen könnten , dann sähen wir vielleicht so etwas
+Implicit	Contingency.Cause+SpeechAct.Result+SpeechAct	that's why	Das wollen wir sehen -- sehen , ob es Wasser gibt , Sauerstoff , Ozon , Dinge , die uns verraten , ob es dort Leben geben könnte	Für mich ist dies die coolste Wissenschaft
+Explicit	Contingency.Condition.Arg2-as-cond	Wenn	wird das alles verändern	wir das sehen
+Implicit	Expansion.Level-of-detail.Arg2-as-detail	specifically	Darum arbeite ich in diesem Feld , weil ich denke , das wird die Welt verändern	Wenn wir das sehen , wird das alles verändern

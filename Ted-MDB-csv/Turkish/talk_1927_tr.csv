@@ -1,0 +1,179 @@
+rel_type	rel_sense	conn_text	arg1_text	arg2_text
+Implicit	Expansion.Level-of-detail.Arg2-as-detail	yani	Dünya gerçekten birçok yönden değişiyor	endişem o ki yatırımcılar değişimin en büyük faktörlerinden bazılarına yeterince dikkat etmiyorlar, özellikle de iş sürdürülebilirliğe gelince
+Implicit	Expansion.Conjunction	aslında	Sürdürülebilirlik derken anlatmak istediğim, çevresel ve sosyal sorunlar ve kurumsal yönetim gibi cazip konular	Bence bunları gözardı etmek kayıtsızlık olur, çünkü gözardı edilmesi ileriye dönük uzun vadeli kazançları riske atabilir
+Explicit	Contingency.Cause.Reason	çünkü	Bence bunları gözardı etmek kayıtsızlık olur	gözardı edilmesi ileriye dönük uzun vadeli kazançları riske atabilir
+Explicit	Expansion.Conjunction	Ve	Bence bunları gözardı etmek kayıtsızlık olur, çünkü gözardı edilmesi ileriye dönük uzun vadeli kazançları riske atabilir	sizi şaşırtabilecek bir şey: Sürdürülebilirliğe gerçekten etki edebilecek güç dengesi kurumsal yatırımcıların, emeklilik fonları, vakıflar ve bağış fonları gibi büyük yatırımcıların elinde
+Implicit	Expansion.Level-of-detail.Arg2-as-detail	aslında	Sürdürülebilirliğe gerçekten etki edebilecek güç dengesi kurumsal yatırımcıların, emeklilik fonları, vakıflar ve bağış fonları gibi büyük yatırımcıların elinde	İnanıyorum ki, sürdürülebilir yatırım düşündüğünüzden daha az karmaşık, sandığınızdan çok daha iyi performansı var ve hayal edebileceğimizden çok daha önemli
+Explicit	Expansion.Conjunction	ve	sandığınızdan çok daha iyi performansı var	hayal edebileceğimizden çok daha önemli
+Implicit	Expansion.Conjunction	ayrıca	sürdürülebilir yatırım düşündüğünüzden daha az karmaşık, sandığınızdan çok daha iyi performansı var	ve hayal edebileceğimizden çok daha önemli
+Implicit	Expansion.Level-of-detail.Arg2-as-detail	aslında	Halihazırda bildiklerimizi tekrar hatırlatayım	Hem büyüyen, hem de yaşlanan bir nüfusumuz var
+Explicit	Expansion.Conjunction	hem de	Hem büyüyen	yaşlanan
+Implicit	Expansion.Level-of-detail.Arg1-as-detail	şöyle ki	Hem büyüyen, hem de yaşlanan bir nüfusumuz var	bugün yedi milyar ruha sahibiz, bu yüzyılın sonuna kadar on milyara doğru gidecek
+Implicit	Expansion.Conjunction	ayrıca	bugün yedi milyar ruha sahibiz, bu yüzyılın sonuna kadar on milyara doğru gidecek	doğal kaynakları yenilenebileceğinden daha hızlı şekilde tüketiyoruz
+Explicit	Expansion.Conjunction	ve de	doğal kaynakları yenilenebileceğinden daha hızlı şekilde tüketiyoruz	iklimsel degişikliklerin esas sorumlusu olan gaz emisyonları artmaya devam etmekte.
+Implicit	Expansion.Level-of-detail.Arg2-as-detail	özetle	Hem büyüyen, hem de yaşlanan bir nüfusumuz var; bugün yedi milyar ruha sahibiz, bu yüzyılın sonuna kadar on milyara doğru gidecek; doğal kaynakları yenilenebileceğinden daha hızlı şekilde tüketiyoruz ve de iklimsel degişikliklerin esas sorumlusu olan gaz emisyonları artmaya devam etmekte	Bunlar belli ki çevresel ve sosyal sorunlar
+Explicit	Comparison.Concession	ama	Bunlar belli ki çevresel ve sosyal sorunlar	hepsi bununla kalmıyor
+Implicit	Expansion.Conjunction	ayrıca	hepsi bununla kalmıyor	Bunlar ekonomik sorunlar ve bu da bu sorunları risk ve kazanç ile ilgili hâle getiriyor
+Explicit	Expansion.Conjunction	ve	Bunlar ekonomik sorunlar	bu da bu sorunları risk ve kazanç ile ilgili hâle getiriyor
+Implicit	Contingency.Cause.Result	dolayısıyla	Bunlar ekonomik sorunlar	ve bu da bu sorunları risk ve kazanç ile ilgili hâle getiriyor
+Implicit	Expansion.Conjunction	ve	bu da bu sorunları risk ve kazanç ile ilgili hâle getiriyor	Gerçekten de karmaşık ve uzak görünebilirler, ki bu da şunu yapmamızı cazip kılabilir: Kafamızı kuma gömüp, bunun hakkında düşünmemek
+Explicit	Contingency.Cause.Result	ki	karmaşık ve uzak görünebilirler	bu da şunu yapmamızı cazip kılabilir: Kafamızı kuma gömüp, bunun hakkında düşünmemek
+Explicit	Expansion.Conjunction	gömüp	bunun hakkında düşünmemek	Kafamızı kuma gömüp
+Explicit	Contingency.Condition.Arg2-as-cond	Yapabilirseniz	buna karşı koyun	Yapabilirseniz
+Implicit	Comparison.Contrast	ama	Kafamızı kuma gömüp, bunun hakkında düşünmemek	Yapabilirseniz, buna karşı koyun
+Implicit	Expansion.Level-of-detail.Arg2-as-detail	bir başka deyişle	buna karşı koyun	Bunu evde denemeyin
+Implicit	Expansion.Instantiation	söz gelimi	bu beni bugünkü yatırım kurallarının yarınki amaca uygun olup olmadığı konusunda meraklandırıyor	Biliyoruz ki yatırımcılar bir şirkete bakıp yatırıma uygun olup olmadığına karar verirken finansal verilere bakıyorlar; satışların büyümesi, nakit akışı, pazar payı değerleme gibi metrikler -bilirsiniz, gerçekten seksi şeyler
+Explicit	Expansion.Conjunction	bakıp	yatırıma uygun olup olmadığına karar verirken	yatırımcılar bir şirkete
+Explicit	Temporal.Synchronous	verirken	finansal verilere bakıyorlar; satışların büyümesi, nakit akışı, pazar payı değerleme gibi metrikler -bilirsiniz, gerçekten seksi şeyler	bir şirkete bakıp yatırıma uygun olup olmadığına karar verirken
+Explicit	Expansion.Conjunction	Ve	yatırımcılar bir şirkete bakıp yatırıma uygun olup olmadığına karar verirken finansal verilere bakıyorlar; satışların büyümesi, nakit akışı, pazar payı değerleme gibi metrikler -bilirsiniz, gerçekten seksi şeyler	tabii ki bunların tümü gerekli, ama yeterli değiller
+Explicit	Comparison.Concession.Arg2-as-denier	ama	tümü gerekli	yeterli değiller
+Implicit	Contingency.Cause.Reason	çünkü	yeterli değiller	Yatırımcılar ÇSY diye adlandırdığımız üç faktörün performans metriklerine de bakmalılar: Çevre, sosyal ve yönetim
+Explicit	Expansion.Conjunction	de	yeterli değiller	
+Explicit	Expansion.Equivalence	yani	Çevre; enerji tüketimini, su bulunabilirliğini, atık ve kirliliği içeriyor	kaynakların etkin kullanımını sağlamakla ilgili
+Implicit	Expansion.Conjunction	ve	Çevre; enerji tüketimini, su bulunabilirliğini, atık ve kirliliği içeriyor, yani kaynakların etkin kullanımını sağlamakla ilgili	Toplum; insan sermayesini, çalışan katılımı ve yenilik yapma kapasitesi gibi şeyleri ve aynı zamanda tedarik zinciri yönetimi, işçi hakları ve insan haklarını içeriyor
+Explicit	Expansion.Conjunction	ise	Toplum; insan sermayesini, çalışan katılımı ve yenilik yapma kapasitesi gibi şeyleri ve aynı zamanda tedarik zinciri yönetimi, işçi hakları ve insan haklarını içeriyor	
+AltLex	Contingency.Cause+SpeechAct.Result+SpeechAct	İşte	Çevre; enerji tüketimini, su bulunabilirliğini, atık ve kirliliği içeriyor, yani kaynakların etkin kullanımını sağlamakla ilgili. Toplum; insan sermayesini, çalışan katılımı ve yenilik yapma kapasitesi gibi şeyleri ve aynı zamanda tedarik zinciri yönetimi, işçi hakları ve insan haklarını içeriyor. Yönetim ise şirketlerin yönetim kurulları ve yatırımcıları tarafından gözetimde olmasıyla ilgili	size bunların cazip şeyler olduğunu söylemiştim
+Explicit	Comparison.Concession.Arg2-as-denier	Ama	size bunların cazip şeyler olduğunu söylemiştim	ÇSY sürdürülebilirliğin ölçüsüdür ve sürdürülebilir yatırım ÇSY faktörlerini finansal faktörlerle birlikte yatırım sürecine dahil eder
+Explicit	Expansion.Conjunction	ve	ÇSY sürdürülebilirliğin ölçüsüdür	sürdürülebilir yatırım ÇSY faktörlerini finansal faktörlerle birlikte yatırım sürecine dahil eder
+Implicit	Expansion.Level-of-detail.Arg2-as-detail	aynı zamanda	Ama ÇSY sürdürülebilirliğin ölçüsüdür	ve sürdürülebilir yatırım ÇSY faktörlerini finansal faktörlerle birlikte yatırım sürecine dahil eder
+AltLex	Expansion.Equivalence	anlamına gelir	sürdürülebilir yatırım ÇSY faktörlerini finansal faktörlerle birlikte yatırım sürecine dahil eder	Bu, insanlara ve gezegene olan zararın minimize edilerek gelecekteki riskin sınırlanması anlamına gelir
+Explicit	Expansion.Manner.Arg2-as-manner	edilerek	gelecekteki riskin sınırlanması anlamına gelir	insanlara ve gezegene olan zararın minimize edilerek
+Explicit	Expansion.Conjunction	ve de	insanlara ve gezegene olan zararın minimize edilerek gelecekteki riskin sınırlanması anlamına gelir	üretken ve sürdürülebilir sonuçlar elde eden kullanıcılara sermaye sağlanması anlamına gelir
+Implicit	Expansion.Level-of-detail.Arg2-as-detail	aynı zamanda	Bu, insanlara ve gezegene olan zararın minimize edilerek gelecekteki riskin sınırlanması anlamına gelir	ve de üretken ve sürdürülebilir sonuçlar elde eden kullanıcılara sermaye sağlanması anlamına gelir
+Explicit	Contingency.Cause+SpeechAct.Result+SpeechAct	Yani	Bu, insanlara ve gezegene olan zararın minimize edilerek gelecekteki riskin sınırlanması anlamına gelir ve de üretken ve sürdürülebilir sonuçlar elde eden kullanıcılara sermaye sağlanması anlamına gelir	eğer sürdürülebilirlik bugün finansal olarak önemli ise ve tüm belirtiler gelecekte daha önemli olacağını gösteriyorsa, özel sektör bu konuya dikkat ediyor mu
+Explicit	Expansion.Conjunction	ve	bugün finansal olarak önemli ise	tüm belirtiler gelecekte daha önemli olacağını gösteriyorsa
+Explicit	Contingency.Condition+SpeechAct	gösteriyorsa	özel sektör bu konuya dikkat ediyor mu	eğer sürdürülebilirlik bugün finansal olarak önemli ise ve tüm belirtiler gelecekte daha önemli olacağını gösteriyorsa
+AltLex	Expansion.Level-of-detail.Arg2-as-detail	mu	gerçekten güzel olan şey çoğu genel müdürün dikkat etmesi	özel sektör bu konuya dikkat ediyor
+Implicit	Expansion.Level-of-detail.Arg2-as-detail	özellikle	gerçekten güzel olan şey çoğu genel müdürün dikkat etmesi	Sürdürülebilirliği sadece önemli olarak değil, şirketin başarısı için de kritik olarak görmeye başladılar
+Implicit	Comparison.Concession.Arg2-as-denier	daha çok	şirketin başarısı için de kritik olarak	sadece önemli olarak değil
+Implicit	Expansion.Level-of-detail.Arg2-as-detail	aslında	Sürdürülebilirliği sadece önemli olarak değil, şirketin başarısı için de kritik olarak görmeye başladılar	Dünyadaki genel müdürlerin yaklaşık yüzde 80'i sürdürülebilirliği inovasyonda artış ve endüstrilerinde rekabet avantajına erişmenin kaynağı olarak görüyor
+Explicit	Expansion.Conjunction	ve	inovasyonda artış	endüstrilerinde rekabet avantajına erişmenin kaynağı
+Explicit	Comparison.Contrast	Ancak	Dünyadaki genel müdürlerin yaklaşık yüzde 80'i sürdürülebilirliği inovasyonda artış ve endüstrilerinde rekabet avantajına erişmenin kaynağı olarak görüyor	yüzde 93'ü ÇSY'yi gelecek olarak veya şirketlerinin geleceği için önemli olarak görüyor
+Explicit	Expansion.Disjunction	veya	gelecek olarak	şirketlerinin geleceği için önemli olarak
+AltLex	Contingency.Cause+SpeechAct.Result+SpeechAct	Gördüğünüz gibi	yüzde 93'ü ÇSY'yi gelecek olarak veya şirketlerinin geleceği için önemli olarak görüyor	Gördüğünüz gibi genel müdürlerin bakışı belli
+Explicit	Comparison.Similarity	gibi	genel müdürlerin bakışı belli	Gördüğünüz
+Implicit	Expansion.Equivalence	yani	genel müdürlerin bakışı belli	Sürdürülebilirlikte inanılmaz bir fırsat bulunur
+AltLex	Expansion.Level-of-detail.Arg2-as-detail	nasıl	2012'de State Street 54 uygulamayı bulut ortama taşıdı ve 85 tanesini de emekliye ayırdık. İşletim sistemi ortamlarını sanal hâle getirdik ve birçok otomasyon projesini tamamladık. İşte bu inisiyatifler daha mobil bir iş ortamı yaratıyor, gayrimenkul ayak izini azaltıyor, işletme maliyetlerinde yıllık olarak 23 milyon dolar tasarruf sağlıyor	O zaman şirketler görünür iş sonuçları almak üzere ÇSY'yi gerçekte nasıl kullanıyorlar
+AltLex	Contingency.Cause+SpeechAct.Result+SpeechAct	O zaman	Sürdürülebilirlikte inanılmaz bir fırsat bulunur	şirketler görünür iş sonuçları almak üzere ÇSY'yi gerçekte nasıl kullanıyorlar
+AltLex	Expansion.Instantiation	Bir örnek bizim için çok değerli	O zaman şirketler görünür iş sonuçları almak üzere ÇSY'yi gerçekte nasıl kullanıyorlar	2012'de State Street 54 uygulamayı bulut ortama taşıdı ve 85 tanesini de emekliye ayırdık. İşletim sistemi ortamlarını sanal hâle getirdik ve birçok otomasyon projesini tamamladık. İşte bu inisiyatifler daha mobil bir iş ortamı yaratıyor, gayrimenkul ayak izini azaltıyor, işletme maliyetlerinde yıllık olarak 23 milyon dolar tasarruf sağlıyor ve 100.00 metrik ton karbon emisyonunu önlüyor. Bu, 21.000 aracı trafikten çıkarmaya eşdeğer. Çok harika, değil mi
+Explicit	Expansion.Conjunction	ve	State Street 54 uygulamayı bulut ortama taşıdı	85 tanesini de emekliye ayırdık
+Implicit	Expansion.Conjunction	ayrıca	2012'de State Street 54 uygulamayı bulut ortama taşıdı ve 85 tanesini de emekliye ayırdık	İşletim sistemi ortamlarını sanal hâle getirdik ve birçok otomasyon projesini tamamladık
+Explicit	Expansion.Conjunction	ve	İşletim sistemi ortamlarını sanal hâle getirdik	birçok otomasyon projesini tamamladık
+AltLex	Contingency.Cause.Result	İşte	İşletim sistemi ortamlarını sanal hâle getirdik ve birçok otomasyon projesini tamamladık	bu inisiyatifler daha mobil bir iş ortamı yaratıyor, gayrimenkul ayak izini azaltıyor, işletme maliyetlerinde yıllık olarak 23 milyon dolar tasarruf sağlıyor ve 100.00 metrik ton karbon emisyonunu önlüyor
+Implicit	Expansion.Conjunction	ve	bu inisiyatifler daha mobil bir iş ortamı yaratıyor	gayrimenkul ayak izini azaltıyor
+Implicit	Contingency.Cause.Result	ve	gayrimenkul ayak izini azaltıyor	işletme maliyetlerinde yıllık olarak 23 milyon dolar tasarruf sağlıyor
+Explicit	Expansion.Conjunction	ve	işletme maliyetlerinde yıllık olarak 23 milyon dolar tasarruf sağlıyor	100.00 metrik ton karbon emisyonunu önlüyor
+AltLex	Expansion.Equivalence	eşdeğer	100.00 metrik ton karbon emisyonunu önlüyor	Bu, 21.000 aracı trafikten çıkarmaya eşdeğer
+Implicit	Contingency.Cause+SpeechAct.Result+SpeechAct	işte	Bu, 21.000 aracı trafikten çıkarmaya eşdeğer	Çok harika, değil
+AltLex	Expansion	Diğer bir örnek de Pentair	İşte bu inisiyatifler daha mobil bir iş ortamı yaratıyor, gayrimenkul ayak izini azaltıyor, işletme maliyetlerinde yıllık olarak 23 milyon dolar tasarruf sağlıyor ve 100.00 metrik ton karbon emisyonunu önlüyor	Pentair, bir ABD sanayi holdingi ve yaklaşık on yıl önce ana elektrikli alet işlerini sattılar ve bu kazançlarını su işine yatırdılar
+Explicit	Expansion.Conjunction	ve	Pentair, bir ABD sanayi holdingi	yaklaşık on yıl önce ana elektrikli alet işlerini sattılar
+AltLex	Temporal.Asynchronous.Succession	yaklaşık on yıl önce	Pentair, bir ABD sanayi holdingi	
+Explicit	Expansion.Conjunction	ve	yaklaşık on yıl önce ana elektrikli alet işlerini sattılar	bu kazançlarını su işine yatırdılar
+Implicit	Temporal.Asynchronous.Precedence	sonra	yaklaşık on yıl önce ana elektrikli alet işlerini sattılar	ve bu kazançlarını su işine yatırdılar
+Implicit	Contingency.Cause+SpeechAct.Result+SpeechAct	sonuçta	yaklaşık on yıl önce ana elektrikli alet işlerini sattılar ve bu kazançlarını su işine yatırdılar	Bu çok büyük bir bahis
+AltLex	Expansion.Level-of-detail.Arg2-as-detail	Neden	"su işinde elektrkli aletlerden daha fazla büyüme var ve bu şirket ""yeni Yeni Dünya"" adını verdikleri şeyi başarmak istiyorlardı"	Neden bunu yaptılar
+Implicit	Contingency.Cause.Reason	çünkü	Neden bunu yaptılar	"ev tamiri meraklılarından özür diliyorum ama su işinde elektrkli aletlerden daha fazla büyüme var ve bu şirket ""yeni Yeni Dünya"" adını verdikleri şeyi başarmak istiyorlardı. Bu, dört milyar orta sınıf insanın yiyecek, enerji ve su talep etmesi demek"
+Explicit	Expansion.Conjunction	ve	su işinde elektrkli aletlerden daha fazla büyüme var	"bu şirket ""yeni Yeni Dünya"" adını verdikleri şeyi başarmak istiyorlardı"
+Implicit	Comparison.Concession.Arg2-as-denier	nasıl	bunlar sadece uç vakalar mı	Yani gerçekten mi öyle
+AltLex	Hypophora	mı	Sizi hayret ettirecek cevap, evettir	Sürdürülebilirliği dikkate alan şirketler finansal olarak gerçekten iyi durumdalar
+Implicit	Expansion.Level-of-detail.Arg2-as-detail	aslında	Sizi hayret ettirecek cevap, evettir	Veriler, daha iyi ÇSY performansı olan hisse senetlerinin en az diğerleri kadar başarılı olduğunu gösteriyor
+Explicit	Expansion.Conjunction	Ve	Mavide, MSCI World'ü görüyoruz. Bu, dünyadaki gelişmiş pazarlardaki büyük şirketlerin indeksi	altın rengi olarak, ÇSY performansı en iyi olarak değerlendirilmiş şirketlerin bir alt kümesini görüyoruz
+Implicit	Expansion.Level-of-detail.Arg1-as-detail	kısaca	Mavide, MSCI World'ü görüyoruz. Bu, dünyadaki gelişmiş pazarlardaki büyük şirketlerin indeksi. Ve altın rengi olarak, ÇSY performansı en iyi olarak değerlendirilmiş şirketlerin bir alt kümesini görüyoruz	Üç yıldan fazla sürede, hiçbir performans farkı yok
+Explicit	Contingency.Cause+SpeechAct.Result+SpeechAct	O zaman	Üç yıldan fazla sürede, hiçbir performans farkı yok	bu tamam, değil mi
+Explicit		değil mi		
+Implicit	Contingency.Cause+SpeechAct.Result+SpeechAct	ama	bu tamam, değil mi	Daha fazlasını istiyoruz
+Implicit	Expansion.Conjunction	daha ziyade	Daha fazlasını istiyoruz	Daha fazlasını istiyorum
+Implicit	Expansion.Instantiation	örneğin	Bazı durumlarda, ÇSY daha iyi bir performans gösterebilir	Mavide, dünyadaki en büyük 500 şirketin performansını görüyoruz ve altın rengi olarak iklim değişikliği stratejisi ve risk yönetiminde en iyi uygulamalara sahip şirketlerin alt kümesini görüyoruz
+Explicit	Expansion.Conjunction	ve	Mavide, dünyadaki en büyük 500 şirketin performansını görüyoruz	altın rengi olarak iklim değişikliği stratejisi ve risk yönetiminde en iyi uygulamalara sahip şirketlerin alt kümesini görüyoruz
+Implicit	Expansion.Level-of-detail.Arg2-as-detail	işte	dünyadaki en büyük 500 şirketin performansını görüyoruz ve altın rengi olarak iklim değişikliği stratejisi ve risk yönetiminde en iyi uygulamalara sahip şirketlerin alt kümesini görüyoruz	Yaklaşık sekiz sene boyunca, yaklaşık üçte iki oranda daha fazla performans gösterdiler
+Implicit	Expansion	yani	Yaklaşık sekiz sene boyunca, yaklaşık üçte iki oranda daha fazla performans gösterdiler	Evet bu korelasyon
+Implicit	Expansion.Substitution.Arg1-as-subst	fakat	Evet bu korelasyon	Sebep sonuç değil
+Explicit	Comparison.Concession.Arg2-as-denier	Ancak	Sebep sonuç değil	bu, çevresel liderliğin iyi kazançla bağdaştığını gösteriyor
+Implicit	Expansion.Conjunction	ve	bu, çevresel liderliğin iyi kazançla bağdaştığını gösteriyor	O zaman eğer kazanç aynı ya da daha iyi olursa ve gezegen bundan fayda görürse, bunun norm olması gerekmez mi
+Explicit	Expansion.Conjunction	olursa	ve gezegen bundan fayda görürse	kazanç aynı ya da daha iyi
+Explicit	Expansion.Conjunction	ve	kazanç aynı ya da daha iyi olursa	gezegen bundan fayda görürse
+Explicit	Contingency.Condition.Arg2-as-cond	görürse	bunun norm olması gerekmez mi	eğer kazanç aynı ya da daha iyi olursa ve gezegen bundan fayda görürse
+Implicit	Expansion.Conjunction	ve	O zaman eğer kazanç aynı ya da daha iyi olursa ve gezegen bundan fayda görürse, bunun norm olması gerekmez mi	Yatırımcılar, özellikle kurumsal yatırımcılar bununla ilgili mi
+AltLex	Expansion.Level-of-detail.Arg2-as-detail	mi	Evet, bazıları öyle ve birkaçı da öncü konumda	Yatırımcılar, özellikle kurumsal yatırımcılar bununla ilgili
+Explicit	Expansion.Conjunction	ve	bazıları öyle	birkaçı da öncü konumda
+Implicit	Expansion.Instantiation	örneğin	birkaçı da öncü konumda	Hesta. Hesta, Avustralya'da sağlık ve toplum hizmetleri çalışanları için bir emeklilik fonu, 22 milyar (dolar) varlığı var
+Implicit	Expansion.Conjunction	ve	Hesta, Avustralya'da sağlık ve toplum hizmetleri çalışanları için bir emeklilik fonu, 22 milyar (dolar) varlığı var	ÇSY'nin risk ve kazançları etkileme potansiyeli olduğuna inanıyorlar
+AltLex	Contingency.Cause.Result	Bu yüzden	ÇSY'nin risk ve kazançları etkileme potansiyeli olduğuna inanıyorlar	bunu yatırım sürecine dahil etmek onların vazifelerinin temeli, fon üyelerinin en çok yararı olacak şekilde davranmak onların vazifelerinin temeli
+Implicit	Contingency.Cause+SpeechAct.Result+SpeechAct	bu nedenle	bunu yatırım sürecine dahil etmek onların vazifelerinin temeli, fon üyelerinin en çok yararı olacak şekilde davranmak onların vazifelerinin temeli	Avustralyalıları sevmek lazım, değil mi
+Explicit		değil mi		
+AltLex	Expansion.Instantiation	diğer bir örnek	CalPERS, Kaliforniya'da kamu çalışanları için bir emeklilik fonu ve 244 milyar (dolar) varlığı var	CalPERS, diğer bir örnek
+Explicit	Expansion.Conjunction	ve	CalPERS, Kaliforniya'da kamu çalışanları için bir emeklilik fonu	244 milyar (dolar) varlığı var
+Explicit	Expansion.Conjunction	ve	ABD'de ikinci en büyük	dünyada altıncı en büyükler
+Implicit	Expansion.Level-of-detail.Arg2-as-detail	ve	ABD'de ikinci en büyük ve dünyada altıncı en büyükler	tüm fona sistematik olarak entegre edilmiş ÇSY ile yüzde yüz sürdürülebilir yatırıma doğru gidiyorlar
+AltLex	Contingency.Cause+SpeechAct.Reason+SpeechAct	Neden	tüm fona sistematik olarak entegre edilmiş ÇSY ile yüzde yüz sürdürülebilir yatırıma doğru gidiyorlar	Daha fazla uzun dönem kazanç için bunun kritik olduğuna inanıyorlar
+Implicit	Expansion.Level-of-detail.Arg2-as-detail	yani	Daha fazla uzun dönem kazanç için bunun kritik olduğuna inanıyorlar, nokta	Uzun dönemli değer yaratımı üç çeşit sermayenin verimli yönetimini gerektirir: Finansal, insan ve fiziksel
+AltLex	Contingency.Cause+Belief.Result+Belief	Bu yüzden	Uzun dönemli değer yaratımı üç çeşit sermayenin verimli yönetimini gerektirir: Finansal, insan ve fiziksel	ÇSY ile ilgiliyiz
+Implicit	Comparison.Concession.Arg2-as-denier	fakat	Bu yüzden ÇSY ile ilgiliyiz	İşimin bir parçası olarak, birçok yatırımcı ile konuşuyorum ve hepsi durumu bu şekilde görmüyorlar
+Explicit	Expansion.Conjunction	ve	İşimin bir parçası olarak, birçok yatırımcı ile konuşuyorum	hepsi durumu bu şekilde görmüyorlar
+Implicit	Comparison.Contrast	fakat	İşimin bir parçası olarak, birçok yatırımcı ile konuşuyorum	ve hepsi durumu bu şekilde görmüyorlar
+Implicit	Expansion.Substitution.Arg2-as-subst	bunun yerine	hepsi durumu bu şekilde görmüyorlar	"Sık sık şunu duyarım, ""Kazancı maksimize etmek zorundayız, bu yüzden bunu burada yapamayız."", veya ""Portfolyomuzu politika beyanı yapmak için kullanmak istemiyoruz"
+AltLex	Contingency.Cause.Result	bu yüzden	Kazancı maksimize etmek zorundayız	bunu burada yapamayız
+Explicit	Expansion.Disjunction	veya	"Sık sık şunu duyarım, ""Kazancı maksimize etmek zorundayız, bu yüzden bunu burada yapamayız"	Portfolyomuzu politika beyanı yapmak için kullanmak istemiyoruz
+Explicit	Contingency.Purpose.Arg2-as-goal	için	kullanmak istemiyoruz	Portfolyomuzu politika beyanı yapmak
+Explicit	Comparison.Concession.Arg2-as-denier	ise	"Sık sık şunu duyarım, ""Kazancı maksimize etmek zorundayız, bu yüzden bunu burada yapamayız."", veya ""Portfolyomuzu politika beyanı yapmak için kullanmak istemiyoruz"	
+Explicit	Contingency.Condition.Arg2-as-cond	istiyorsan	sadece para kazan ve kârı hayır kurumlarına ver	Eğer bununla ilgili birşeyler yapmak istiyorsan
+Explicit	Expansion.Conjunction	ve	sadece para kazan	kârı hayır kurumlarına ver
+Implicit	Temporal.Asynchronous.Precedence	hatta	sadece para kazan	ve kârı hayır kurumlarına ver
+Implicit	Contingency.Cause+SpeechAct.Result+SpeechAct	işte	"Beni gerçekten kızdıranı ise şu, ""Eğer bununla ilgili birşeyler yapmak istiyorsan, sadece para kazan ve kârı hayır kurumlarına ver"	Hep şüphe, hep şüphe
+Implicit	Expansion.Level-of-detail.Arg2-as-detail	NONE	Yani burada birşey açıklamama izin verin	Şirketler ve yatırımcılar gezegenin kaderinden tek başlarına sorumlu değillerdir
+Implicit	Contingency.Cause.Reason	çünkü	Şirketler ve yatırımcılar gezegenin kaderinden tek başlarına sorumlu değillerdir	Sonsuz sosyal sorumlulukları yoktur ve mantıklı yatırım ile finans teorisi sürdürülebilirlikten aşağı değildir. Birbiriyle uyumludurlar
+Explicit	Expansion.Conjunction	ve	Sonsuz sosyal sorumlulukları yoktur	mantıklı yatırım ile finans teorisi sürdürülebilirlikten aşağı değildir
+Implicit	Expansion.Substitution.Arg2-as-subst	açıkçası	Sonsuz sosyal sorumlulukları yoktur ve mantıklı yatırım ile finans teorisi sürdürülebilirlikten aşağı değildir	Birbiriyle uyumludurlar
+AltLex	Contingency.Cause+Belief.Result+Belief	O yüzden	Birbiriyle uyumludurlar	burada birinden ödün vermekten bahsetmiyorum
+Explicit	Comparison.Concession.Arg2-as-denier	Ancak	Sonsuz sosyal sorumlulukları yoktur ve mantıklı yatırım ile finans teorisi sürdürülebilirlikten aşağı değildir. Birbiriyle uyumludurlar. O yüzden burada birinden ödün vermekten bahsetmiyorum	kurumsal yatırımcılar sürdürülebilirlikte x faktörüdür
+Implicit	Contingency.Cause+SpeechAct.Result+SpeechAct	o halde	kurumsal yatırımcılar sürdürülebilirlikte x faktörüdür	Neden anahtarı ellerinde tutarlar
+AltLex	Contingency.Cause.Reason	Neden	anahtarı ellerinde tutarlar	paraları vardır. (Gülüşmeler) Hem de çok. Yani, gerçekten çok fazla
+Explicit	Expansion.Substitution.Arg2-as-subst	Yani	Hem de çok	gerçekten çok fazla
+Implicit	Expansion.Instantiation	örnek olarak	gerçekten çok fazla	Dünya hisse senedi pazarı 55 trilyon dolar değerindedir
+Explicit	Comparison.Concession.Arg2-as-denier	ise	Dünya hisse senedi pazarı 55 trilyon dolar değerindedir	
+Implicit	Expansion.Conjunction	yani	Dünya hisse senedi pazarı 55 trilyon dolar değerindedir. Dünya bono pazarı ise 78 trilyondur	İkisi beraber 133 trilyondur
+Implicit	Comparison.Similarity	karşılaştırırsak	İkisi beraber 133 trilyondur	Bu, ABD'nin GSMH'sının sekiz buçuk katı
+Implicit	Expansion.Equivalence	bir başka deyişle	Bu, ABD'nin GSMH'sının sekiz buçuk katı	Bu, dünyanın en büyük ekonomisidir
+Implicit	Expansion.Equivalence	bir başka deyişle	Bu, dünyanın en büyük ekonomisidir	Bu, gerçekten de ciddi bir güç
+Explicit	Contingency.Condition.Arg2-as-cond	ederlerse	bu acil sorunlardan bazılarını tekrar ele alabiliriz, temiz su, temiz hava, 10 milyar ağzı beslemek gibi	eğer kurumsal yatırımcılar ÇSY'yi yatırımlarına entegre ederlerse
+Implicit	Expansion.Conjunction	fakat	Bu, gerçekten de ciddi bir güç. Böylece bu acil sorunlardan bazılarını tekrar ele alabiliriz, temiz su, temiz hava, 10 milyar ağzı beslemek gibi, eğer kurumsal yatırımcılar ÇSY'yi yatırımlarına entegre ederlerse	Bu gücü bu sorunları çözmek için en fazla çalışan veya en azından bunları kötüleştirmeyen şirketlere daha fazla sermaye aktarmak için kullansalar ne olurdu
+Explicit	Contingency.Purpose.Arg2-as-goal	için	en fazla çalışan	bu sorunları çözmek
+Explicit	Expansion.Disjunction	veya	en azından bunları kötüleştirmeyen	bu sorunları çözmek için en fazla çalışan
+Explicit	Contingency.Purpose.Arg2-as-goal	için	kullansalar	en azından bunları kötüleştirmeyen şirketlere daha fazla sermaye aktarmak
+Explicit	Contingency.Condition+SpeechAct	kullansalar	ne olurdu	en azından bunları kötüleştirmeyen şirketlere daha fazla sermaye aktarmak için
+Implicit	Expansion.Conjunction	ve	Bu gücü bu sorunları çözmek için en fazla çalışan veya en azından bunları kötüleştirmeyen şirketlere daha fazla sermaye aktarmak için kullansalar ne olurdu	Peki ya çalışıp, biriktirip, yatırım yapsak ve emekli olduğumuzda dünyanın şimdikinden daha stresli ve daha az güvenli olduğunu görsek
+Explicit	Expansion.Conjunction	çalışıp	biriktirip	çalışıp
+Explicit	Expansion.Conjunction	biriktirip	yatırım yapsak	biriktirip
+Explicit	Contingency.Condition.Arg2-as-cond	yapsak	ve emekli olduğumuzda dünyanın şimdikinden daha stresli ve daha az güvenli olduğunu görsek	çalışıp, biriktirip, yatırım yapsak
+Explicit	Expansion.Conjunction	ve	ya çalışıp, biriktirip, yatırım yapsak	emekli olduğumuzda dünyanın şimdikinden daha stresli ve daha az güvenli olduğunu görsek
+Explicit	Contingency.Condition.Arg2-as-cond	olduğumuzda	dünyanın şimdikinden daha stresli ve daha az güvenli olduğunu	emekli olduğumuzda
+Implicit	Expansion.Conjunction	ve	Peki ya çalışıp, biriktirip, yatırım yapsak ve emekli olduğumuzda dünyanın şimdikinden daha stresli ve daha az güvenli olduğunu görsek	Peki ya yeteri kadar temiz hava ve temiz su olmazsa
+Implicit	Comparison.Contrast	öte yandan	Bu gücü bu sorunları çözmek için en fazla çalışan veya en azından bunları kötüleştirmeyen şirketlere daha fazla sermaye aktarmak için kullansalar ne olurdu? Peki ya çalışıp, biriktirip, yatırım yapsak ve emekli olduğumuzda dünyanın şimdikinden daha stresli ve daha az güvenli olduğunu görsek? Peki ya yeteri kadar temiz hava ve temiz su olmazsa	Adil bir soru da şu olur, peki ya bütün bu sürdürülebilirlik riskiyle ilgili şeyler abartılmışsa, büyütülmüşse, acil değilse, dürüst tüketiciler veya hayat tarzı seçimi için olan bir şeyse
+Explicit	Contingency.Condition.Arg2-as-cond	abartılmışsa	"Başkan John F. Kennedy bunun hakkında çok uygun bir şey söyledi: ""Bir hareket planının riskleri ve maliyetleri vardır, ancak zahmetsiz eylemsizliğin uzun dönemli riskleri ve maliyetlerinden çok daha azdır"	bütün bu sürdürülebilirlik riskiyle ilgili şeyler
+Explicit	Contingency.Condition.Arg2-as-cond	büyütülmüşse	"Başkan John F. Kennedy bunun hakkında çok uygun bir şey söyledi: ""Bir hareket planının riskleri ve maliyetleri vardır, ancak zahmetsiz eylemsizliğin uzun dönemli riskleri ve maliyetlerinden çok daha azdır"	bütün bu sürdürülebilirlik riskiyle ilgili şeyler abartılmışsa
+Explicit	Contingency.Condition.Arg2-as-cond	değilse	"Başkan John F. Kennedy bunun hakkında çok uygun bir şey söyledi: ""Bir hareket planının riskleri ve maliyetleri vardır, ancak zahmetsiz eylemsizliğin uzun dönemli riskleri ve maliyetlerinden çok daha azdır"	bütün bu sürdürülebilirlik riskiyle ilgili şeyler abartılmışsa, büyütülmüşse, acil
+Explicit	Contingency.Condition.Arg2-as-cond	şeyse	"Başkan John F. Kennedy bunun hakkında çok uygun bir şey söyledi: ""Bir hareket planının riskleri ve maliyetleri vardır, ancak zahmetsiz eylemsizliğin uzun dönemli riskleri ve maliyetlerinden çok daha azdır"	bütün bu sürdürülebilirlik riskiyle ilgili şeyler abartılmışsa, büyütülmüşse, acil değilse, dürüst tüketiciler veya hayat tarzı seçimi için olan bir
+AltLex	Comparison.Contrast	peki ya	bütün bu sürdürülebilirlik riskiyle ilgili şeyler abartılmışsa, büyütülmüşse, acil değilse, dürüst tüketiciler veya hayat tarzı seçimi için olan bir şeyse	"Başkan John F. Kennedy bunun hakkında çok uygun bir şey söyledi: ""Bir hareket planının riskleri ve maliyetleri vardır, ancak zahmetsiz eylemsizliğin uzun dönemli riskleri ve maliyetlerinden çok daha azdır"
+Explicit	Comparison.Contrast	ancak	Bir hareket planının riskleri ve maliyetleri vardır	zahmetsiz eylemsizliğin uzun dönemli riskleri ve maliyetlerinden çok daha azdır
+Implicit	Expansion.Level-of-detail.Arg2-as-detail	aslında	Bir hareket planının riskleri ve maliyetleri vardır, ancak zahmetsiz eylemsizliğin uzun dönemli riskleri ve maliyetlerinden çok daha azdır	Bunda değerleme riski olacağını kabul ediyorum
+Explicit	Comparison.Concession.Arg2-as-denier	ancak	Bunda değerleme riski olacağını kabul ediyorum	bu kabul edilmiş bilimsel mutabakata dayalı olduğu için tamamen yanlış olmaması ihtimali evimizin yanması veya araba kazası geçirmemiz ihtimalinden daha fazla
+Explicit	Contingency.Cause.Reason	için	tamamen yanlış olmaması ihtimali evimizin yanması veya araba kazası geçirmemiz ihtimalinden daha fazla	bu kabul edilmiş bilimsel mutabakata dayalı olduğu
+AltLex	Comparison.Contrast	daha fazla	tamamen yanlış olmaması ihtimali	evimizin yanması veya araba kazası geçirmemiz ihtimalinden daha fazla
+Explicit	Expansion.Disjunction	veya	evimizin yanması	araba kazası geçirmemiz
+Implicit	Expansion.Exception.Arg2-as-excpt	ama	bu kabul edilmiş bilimsel mutabakata dayalı olduğu için tamamen yanlış olmaması ihtimali evimizin yanması veya araba kazası geçirmemiz ihtimalinden daha fazla	Boston'da yaşıyorsanız belki de değil
+Explicit	Contingency.Condition.Arg2-as-cond	yaşıyorsanız	belki de değil	Boston'da yaşıyorsanız
+Explicit	Expansion.Disjunction	olursa	kendimizi finansal olarak korumak	
+Explicit	Contingency.Purpose.Arg2-as-goal	için	sigorta satın alıyoruz, değil mi	birşey olursa diye kendimizi finansal olarak korumak
+Explicit		değil mi		
+Explicit	Temporal.Asynchronous	yapınca da	iki şey yapıyoruz	sürdürülebilir olarak yatırım yapınca
+Implicit	Expansion.Level-of-detail.Arg2-as-detail	şöyle ki	iki şey yapıyoruz	Gezegenimize ve ekonomimize olan riski azaltarak sigorta yaratıyoruz ve aynı zamanda da kısa vadede performanstan fedakârlık etmiyoruz
+Explicit	Expansion.Manner.Arg2-as-manner	azaltarak	sigorta yaratıyoruz	Gezegenimize ve ekonomimize olan riski
+Explicit	Expansion.Conjunction	ve	Gezegenimize ve ekonomimize olan riski azaltarak sigorta yaratıyoruz	aynı zamanda da kısa vadede performanstan fedakârlık etmiyoruz
+Explicit	Temporal.Synchronous	aynı zamanda da	Gezegenimize ve ekonomimize olan riski azaltarak sigorta yaratıyoruz	
+Explicit	Expansion.Conjunction	ve	Peki ya bu koca bir yalansa	hiçbir şey için daha iyi bir dünya yaratıyorsak
+Implicit	Comparison.Similarity	aslında	İyi, sevdiniz	Ben de seviyorum
+Implicit	Expansion.Conjunction	yani	Ben de seviyorum	Seviyorum, çünkü iklim değişikliği mevzusunun iki yönüyle de dalga geçiyor
+Explicit	Contingency.Cause.Reason	çünkü	Seviyorum	iklim değişikliği mevzusunun iki yönüyle de dalga geçiyor
+Implicit	Expansion.Conjunction	ama	iklim değişikliği mevzusunun iki yönüyle de dalga geçiyor	İddiaya girerim, hangi tarafta olduğumu tahmin edemezsiniz
+Explicit	Expansion.Conjunction	Ancak	Seviyorum, çünkü iklim değişikliği mevzusunun iki yönüyle de dalga geçiyor	"bununla ilgili gerçekten sevdiğim şey, bana Mark Twain'in söylediği birşeyi hatırlatıyor olması, ""Gelecek için planla, çünkü orası hayatının geri kalanını geçireceğin yerdir"
+Explicit	Contingency.Cause+Belief.Reason+Belief	çünkü	Gelecek için planla	orası hayatının geri kalanını geçireceğin yerdir

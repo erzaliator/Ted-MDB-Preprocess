@@ -1,0 +1,22 @@
+rel_type	rel_sense	conn_text	arg1_text	arg2_text
+Explicit	Temporal.Synchronous	Quando	pensamos habitualmente em estradas e ruas e edifícios e a narrativa explicativa que levou à sua criação	pensamos em mapas de cidades
+Explicit	Expansion.Disjunction	ou	pensamos habitualmente em estradas e ruas e edifícios e a narrativa explicativa que levou à sua criação	podemos pensar na visão ousada de um paisagista urbano
+Explicit	Comparison.Contrast	mas	Quando pensamos em mapas de cidades , pensamos habitualmente em estradas e ruas e edifícios e a narrativa explicativa que levou à sua criação , ou podemos pensar na visão ousada de um paisagista urbano	há outras formas de pensar em mapas de cidades e na forma como devem ser feitos
+Explicit	Expansion.Conjunction	e	cada linha representa uma relação entre essas pessoas	cada cor representa uma comunidade dentro de_ a rede
+Explicit	Contingency.Purpose.Arg2-as-goal	Para que	chamamos Smalltimore à parte verde de_ a rede	percebam melhor
+Explicit	Contingency.Cause.Reason	porque	chamamos Smalltimore à parte verde de_ a rede , a_ os que ali moram	parece que vivemos em_ uma cidade muito pequena
+Explicit	Comparison.Concession.Arg2-as-denier	mas	Estamos sempre a encontrar as mesmas pessoas	isso acontece porque não exploramos toda a profundidade e amplitude de_ a cidade
+Explicit	Contingency.Cause.Reason	porque	isso acontece	não exploramos toda a profundidade e amplitude de_ a cidade
+Explicit	Expansion.Conjunction	e	"se interessam por música "" hip-hop """	até se identificam dizendo que vivem na área DC / Maryland / Virginia
+Implicit	Expansion.Manner.Arg2-as-manner	assim	até se identificam	dizendo que vivem na área DC / Maryland / Virginia
+Explicit	Expansion.Substitution.Arg2-as-subst	em vez de	dizendo que vivem na área DC / Maryland / Virginia	dizerem na cidade de Baltimore , a designação apropriada
+Implicit	Expansion.Manner.Arg2-as-manner	assim	Acho que podemos tentar perceber isso	olhando para um mapa como este
+Explicit	Comparison.Contrast	mas	Temos assim o mesmo tipo de difusão no desporto , na sociedade civil , na arte e na música	está representada de modo muito diferente
+Explicit	Comparison.Contrast	e	É uma coisa que escolhemos fazer	podíamos escolher não a fazer
+Explicit	Contingency.Condition+SpeechAct	Se	o que estamos a fazer com estes dados é apontar um telescópio para uma cidade e olhar para ela como uma gigantesca cantina escolar , ver como toda a gente se instala em_ uma planta de lugares	pensarmos bem em_ isso
+Explicit	Expansion.Conjunction	e	apontar um telescópio para uma cidade	olhar para ela como uma gigantesca cantina escolar
+Explicit	Contingency.Condition.Arg2-as-cond	Se	precisamos de começar a pensar sobre a diversidade de forma diferente	tentarmos usar a diversidade como forma de resolver alguns de_ os problemas mais difíceis
+Explicit	Contingency.Purpose.Arg2-as-goal	para	temos a possibilidade de criar intervenções	começar a reformular as nossas cidades de modo novo
+Explicit	Contingency.Condition.Arg2-as-cond	se	até podemos ter alguma responsabilidade em fazê# -lo	temos essa capacidade
+Explicit	Expansion.Conjunction	mas	Acho que alguns dirão que é uma área geográfica ou um conjunto de ruas e edifícios	penso que uma cidade é a soma de_ as relações de_ as pessoas que lá vivem
+Explicit	Contingency.Condition.Arg2-as-cond	se	talvez tenhamos uma hipótese para criar o tipo de cidades que gostaríamos de ter	começarmos a documentar essas relações de forma real

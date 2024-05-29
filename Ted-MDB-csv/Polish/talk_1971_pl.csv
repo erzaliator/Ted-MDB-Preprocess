@@ -1,0 +1,33 @@
+rel_type	rel_sense	conn_text	arg1_text	arg2_text
+Explicit	Comparison.Concession.Arg2-as-denier	Jednak	Urodziłem się i wychowałem w Sierra Leone, małym i bardzo pięknym kraju w Afryce Zachodniej, zasobnym w surowce i talent twórczy	Sierra Leone ma złą sławę z czasów 10-letniej wojny rebeliantów w latach 90., kiedy palono całe wsie
+Explicit	Temporal.Synchronous	wtedy	Jednak Sierra Leone ma złą sławę z czasów 10-letniej wojny rebeliantów w latach 90., kiedy palono całe wsie	
+Explicit	Temporal.Synchronous	wtedy	Około 8000 mężczyzn, kobiet i dzieci straciło wtedy ręce lub nogi	zdecydowałem, że zrobię wszystko, by moje dzieci nie przechodziły przez to samo, co my
+Explicit	Contingency.Purpose.Arg2-as-goal	Aby	Moja rodzina uciekła przed takim atakiem, kiedy miałem około 12 lat, i wtedy zdecydowałem, że zrobię wszystko, by moje dzieci nie przechodziły przez to samo, co my	były częścią Sierra Leone, gdzie wojna i amputacje nie będą już sposobem walki o władzę
+Explicit	Temporal.Synchronous	Kiedy	patrzyłem na znajomych, bliskich mi ludzi, którzy dochodzili do siebie	bardzo się martwiłem, że wiele osób po amputacji nie używa protez
+Explicit	Contingency.Cause.Reason	wynikało to z faktu	wiele osób po amputacji nie używa protez	leje ich protez sprawiały ból, bo nie były dobrze dopasowane
+Implicit	Expansion.Level-of-detail.Arg2-as-detail	krótko mówiąc	leje ich protez sprawiały ból, bo nie były dobrze dopasowane	Lej protezowy to część, gdzie człowiek wkłada kikut kończyny i która jest połączona z resztą protezy
+Implicit	Comparison.Concession.Arg2-as-denier	jednakże	Lej protezowy to część, gdzie człowiek wkłada kikut kończyny i która jest połączona z resztą protezy	Nawet w rozwiniętych krajach trzeba czekać od trzech tygodni po wiele lat, zanim lej stanie się wygodny, a nie zawsze tak się dzieje
+Explicit	Temporal.Asynchronous.Succession	zanim	Nawet w rozwiniętych krajach trzeba czekać od trzech tygodni po wiele lat	lej stanie się wygodny
+Explicit	Comparison.Concession.Arg2-as-denier	a	Nawet w rozwiniętych krajach trzeba czekać od trzech tygodni po wiele lat, zanim lej stanie się wygodny	nie zawsze tak się dzieje
+Explicit	Expansion.Level-of-detail.Arg2-as-detail	czyli	Protetycy wciąż wykorzystują tradycyjne metody	modelowanie i odlewanie
+Explicit	Contingency.Purpose.Arg2-as-goal	by	modelowanie i odlewanie	stworzyć lej z jednego materiału
+Implicit	Contingency.Cause.Result	i w efekcie	Protetycy wciąż wykorzystują tradycyjne metody, czyli modelowanie i odlewanie, by stworzyć lej z jednego materiału	Takie leje często wywierają nieznośny nacisk na kończynę, zostawiając odgnioty czy pęcherze
+Implicit	Contingency.Cause.Result	so	Takie leje często wywierają nieznośny nacisk na kończynę, zostawiając odgnioty czy pęcherze	Nie ma znaczenia, jak mocny jest przegub protezy
+Explicit	Contingency.Condition.Arg2-as-cond	Jeśli	noga nie będzie używana	lej protezy jest niewygodny
+Explicit	Expansion.Level-of-detail.Arg2-as-detail	a	Jeśli lej protezy jest niewygodny, noga nie będzie używana	tego nie można zaakceptować w naszych czasach
+Explicit	Temporal.Synchronous	Kiedy	zapytał, czy wiem jak rozwiązać ten problem	spotkałem prof. Hugh Herra około dwóch i pół roku temu
+Implicit	Contingency.Cause.Result	więc (so)	Kiedy spotkałem prof. Hugh Herra około dwóch i pół roku temu, zapytał, czy wiem jak rozwiązać ten problem	Odpowiedziałem
+Implicit	Q\A	mianowicie	Odpowiedziałem	"""Jeszcze nie, ale z przyjemnością się dowiem"""
+Implicit	Expansion.Level-of-detail.Arg2-as-detail	otóż	W ramach swojego doktoratu w MIT Media Lab wynalazłem dopasowane leje protezy, szybkie i tanie w produkcji, które są wygodniejsze od klasycznych	Wykorzystałem rezonans magnetyczny, by dokładnie zbadać budowę pacjenta, a potem wykorzystałem metodę elementów skończonych, by lepiej przewidzieć wewnętrzne napięcia i naprężenia powstające przy użyciu normalnej siły
+Explicit	Contingency.Purpose.Arg1-as-goal	by	Wykorzystałem rezonans magnetyczny	dokładnie zbadać budowę pacjenta
+Explicit	Temporal.Asynchronous.Succession	a potem	Wykorzystałem rezonans magnetyczny, by dokładnie zbadać budowę pacjenta	wykorzystałem metodę elementów skończonych
+Explicit	Contingency.Purpose.Arg2-as-goal	by	wykorzystałem metodę elementów skończonych	lepiej przewidzieć wewnętrzne napięcia i naprężenia powstające przy użyciu normalnej siły
+Explicit	Temporal.Asynchronous.Succession	Potem	Wykorzystałem rezonans magnetyczny, by dokładnie zbadać budowę pacjenta, a potem wykorzystałem metodę elementów skończonych, by lepiej przewidzieć wewnętrzne napięcia i naprężenia powstające przy użyciu normalnej siły	stworzyłem lej do ogólnej produkcji
+Explicit	Contingency.Purpose.Arg2-as-goal	by	Wykorzystujemy drukarkę 3D	tworzyć lej z różnych materiałów, który tam, gdzie potrzeba, zmniejsza nacisk na ciało pacjenta
+Explicit	Expansion.Level-of-detail.Arg1-as-detail	W skrócie	Wykorzystujemy drukarkę 3D, by tworzyć lej z różnych materiałów, który tam, gdzie potrzeba, zmniejsza nacisk na ciało pacjenta	używamy danych, by stworzyć nowoczesne protezy szybko i tanio
+Explicit	Contingency.Purpose.Arg2-as-goal	by	używamy danych	stworzyć nowoczesne protezy szybko i tanio
+Explicit	Expansion.Instantiation	tak	W niedawno ukończonych testach w Media Lab, jeden z naszych pacjentów, amerykański weteran, który nie miał kończyny od około 20 lat i wypróbował w życiu z 10 protez, powiedział o jednej z naszych drukowanych części	"Jest taka miękka, jakbym chodził na poduszkach. I jest niesamowicie seksowna"""
+Explicit	Expansion.Conjunction	I	Jest taka miękka, jakbym chodził na poduszkach	jest niesamowicie seksowna
+Implicit	Contingency.Cause+Belief.Result+Belief	stąd	Współcześnie niepełnosprawność nie powinna nikomu utrudniać prowadzenia pełnowartosciowego życia	Mam nadzieję i pragnienie, że narzędzia i technologie rozwijane przez naszą grupę badawczą będą dostarczać wysokofunkcjonalnych protez tym, którzy ich potrzebują
+Implicit	Contingency.Cause+Belief.Reason+Belief	ponieważ (because)	Mam nadzieję i pragnienie, że narzędzia i technologie rozwijane przez naszą grupę badawczą będą dostarczać wysokofunkcjonalnych protez tym, którzy ich potrzebują	Dla mnie początek leczenia dusz dotkniętych przez wojnę i choroby leży w stworzeniu wygodnych i tanich interfejsów dla ich ciał
+Explicit	Temporal.Synchronous	ale i	Czy w Sierra Leone czy Bostonie, mam nadzieję, że to nie tylko przywróci	zmieni ich poczucie własnych możliwości

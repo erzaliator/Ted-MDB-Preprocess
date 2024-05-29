@@ -1,0 +1,106 @@
+rel_type	rel_sense	conn_text	arg1_text	arg2_text
+Implicit	Expansion.Conjunction	and	The universe is teeming with planets	I want us, in the next decade, to build a space telescope that'll be able to image an Earth about another star and figure out whether it can harbor life
+Explicit	Expansion.Conjunction	and	to image an Earth about another star	figure out whether it can harbor life
+Implicit	Expansion.Level-of-detail.Arg2-as-detail	accordingly	I want us, in the next decade, to build a space telescope that'll be able to image an Earth about another star and figure out whether it can harbor life	My colleagues at the NASA Jet Propulsion Laboratory at Princeton and I are working on technology that will be able to do just that in the coming years
+Explicit	Expansion.Conjunction	and	Astronomers now believe that every star in the galaxy has a planet	they speculate that up to one fifth of them have an Earth-like planet that might be able to harbor life
+Explicit	Comparison.Concession.Arg2-as-denier	but	Astronomers now believe that every star in the galaxy has a planet, and they speculate that up to one fifth of them have an Earth-like planet that might be able to harbor life	we haven't seen any of them
+Implicit	Expansion.Substitution.Arg2-as-subst	rather	we haven't seen any of them	We've only detected them indirectly
+Explicit	Temporal.Synchronous	when	It was taken by the Voyager spacecraft in 1990	they turned it around as it was exiting the solar system to take a picture of the Earth from six billion kilometers away
+Explicit	Temporal.Synchronous	as	they turned it around	it was exiting the solar system to take a picture of the Earth from six billion kilometers away
+Implicit	Comparison.Similarity	similarly	It was taken by the Voyager spacecraft in 1990, when they turned it around as it was exiting the solar system to take a picture of the Earth from six billion kilometers away	I want to take that of an Earth-like planet about another star
+Implicit	Comparison.Concession.Arg2-as-denier	but	I want to take that of an Earth-like planet about another star	Why haven't we done that
+Implicit	Expansion.Conjunction	and	Why haven't we done that	Why is that hard
+AltLex	Hypophora	Why	to see, let's imagine we take the Hubble Space Telescope and we turn it around and we move it out to the orbit of Mars. We'll see something like that, a slightly blurry picture of the Earth, because we're a fairly small telescope out at the orbit of Mars. Now let's move ten times further away. Here we are at the orbit of Uranus. It's gotten smaller, it's got less detail, less resolve. We can still see the little moon, but let's go ten times further away again. Here we are at the edge of the solar system, out at the Kuiper Belt. Now it's not resolved at all. It's that pale blue dot of Carl Sagan's. But let's move yet again ten times further away. Here we are out at the Oort Cloud, outside the solar system, and we're starting to see the sun move into the field of view and get into where the planet is. One more time, ten times further away. Now we're at Alpha Centauri, our nearest neighbor star, and the planet is gone. All we're seeing is the big beaming image of the star that's ten billion times brighter than the planet, which should be in that little red circle. That's what we want to see. That's why it's hard. The light from the star is diffracting. It's scattering inside the telescope, creating that very bright image that washes out the planet	Why is that hard
+Implicit	Contingency.Cause.Reason	because	Why is that hard	to see, let's imagine we take the Hubble Space Telescope and we turn it around and we move it out to the orbit of Mars. We'll see something like that, a slightly blurry picture of the Earth, because we're a fairly small telescope out at the orbit of Mars. Now let's move ten times further away. Here we are at the orbit of Uranus. It's gotten smaller, it's got less detail, less resolve. We can still see the little moon, but let's go ten times further away again. Here we are at the edge of the solar system, out at the Kuiper Belt. Now it's not resolved at all. It's that pale blue dot of Carl Sagan's. But let's move yet again ten times further away. Here we are out at the Oort Cloud, outside the solar system, and we're starting to see the sun move into the field of view and get into where the planet is. One more time, ten times further away. Now we're at Alpha Centauri, our nearest neighbor star, and the planet is gone. All we're seeing is the big beaming image of the star that's ten billion times brighter than the planet, which should be in that little red circle. That's what we want to see. That's why it's hard. The light from the star is diffracting. It's scattering inside the telescope, creating that very bright image that washes out the planet
+AltLex	Contingency.Condition.Arg2-as-cond	let's imagine	We'll see something like that, a slightly blurry picture of the Earth	we take the Hubble Space Telescope and we turn it around and we move it out to the orbit of Mars
+Explicit	Expansion.Conjunction	and	we take the Hubble Space Telescope	we turn it around
+Implicit	Temporal.Asynchronous.Precedence	then	we take the Hubble Space Telescope	and we turn it around
+Explicit	Expansion.Conjunction	and	we turn it around	we move it out to the orbit of Mars
+Implicit	Temporal.Asynchronous.Precedence	then	we turn it around	and we move it out to the orbit of Mars
+Explicit	Contingency.Cause.Reason	because	We'll see something like that, a slightly blurry picture of the Earth	we're a fairly small telescope out at the orbit of Mars
+AltLex	Temporal.Asynchronous.Precedence	Now	let's imagine we take the Hubble Space Telescope and we turn it around and we move it out to the orbit of Mars. We'll see something like that, a slightly blurry picture of the Earth, because we're a fairly small telescope out at the orbit of Mars	let's move ten times further away
+Implicit	Contingency.Cause.Result	as a result	let's move ten times further away	we are at the orbit of Uranus
+Implicit	Comparison.Concession.Arg2-as-denier	nevertheless	It's gotten smaller, it's got less detail, less resolve	We can still see the little moon
+Explicit	Expansion.Conjunction	but	We can still see the little moon	let's go ten times further away again
+Implicit	Contingency.Cause.Result	as a result	let's go ten times further away again	we are at the edge of the solar system, out at the Kuiper Belt
+AltLex	Temporal.Synchronous	Now	we are at the edge of the solar system, out at the Kuiper Belt	it's not resolved at all
+Implicit	Expansion.Equivalence	in other words	it's not resolved at all	It's that pale blue dot of Carl Sagan's
+Explicit	Expansion.Conjunction	But	It's that pale blue dot of Carl Sagan's	let's move yet again ten times further away
+Implicit	Contingency.Cause.Result	as a result	let's move yet again ten times further away	we are out at the Oort Cloud, outside the solar system
+Explicit	Expansion.Conjunction	and	we are out at the Oort Cloud	we're starting to see the sun move into the field of view and get into where the planet is
+Implicit	Contingency.Cause.Result	as a result	One more time, ten times further away	
+Explicit	Expansion.Conjunction	and	we're at Alpha Centauri	the planet is gone
+Implicit	Expansion.Conjunction	and	the planet is gone	All we're seeing is the big beaming image of the star that's ten billion times brighter than the planet
+Explicit	Contingency.Cause.Reason	That's why	All we're seeing is the big beaming image of the star that's ten billion times brighter than the planet, which should be in that little red circle. That's what we want to see	it's hard
+Implicit	Expansion.Conjunction	and	That's what we want to see	That's why it's hard
+Implicit	Expansion.Level-of-detail.Arg2-as-detail	namely	That's why it's hard	The light from the star is diffracting
+Implicit	Expansion.Conjunction	and	The light from the star is diffracting	It's scattering inside the telescope, creating that very bright image that washes out the planet
+Explicit	Contingency.Cause.Result	So	It's scattering inside the telescope, creating that very bright image that washes out the planet	to see the planet, we have to do something about all of that light
+Implicit	Expansion.Level-of-detail.Arg2-as-detail	specifically	to see the planet, we have to do something about all of that light	We have to get rid of it
+Implicit	Expansion.Conjunction	and	We have to get rid of it	I have a lot of colleagues working on really amazing technologies to do that
+Implicit	Contingency.Purpose.Arg2-as-goal	in order	working on really amazing technologies	to do that
+Explicit	Comparison.Concession.Arg2-as-denier	but	I have a lot of colleagues working on really amazing technologies to do that	I want to tell you about one today that I think is the coolest, and probably the most likely to get us an Earth in the next decade
+Explicit	Expansion.Conjunction	and	that I think is the coolest	probably the most likely to get us an Earth in the next decade
+Explicit	Expansion.Conjunction	and		he took his inspiration from an eclipse
+Implicit	Contingency.Cause.Reason	because	That's a solar eclipse	The moon has moved in front of the sun
+Implicit	Expansion.Conjunction	and	The moon has moved in front of the sun	It blocks out most of the light so we can see that dim corona around it
+Explicit	Contingency.Cause.Result	so	It blocks out most of the light	we can see that dim corona around it
+AltLex	Expansion.Equivalence	It would be the same thing	It blocks out most of the light so we can see that dim corona around it	It would be the same thing if I put my thumb up and blocked that spotlight that's getting right in my eye
+AltLex	Hypophora	what's	the moon is casting a shadow down on the Earth. We put a telescope or a camera in that shadow, we look back at the sun, and most of the light's been removed and we can see that dim, fine structure in the corona	what's going on
+Implicit	Expansion.Conjunction	and	We put a telescope or a camera in that shadow	we look back at the sun
+Explicit	Contingency.Condition.Arg1-as-cond	and	We put a telescope or a camera in that shadow, we look back at the sun	most of the light's been removed
+Explicit	Expansion.Conjunction	and	most of the light's been removed	we can see that dim, fine structure in the corona
+Implicit	Contingency.Cause.Result	as a result	most of the light's been removed	and we can see that dim, fine structure in the corona
+Implicit	Expansion.Level-of-detail.Arg2-as-detail	specifically	Spitzer's suggestion was we do this in space	We build a big screen, we fly it in space, we put it up in front of the star, we block out most of the light, we fly a space telescope in that shadow that's created, and boom, we get to see planets
+Implicit	Temporal.Asynchronous.Precedence	then	We build a big screen	we fly it in space
+Implicit	Temporal.Asynchronous.Precedence	then	we fly it in space	we put it up in front of the star
+Implicit	Temporal.Asynchronous.Precedence	then	we put it up in front of the star	we block out most of the light
+Implicit	Temporal.Asynchronous.Precedence	then	we block out most of the light	we fly a space telescope in that shadow that's created
+AltLex	Contingency.Cause.Result	boom	We build a big screen, we fly it in space, we put it up in front of the star, we block out most of the light, we fly a space telescope in that shadow that's created	
+Implicit	Expansion.Conjunction	and	We build a big screen, we fly it in space, we put it up in front of the star, we block out most of the light, we fly a space telescope in that shadow that's created, and boom, we get to see planets	that would look something like this
+Explicit	Expansion.Conjunction	and	there's that big screen	there's no planets
+Explicit	Contingency.Cause.Reason	because	there's no planets	unfortunately it doesn't actually work very well
+Explicit	Contingency.Cause.Reason	because	unfortunately it doesn't actually work very well	the light waves of the light and waves diffracts around that screen the same way it did in the telescope
+AltLex	Comparison.Similarity	the same way	the light waves of the light and waves diffracts around that screen	it did in the telescope
+AltLex	Comparison.Similarity	It's like	the light waves of the light and waves diffracts around that screen the same way it did in the telescope	water bending around a rock in a stream
+Explicit	Expansion.Conjunction	and	It's like water bending around a rock in a stream	all that light just destroys the shadow
+Explicit	Expansion.Conjunction	And	It's a terrible shadow	we can't see planets
+Implicit	Contingency.Cause.Result	as a result	It's a terrible shadow	And we can't see planets
+Explicit	Comparison.Concession.Arg2-as-denier	But	we can't see planets	Spitzer actually knew the answer
+Explicit	Contingency.Condition.Arg2-as-cond	If	then we can see a planet	we can feather the edges, soften those edges so we can control diffraction
+Implicit	Expansion.Level-of-detail.Arg2-as-detail	specifically	If we can feather the edges	soften those edges
+Explicit	Contingency.Cause.Result	so	soften those edges	we can control diffraction
+Explicit	Expansion.Conjunction	and	If we can feather the edges, soften those edges so we can control diffraction, well then we can see a planet	in the last 10 years or so we've come up with optimal solutions for doing that
+Implicit	Expansion.Conjunction	and	in the last 10 years or so we've come up with optimal solutions for doing that	It looks something like that
+Implicit	Expansion.Conjunction	and	If we make the edges of those petals exactly right	if we control their shape
+Explicit	Expansion.Conjunction	and	If we make the edges of those petals exactly right, if we control their shape, we can control diffraction	now we have a great shadow
+Implicit	Contingency.Cause.Result	consequently	If we make the edges of those petals exactly right, if we control their shape, we can control diffraction	and now we have a great shadow
+Explicit	Expansion.Conjunction	and	It's about 10 billion times dimmer than it was before	we can see the planets beam out just like that
+Implicit	Expansion.Level-of-detail.Arg2-as-detail	in fact	That, of course, has to be bigger than my thumb	That starshade is about the size of half a football field
+Explicit	Expansion.Conjunction	and	That starshade is about the size of half a football field	it has to fly 50,000 kilometers away from the telescope that has to be held right in its shadow
+Explicit	Expansion.Conjunction	and	it has to fly 50,000 kilometers away from the telescope that has to be held right in its shadow	then we can see those planets
+Explicit	Temporal.Asynchronous.Precedence	then	it has to fly 50,000 kilometers away from the telescope that has to be held right in its shadow	
+Explicit	Comparison.Concession.Arg2-as-denier	but	This sounds formidable	brilliant engineers, colleagues of mine at JPL, came up with a fabulous design for how to do that and it looks like this
+Explicit	Expansion.Conjunction	and	brilliant engineers, colleagues of mine at JPL, came up with a fabulous design for how to do that	it looks like this
+Implicit	Temporal.Asynchronous.Precedence	then	It starts wrapped around a hub	It separates from the telescope
+Implicit	Temporal.Asynchronous.Precedence	then	It separates from the telescope	The petals unfurl
+Implicit	Expansion.Equivalence	in other words	The petals unfurl	they open up
+Implicit	Temporal.Asynchronous.Precedence	then	they open up	the telescope turns around
+Explicit	Temporal.Asynchronous.Precedence	Then	the telescope turns around	you'll see it flip and fly out that 50,000 kilometers away from the telescope
+Explicit	Expansion.Conjunction	and	flip	fly
+Implicit	Temporal.Asynchronous.Precedence	next	you'll see it flip and fly out that 50,000 kilometers away from the telescope	It's going to move in front of the star just like that, creates a wonderful shadow
+AltLex	Contingency.Cause.Result	Boom	It's going to move in front of the star just like that, creates a wonderful shadow	we get planets orbiting about it
+Implicit	Expansion.Level-of-detail.Arg2-as-detail	in fact	We've been working on this for the last five or six years	Last summer, we did a really cool test out in California at Northrop Grumman
+AltLex	Temporal.Asynchronous.Precedence	Now	You'll see the petals unfurl	you're seeing it deploy
+Implicit	Expansion.Level-of-detail.Arg2-as-detail	specifically	Those petals have to rotate into place	The base of those petals has to go to the same place every time to within a tenth of a millimeter
+Explicit	Expansion.Conjunction	and	We ran this test 16 times	16 times it went into the exact same place to a tenth of a millimeter
+Explicit	Comparison.Concession.Arg2-as-denier	but	This has to be done very precisely	if we can do this, if we can build this technology, if we can get it into space, you might see something like this
+Implicit	Expansion.Conjunction	and	if we can do this	if we can build this technology
+Implicit	Expansion.Conjunction	and	if we can build this technology	if we can get it into space
+Explicit	Contingency.Condition.Arg2-as-cond	If	what we might see is something like that -- that's a family portrait of our solar system -- but not ours	we can take a similar space telescope, slightly larger, put it out there, fly an occulter in front of it
+Explicit	Comparison.Concession.Arg2-as-denier	but	that's a family portrait of our solar system	not ours
+Implicit	Contingency.Cause.Reason	because	not ours	We're hoping it'll be someone else's solar system as seen through an occulter, through a starshade like that
+Implicit	Expansion.Conjunction	and	You can see Jupiter	you can see Saturn, Uranus, Neptune
+Explicit	Expansion.Conjunction	and	you can see Saturn, Uranus, Neptune	right there in the center, next to the residual light is that pale blue dot
+Implicit	Expansion.Conjunction	and	I think this is the coolest possible science	That's why I got into doing this, because I think that will change the world
+Explicit	Contingency.Cause.Reason	because	That's why I got into doing this	I think that will change the world

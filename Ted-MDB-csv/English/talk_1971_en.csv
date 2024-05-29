@@ -1,0 +1,37 @@
+rel_type	rel_sense	conn_text	arg1_text	arg2_text
+Explicit	Comparison.Concession.Arg2-as-denier	However	I was born and raised in Sierra Leone, a small and very beautiful country in West Africa, a country rich both in physical resources and creative talent	Sierra Leone is infamous for a decade-long rebel war in the '90s when entire villages were burnt down
+Implicit	Expansion.Level-of-detail.Arg2-as-detail	in fact	Sierra Leone is infamous for a decade-long rebel war in the '90s when entire villages were burnt down	An estimated 8,000 men, women and children had their arms and legs amputated during this time
+Explicit	Temporal.Synchronous	As	I resolved that I would do everything I could to ensure that my own children would not go through the same experiences we had	my family and I ran for safety when I was about 12 from one of those attacks
+Implicit	Contingency.Cause.Result	as a result	An estimated 8,000 men, women and children had their arms and legs amputated during this time	As my family and I ran for safety when I was about 12 from one of those attacks, I resolved that I would do everything I could to ensure that my own children would not go through the same experiences we had
+Explicit	Expansion.Level-of-detail.Arg2-as-detail	in fact	that my own children would not go through the same experiences we had	
+Explicit	Temporal.Synchronous	As	one thing that deeply troubled me was that many of the amputees in the country would not use their prostheses	I watched people who I knew, loved ones, recover from this devastation
+Explicit	Contingency.Cause.Reason	because	that their prosthetic sockets were painful	they did not fit well
+Explicit	Expansion.Conjunction	and	in which the amputee inserts their residual limb	which connects to the prosthetic ankle
+Implicit	Comparison.Concession+SpeechAct.Arg2-as-denier+SpeechAct	NONE	it takes a period of three weeks to often years for a patient to get a comfortable socket	if ever
+Implicit	Contingency.Cause.Reason	because	Even in the developed world, it takes a period of three weeks to often years for a patient to get a comfortable socket, if ever	Prosthetists still use conventional processes like molding and casting to create single-material prosthetic sockets
+Implicit	Contingency.Purpose.Arg2-as-goal	in order	Prosthetists still use conventional processes like molding and casting	to create single-material prosthetic sockets
+Implicit	Contingency.Cause.Result	consequently	Prosthetists still use conventional processes like molding and casting to create single-material prosthetic sockets	Such sockets often leave intolerable amounts of pressure on the limbs of the patient, leaving them with pressure sores and blisters
+AltLex	Comparison.Concession.Arg2-as-denier	It does not matter	Such sockets often leave intolerable amounts of pressure on the limbs of the patient, leaving them with pressure sores and blisters	how powerful your prosthetic ankle is
+Explicit	Contingency.Condition.Arg2-as-cond	If	you will not use your leg	your prosthetic socket is uncomfortable
+Implicit	Contingency.Cause.Reason	because	It does not matter how powerful your prosthetic ankle is	If your prosthetic socket is uncomfortable, you will not use your leg
+Explicit	Expansion.Conjunction	and	If your prosthetic socket is uncomfortable, you will not use your leg	that is just simply unacceptable in our age
+Explicit	Temporal.Synchronous	when	he asked me if I knew how to solve this problem	I met professor Hugh Herr about two and a half years ago
+Explicit	Expansion.Conjunction	and	I met professor Hugh Herr about two and a half years ago	he asked me if I knew how to solve this problem
+Implicit	Expansion.Conjunction	and	he asked me if I knew how to solve this problem	"I said, ""No, not yet, but I would love to figure it out"
+Explicit	Comparison.Concession.Arg2-as-denier	but	No, not yet	I would love to figure it out
+Explicit	Expansion.Conjunction	And	"I said, ""No, not yet, but I would love to figure it out"	for my Ph.D. at the MIT Media Lab, I designed custom prosthetic sockets quickly and cheaply that are more comfortable than conventional prostheses
+Explicit	Contingency.Cause.Result	so	"I said, ""No, not yet, but I would love to figure it out"	
+Implicit	Expansion.Level-of-detail.Arg2-as-detail	specifically	I designed custom prosthetic sockets quickly and cheaply that are more comfortable than conventional prostheses	I used magnetic resonance imaging to capture the actual shape of the patient's anatomy
+Implicit	Contingency.Purpose.Arg2-as-goal	in order	I used magnetic resonance imaging	to capture the actual shape of the patient's anatomy
+Explicit	Temporal.Asynchronous.Precedence	then	I used magnetic resonance imaging to capture the actual shape of the patient's anatomy	use finite element modeling to better predict the internal stresses and strains on the normal forces
+Explicit	Expansion.Conjunction	and	use finite element modeling to better predict the internal stresses and strains on the normal forces	create a prosthetic socket for manufacture
+Explicit	Temporal.Asynchronous.Precedence	then	use finite element modeling to better predict the internal stresses and strains on the normal forces	
+Implicit	Expansion.Level-of-detail.Arg2-as-detail	specifically	create a prosthetic socket for manufacture	We use a 3D printer to create a multi-material prosthetic socket which relieves pressure where needed on the anatomy of the patient
+Implicit	Contingency.Purpose.Arg2-as-goal	in order	We use a 3D printer	to create a multi-material prosthetic socket which relieves pressure where needed on the anatomy of the patient
+Explicit	Expansion.Level-of-detail.Arg1-as-detail	In short	I used magnetic resonance imaging to capture the actual shape of the patient's anatomy, then use finite element modeling to better predict the internal stresses and strains on the normal forces, and then create a prosthetic socket for manufacture. We use a 3D printer to create a multi-material prosthetic socket which relieves pressure where needed on the anatomy of the patient	we're using data to make novel sockets quickly and cheaply
+Implicit	Expansion.Instantiation	for example	we're using data to make novel sockets quickly and cheaply	"In a recent trial we just wrapped up at the Media Lab, one of our patients, a U.S. veteran who has been an amputee for about 20 years and worn dozens of legs, said of one of our printed parts, ""It's so soft, it's like walking on pillows, and it's effing sexy"
+Explicit	Expansion.Conjunction	and	It's so soft, it's like walking on pillows	it's effing sexy
+Implicit	Expansion.Conjunction	and	My hope and desire is that the tools and processes we develop in our research group can be used to bring highly functional prostheses to those who need them	For me, a place to begin healing the souls of those affected by war and disease is by creating comfortable and affordable interfaces for their bodies
+Implicit	Expansion.Conjunction	and	For me, a place to begin healing the souls of those affected by war and disease is by creating comfortable and affordable interfaces for their bodies	Whether it's in Sierra Leone or in Boston, I hope this not only restores but indeed transforms their sense of human potential
+Explicit	Expansion.Disjunction	or	it's in Sierra Leone	in Boston
+Explicit	Expansion.Conjunction	but indeed	this not only restores	transforms their sense of human potential

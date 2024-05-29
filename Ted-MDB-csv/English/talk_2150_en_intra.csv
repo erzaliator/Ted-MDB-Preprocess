@@ -1,0 +1,54 @@
+rel_type	rel_sense	conn_text	arg1_text	arg2_text
+Explicit	Temporal.Synchronous	When	we tend to think about roads and streets and buildings, and the settlement narrative that led to their creation, or you might think about the bold vision of an urban designer	we think about mapping cities
+Explicit	Expansion.Conjunction	and	we tend to think about roads and streets and buildings	the settlement narrative that led to their creation
+Explicit	Expansion.Disjunction	or	we tend to think about roads and streets and buildings, and the settlement narrative that led to their creation	you might think about the bold vision of an urban designer
+Explicit	Comparison.Contrast	but	When we think about mapping cities, we tend to think about roads and streets and buildings, and the settlement narrative that led to their creation, or you might think about the bold vision of an urban designer	there's other ways to think about mapping cities and how they got to be made
+Explicit	Expansion.Conjunction	and	about mapping cities	how they got to be made
+Explicit	Expansion.Conjunction	and	This is a map of the relationships between people in my hometown of Baltimore, Maryland	what you can see here is that each dot represents a person
+Implicit	Expansion.Conjunction	and	that each dot represents a person	each line represents a relationship between those people
+Explicit	Expansion.Conjunction	and	each line represents a relationship between those people	each color represents a community within the network
+Implicit	Expansion.Level-of-detail.Arg2-as-detail	specifically	I'm here on the green side	down on the far right where the geeks are
+Explicit	Expansion.Conjunction	and	I'm here on the green side, down on the far right where the geeks are	TEDx also is down on the far right
+Explicit	Comparison.Similarity	also	I'm here on the green side, down on the far right where the geeks are	
+Explicit	Comparison.Contrast	than	who are really concerned about somewhat different things	the geeks are
+Explicit		but		
+Implicit	Expansion.Level-of-detail.Arg2-as-detail	that is	the green part of the network we call Smalltimore	for those of us that inhabit it
+Explicit	Contingency.Cause.Reason	because	the green part of the network we call Smalltimore	it seems as though we're living in a very small town
+Explicit	Comparison.Concession.Arg2-as-denier	but	We see the same people over and over again	that's because we're not really exploring the full depth and breadth of the city
+AltLex	Contingency.Cause.Reason	that's because	We see the same people over and over again	but that's because we're not really exploring the full depth and breadth of the city
+Explicit	Expansion.Conjunction	and	you have folks who are interested in things like hip-hop music	they even identify with living in the DC/Maryland/Virginia area over, say, the Baltimore city designation proper
+AltLex	Expansion.Substitution.Arg1-as-subst	over	they even identify with living in the DC/Maryland/Virginia area	over, say, the Baltimore city designation proper
+Explicit	Expansion.Level-of-detail.Arg2-as-detail	and	that there's something that connects the two communities together	that's sports
+Explicit	Expansion.Conjunction	and	Under Armour, you may have heard of, is a Baltimore company	that community of sports acts as the only bridge between these two ends of the network
+Explicit	Expansion.Conjunction	also	you do have the media, politics and news lobe that tends to exist in Baltimore and other cities	
+Explicit	Expansion.Conjunction	and	you also have this very predominant group of geeks and techies that are sort of taking over the top half of the network	there's even a group that's so distinct and clear that we can identify it as Twitter employees
+AltLex	Expansion.Level-of-detail.Arg2-as-detail	in terms of	that we've heard about in San Francisco	in terms of people being concerned about gentrification and all the new tech companies that are bringing new wealth and settlement into the city
+Explicit	Expansion.Conjunction	and	people being concerned about gentrification	all the new tech companies that are bringing new wealth and settlement into the city
+Explicit	Expansion.Conjunction	and	you can see, though, that the tensions that we've heard about in San Francisco in terms of people being concerned about gentrification and all the new tech companies that are bringing new wealth and settlement into the city are real	you can actually see that documented here
+Explicit	Expansion.Conjunction	and	Somebody sent me this photo a few weeks ago	it shows what is happening on the ground in San Francisco
+Explicit	Expansion.Conjunction	and	it shows what is happening on the ground in San Francisco	I think you can actually try to understand that through looking at a map like this
+Explicit	Expansion.Manner.Arg2-as-manner	through	you can actually try to understand that	looking at a map like this
+Explicit	Expansion.Conjunction	and	I spent the last few weeks gathering data about Rio	one of the things that stood out to me about this city is that everything's really kind of mixed up
+Implicit	Contingency.Cause+Belief.Result+Belief	as a result	I spent the last few weeks gathering data about Rio	and one of the things that stood out to me about this city is that everything's really kind of mixed up
+Explicit	Expansion.Level-of-detail.Arg2-as-detail	in	It's a very heterogenous city	a way that Baltimore or San Francisco is not
+Explicit	Expansion.Conjunction	and	Even Justin Bieber fans are represented here. Other boy bands, country singers, gospel music, funk and rap and stand-up comedy	there's even a whole section around drugs and jokes
+Explicit	Comparison.Concession.Arg2-as-denier	but	you have that same kind of spread of sports and civics and the arts and music	it's represented in a very different way
+Explicit	Expansion.Conjunction	and	it's represented in a very different way	I think that maybe fits with our understanding of Rio as being a very multicultural, musically diverse city
+Implicit	Contingency.Cause+Belief.Result+Belief	as a result	you have that same kind of spread of sports and civics and the arts and music, but it's represented in a very different way	and I think that maybe fits with our understanding of Rio as being a very multicultural, musically diverse city
+Implicit	Expansion.Level-of-detail.Arg2-as-detail	in fact	It's an incredibly rich set of data that we have about cities now	maybe even richer than any data set that we've ever had before
+Explicit	Expansion.Conjunction	and	It's something that we choose to do	we could choose not to do it
+Explicit	Expansion.Conjunction	and	we could choose not to do it	if you kind of think about it, what we're doing with this data is aiming a space telescope at a city and looking at it as if was a giant high school cafeteria, and seeing how everybody arranged themselves in a seating chart
+Explicit	Contingency.Condition.Arg2-as-cond	if	what we're doing with this data is aiming a space telescope at a city and looking at it as if was a giant high school cafeteria, and seeing how everybody arranged themselves in a seating chart	you kind of think about it
+Explicit	Expansion.Conjunction	and	aiming a space telescope at a city	looking at it as if was a giant high school cafeteria
+AltLex	Expansion.Manner.Arg2-as-manner	as if	looking at it	as if was a giant high school cafeteria
+Explicit	Expansion.Conjunction	and	looking at it as if was a giant high school cafeteria	seeing how everybody arranged themselves in a seating chart
+Implicit	Expansion.Conjunction	and	We've got people represented from all different types of races across the entire map here	only looking at race doesn't really contribute to our development of diversity
+Explicit	Contingency.Condition.Arg2-as-cond	if	we need to start to think about diversity in a new way	we're trying to use diversity as a way to tackle some of our more intractable problems
+AltLex	Contingency.Purpose.Arg2-as-goal	as a way	to use diversity	as a way to tackle some of our more intractable problems
+Implicit	Contingency.Purpose.Arg2-as-goal	in order	to create interventions	to start to reshape our cities in a new way
+Explicit	Expansion.Conjunction	and	we have the ability to create interventions to start to reshape our cities in a new way	I believe that if we have that capability, we may even bear some responsibility to do so
+Implicit	Contingency.Cause+Belief.Result+Belief	therefore	we have the ability to create interventions to start to reshape our cities in a new way	and I believe that if we have that capability, we may even bear some responsibility to do so
+Explicit	Contingency.Condition.Arg2-as-cond	if	we may even bear some responsibility to do so	we have that capability
+Explicit	Comparison.Contrast	but	some might say that it is a geographical area or a collection of streets and buildings	I believe that a city is the sum of the relationships of the people that live there
+Explicit	Expansion.Conjunction	and	I believe that a city is the sum of the relationships of the people that live there	I believe that if we can start to document those relationships in a real way then maybe we have a real shot at creating those kinds of cities that we'd like to have
+Explicit	Contingency.Condition.Arg2-as-cond	if	then maybe we have a real shot at creating those kinds of cities that we'd like to have	we can start to document those relationships in a real way

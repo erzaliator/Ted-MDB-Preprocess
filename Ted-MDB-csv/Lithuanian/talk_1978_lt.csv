@@ -1,0 +1,153 @@
+rel_type	rel_sense	conn_text	arg1_text	arg2_text
+Explicit	Expansion.Level-of-detail.Arg2-as-detail	kad	Man pasisekė	mano pirmasis darbas parengti Modernaus meno muziejuje tapytojos Elizabeth Murray darbų retrospektyvą
+Implicit	Contingency.Cause.Reason	nes	Man pasisekė, kad mano pirmasis darbas parengti Modernaus meno muziejuje tapytojos Elizabeth Murray darbų retrospektyvą	Iš jos išmokau labai daug
+Explicit	Temporal.Asynchronous.Succession	Kai	mane patraukė jos paveikslai tapyti aštuntajame dešimtmetyje	kuratorius Robert Storr atrinko visus paveikslus iš jos viso gyvenimo darbų rinkinio
+Implicit	Contingency.Cause.Reason	nes	mane patraukė jos paveikslai tapyti aštuntajame dešimtmetyje	Tuo periodu atsirado kai kurie motyvai ir elementai, kurie vėliau vėl pasikartos jos gyvenime
+Explicit	Expansion.Level-of-detail.Arg2-as-detail	kai	Pamenu	jos klausiau
+Explicit	Expansion.Level-of-detail.Arg2-as-detail	ką	jos klausiau	ji mano apie tuos ankstyvuosius darbus
+Explicit	Expansion.Level-of-detail.Arg2-as-detail	kad	Nežinant	tai jos darbai
+Explicit	Expansion.Level-of-detail.Arg2-as-detail	kad	Ji sakė	nemažai darbų ne visai sutapo su jos pačios vizija, kokius juos norėjo matyti
+Implicit	Expansion.Instantiation	pavyzdziui	nemažai darbų ne visai sutapo su jos pačios vizija, kokius juos norėjo matyti	Vienas iš tų darbų netgi taip prieštaravo jos supratimui, kad ji nutrenkė jį į studijos šiulkšliadėžę
+Explicit	Contingency.Cause.Result	kad	Vienas iš tų darbų netgi taip prieštaravo jos supratimui	ji nutrenkė jį į studijos šiulkšliadėžę
+Explicit	Comparison.Contrast	O	ji nutrenkė jį į studijos šiulkšliadėžę	jos kaimynė jį ištraukė
+Explicit	Contingency.Cause.Reason	nes	jos kaimynė jį ištraukė	laikė jį vertingu
+Implicit	Contingency.Cause.Result	taigi	jos kaimynė jį ištraukė, nes laikė jį vertingu	Tą akimirką mano požiūris į sėkmę ir kūrybiškumą pasikeitė
+Implicit	Expansion.Level-of-detail.Arg2-as-detail	trumpai tariant	Tą akimirką mano požiūris į sėkmę ir kūrybiškumą pasikeitė	Suvokiau, kad sėkmė tėra momentinė, o tai, ką mes visuomet šloviname, yra kūrybiškumas ir meistriškumas
+Explicit	Expansion.Level-of-detail.Arg2-as-detail	kad	Suvokiau	sėkmė tėra momentinė
+Explicit	Comparison.Concession.Arg2-as-denier	o	sėkmė tėra momentinė	tai, ką mes visuomet šloviname, yra kūrybiškumas ir meistriškumas
+Explicit	Comparison.Concession.Arg2-as-denier	Bet	tai, ką mes visuomet šloviname, yra kūrybiškumas ir meistriškumas	štai koks klausimas: kaip mes sugebame sėkmę paversti meistriškumu
+Explicit	Expansion.Level-of-detail.Arg2-as-detail	kaip	štai koks klausimas	mes sugebame sėkmę paversti meistriškumu
+Implicit	Expansion.Conjunction	ir	Šito aš savęs ilgai klausiau	Manau, jis pasireiškia tada, kai pradedame branginti beveik pasiektos pergalės dovaną
+Implicit	Expansion.Level-of-detail.Arg2-as-detail	kad	Manau	jis pasireiškia tada
+Explicit	Temporal.Asynchronous.Succession	kai	jis pasireiškia tada	pradedame branginti beveik pasiektos pergalės dovaną
+Implicit	Expansion.Conjunction	ir	Manau, jis pasireiškia tada, kai pradedame branginti beveik pasiektos pergalės dovaną	Ėmiau tai suprasti, kai nuvykau vieną šaltą gegužės dieną stebėti vieno universiteto lankininkių rinktinės
+Explicit	Temporal.Asynchronous.Succession	kai	Ėmiau tai suprasti	nuvykau vieną šaltą gegužės dieną stebėti vieno universiteto lankininkių rinktinės
+Implicit	Expansion.Conjunction	ir	Visai atsitiktinai tai buvo merginų komanda	Renginys vyko šiaurinėje Manhatano dalyje, Kolumbijos universiteto Beikerio atletikos komplekse
+Implicit	Expansion.Conjunction	ir	Renginys vyko šiaurinėje Manhatano dalyje, Kolumbijos universiteto Beikerio atletikos komplekse	Norėjau savo akimis pamatyti, kas yra lankininko paradoksas
+Implicit	Expansion.Level-of-detail.Arg2-as-detail	konkreciai	Norėjau savo akimis pamatyti	kas yra lankininko paradoksas
+Implicit	Expansion.Level-of-detail.Arg2-as-detail	konkreciai	kas yra lankininko paradoksas	Tai mintis, kad norėdamas išties pataikyti į savo taikinį, turi taikytis trupučiuką ne visai tiesiai
+Explicit	Expansion.Level-of-detail.Arg2-as-detail	kad	Tai mintis	norėdamas išties pataikyti į savo taikinį, turi taikytis trupučiuką ne visai tiesiai
+Implicit	Contingency.Cause.Result	todel	Tai mintis, kad norėdamas išties pataikyti į savo taikinį, turi taikytis trupučiuką ne visai tiesiai	Stovėjau ten ir žiūrėjau, kaip treneris vežė tas merginas pilkame furgone, o jos, nors ir entuziastingai džiūgavo, palengva kaupėsi
+Explicit	Temporal.Synchronous	kaip	Stovėjau ten ir žiūrėjau	treneris vežė tas merginas pilkame furgone
+Explicit	Expansion.Conjunction	o	treneris vežė tas merginas pilkame furgone	jos, nors ir entuziastingai džiūgavo, palengva kaupėsi
+Explicit	Comparison.Concession.Arg2-as-denier	nors ir	palengva kaupėsi	entuziastingai džiūgavo
+Explicit	Temporal.Asynchronous.Precedence	kai	Stovėjau už vienos lankininkės	jos treneris atsistojo tarp mūsų
+Explicit	Contingency.Purpose.Arg2-as-goal	kad	jos treneris atsistojo tarp mūsų	įvertintų, kuriai gali prireikti pagalbos
+Explicit	Expansion.Conjunction	ir	Stovėjau už vienos lankininkės	žiūrėjau į ją
+Explicit	Comparison.Contrast	bet	žiūrėjau į ją	nesupratau, kaip įmanoma bent vienai jų pataikyti į dešimtuką
+Explicit	Expansion.Level-of-detail.Arg2-as-detail	kaip	nesupratau	įmanoma bent vienai jų pataikyti į dešimtuką
+Implicit	Contingency.Cause.Reason	nes	Stovėjau už vienos lankininkės, kai jos treneris atsistojo tarp mūsų, kad, spėju, įvertintų, kuriai gali prireikti pagalbos, ir žiūrėjau į ją, bet nesupratau, kaip įmanoma bent vienai jų pataikyti į dešimtuką	taikinyje.Šaudant iš standartinio 70 metrų nuotolio dešimtukas atrodo kaip degtuko galvutė ištiesta per rankos ilgį
+Explicit	Expansion.Conjunction	Ir	taikinyje.Šaudant iš standartinio 70 metrų nuotolio dešimtukas atrodo kaip degtuko galvutė ištiesta per rankos ilgį	taikytis reikia atlaikant beveik 23 kg svorį atitinkančią tempimo jėgą kaskart paleidžiant strėlę
+Implicit	Expansion.Level-of-detail.Arg2-as-detail	kad	Pamenu	pirmą kartą ji pataikė į septynis, tada devynis, tada dukart į dešimt, o po to kita strėlė prašovė net pro taikinį
+Explicit	Comparison.Contrast	o	pirmą kartą ji pataikė į septynis, tada devynis, tada dukart į dešimt	kita strėlė prašovė net pro taikinį
+Explicit	Temporal.Asynchronous.Precedence	po to	pirmą kartą ji pataikė į septynis, tada devynis, tada dukart į dešimt	kita strėlė prašovė net pro taikinį
+Implicit	Expansion.Conjunction	ir	Pamenu, pirmą kartą ji pataikė į septynis, tada devynis, tada dukart į dešimt, o po to kita strėlė prašovė net pro taikinį	Pastebėjau, kad ji užsidegė ryžtu, šovė dar kartą ir dar kartą
+Explicit	Expansion.Level-of-detail.Arg2-as-detail	kad	Pastebėjau	ji užsidegė ryžtu, šovė dar kartą ir dar kartą
+Implicit	Contingency.Cause.Result	todel	pirmą kartą ji pataikė į septynis, tada devynis, tada dukart į dešimt, o po to kita strėlė prašovė net pro taikinį	ji užsidegė ryžtu, šovė dar kartą ir dar kartą
+Explicit	Expansion.Conjunction	Ir	Pastebėjau, kad ji užsidegė ryžtu, šovė dar kartą ir dar kartą	šitaip tris valandas
+Implicit	Contingency.Cause.Result	todel	Ir šitaip tris valandas	Treniruotei baigiantis viena iš lankininkių buvo tokia išsekusi, kad ji tysojo ant žemės, išmetusi rankas ir kojas į šalis, ir žvelgė į dangų bandydama įžiūrėti tai, ką T. S. Elliot pavadintų nejudančiu besisukančio pasaulio tašku
+Explicit	Contingency.Cause.Result	kad	Treniruotei baigiantis viena iš lankininkių buvo tokia išsekusi	ji tysojo ant žemės, išmetusi rankas ir kojas į šalis, ir žvelgė į dangų bandydama įžiūrėti tai, ką T. S. Elliot pavadintų nejudančiu besisukančio pasaulio tašku
+Implicit	Expansion.Conjunction	ir	Tai taip reta Amerikos kultūroje	jau taip retai tai darome dėl pašaukimo
+Explicit	Expansion.Level-of-detail.Arg2-as-detail	ką	jau taip retai tai darome dėl pašaukimo, nepabandome pasižiūrėti	reiškia užsispyrimas
+Explicit	Temporal.Synchronous	kai	reiškia užsispyrimas	reikia tokio didelio tikslumo
+Explicit	Expansion.Level-of-detail.Arg2-as-detail	ką	jau taip retai tai darome dėl pašaukimo, nepabandome pasižiūrėti	reiškia ieškoti tokios tavo kūno laikysenos ištisas tris valandas
+Explicit	Contingency.Purpose.Arg2-as-goal	kad	reiškia ieškoti tokios tavo kūno laikysenos ištisas tris valandas	pataikytum į taikinį, siekdama tobulybės ten, kur daug neapibrėžtumo
+Explicit	Comparison.Concession.Arg2-as-denier	Bet	Tai taip reta Amerikos kultūroje, jau taip retai tai darome dėl pašaukimo, nepabandome pasižiūrėti, ką reiškia užsispyrimas, kai reikia tokio didelio tikslumo, ką reiškia ieškoti tokios tavo kūno laikysenos ištisas tris valandas, kad pataikytum į taikinį, siekdama tobulybės ten, kur daug neapibrėžtumo	likau ten
+Explicit	Contingency.Cause.Reason	nes	likau ten	suvokiau, kad stebiu kai ką kas retai pastebima: skirtumą tarp sėkmės ir meistriškumo
+Explicit	Expansion.Level-of-detail.Arg2-as-detail	kad	suvokiau	stebiu kai ką kas retai pastebima: skirtumą tarp sėkmės ir meistriškumo
+Explicit	Comparison.Contrast	o	Sėkmė yra pataikyti į dešimtuką taikinyje	meistriškumas yra žinojimas, kad sėkmė nieko nereiškia, jeigu ji nepasikartoja vėl ir
+Explicit	Expansion.Level-of-detail.Arg2-as-detail	kad	meistriškumas yra žinojimas	sėkmė nieko nereiškia
+Explicit	Contingency.Negative-condition.Arg2-as-negcond	jeigu	sėkmė nieko nereiškia	ji nepasikartoja vėl ir
+Implicit	Expansion.Level-of-detail.Arg2-as-detail	be to	meistriškumas yra žinojimas, kad sėkmė nieko nereiškia, jeigu ji nepasikartoja vėl ir	vėl.Mesitriškumas ne tas pats kas sėkmė, kurią aš apibrėžiu kaip įvykį, momentą laike, etiketę, kurią tau prisega pasaulis
+Explicit	Expansion.Level-of-detail.Arg2-as-detail	kurią	vėl.Mesitriškumas ne tas pats kas sėkmė	aš apibrėžiu kaip įvykį, momentą laike, etiketę, kurią tau prisega pasaulis
+Implicit	Expansion.Conjunction	taip pat	vėl.Mesitriškumas ne tas pats kas sėkmė, kurią aš apibrėžiu kaip įvykį, momentą laike, etiketę, kurią tau prisega pasaulis	Meistriškumas nėra tikslo užsibrėžimas, meistriškumas yra nuolatinis siekis
+Implicit	Comparison.Contrast	bet	Meistriškumas nėra tikslo užsibrėžimas	meistriškumas yra nuolatinis siekis
+Explicit	Expansion.Level-of-detail.Arg2-as-detail	O	Meistriškumas nėra tikslo užsibrėžimas, meistriškumas yra nuolatinis siekis	jis įgyvendinamas, jo esmė išryškėja, ėmus vertinti beveik pasiektą pergalę
+Implicit	Expansion.Conjunction	ir	jis įgyvendinamas	jo esmė išryškėja
+Implicit	Expansion.Instantiation	pavyzdziui	jis įgyvendinamas, jo esmė išryškėja, ėmus vertinti beveik pasiektą pergalę	Kiek daug kartų mes pavadiname ką nors klasika, netgi šedevru, tuo metu, kai kūrėjas darbą laiko beviltiškai neišbaigtu,kupinu bėdų ir trūkumų, kitaip tariant, dar nepasiekta pergale
+Explicit	Temporal.Synchronous	kai	Kiek daug kartų mes pavadiname ką nors klasika, netgi šedevru, tuo metu	kūrėjas darbą laiko beviltiškai neišbaigtu,kupinu bėdų ir trūkumų
+Implicit	Comparison.Similarity	panasiai	Tapytojas Paul Cézanne taip dažnai laikė savo darbus neišbaigtais, kad jis tikslingai atidėdavo juos šalin ketindamas grįžti prie jų vėliau, bet gyvenimo pabaigoje atsitiko taip, kad jis pasirašė tik ant 10 procentų savo darbų	Mane nustebino E. Murray prisipažinimas apie tai, ką ji mano apie savo ankstyvuosius darbus
+Explicit	Expansion.Level-of-detail.Arg2-as-detail	ką	Mane nustebino E. Murray prisipažinimas apie tai	ji mano apie savo ankstyvuosius darbus
+Explicit	Contingency.Cause.Result	kad	Tapytojas Paul Cézanne taip dažnai laikė savo darbus neišbaigtais	jis tikslingai atidėdavo juos šalin ketindamas grįžti prie jų vėliau
+Explicit	Comparison.Concession.Arg2-as-denier	bet	jis tikslingai atidėdavo juos šalin ketindamas grįžti prie jų vėliau	gyvenimo pabaigoje atsitiko taip, kad jis pasirašė tik ant 10 procentų savo darbų
+Explicit	Expansion.Level-of-detail.Arg2-as-detail	kad	gyvenimo pabaigoje atsitiko taip	jis pasirašė tik ant 10 procentų savo darbų
+Implicit	Expansion.Conjunction	be to	Tapytojas Paul Cézanne taip dažnai laikė savo darbus neišbaigtais, kad jis tikslingai atidėdavo juos šalin ketindamas grįžti prie jų vėliau, bet gyvenimo pabaigoje atsitiko taip, kad jis pasirašė tik ant 10 procentų savo darbų	Jo mėgstamiausias romanas buvo O. Balzako „Nežinomas šedevras“, nes jis manė, kad romano protagonistas yra tarsi jis pats
+Explicit	Contingency.Cause.Reason	nes	Jo mėgstamiausias romanas buvo O. Balzako „Nežinomas šedevras“	jis manė, kad romano protagonistas yra tarsi jis pats
+Explicit	Expansion.Level-of-detail.Arg2-as-detail	kad	jis manė	romano protagonistas yra tarsi jis pats
+Implicit	Expansion.Conjunction	ir	Kafka neišbaigtais laikė tuo darbus, kuriuos kiti tiesiog garbindavo	Jo nuomonė buvo tokia tvirta, kad jis norėjo, jog visi dienoraščiai, rankraščiai ir eskizai jam mirus būtų sudeginti
+Explicit	Contingency.Cause.Result	kad	Jo nuomonė buvo tokia tvirta	jis norėjo, jog visi dienoraščiai, rankraščiai ir eskizai jam mirus būtų sudeginti
+Explicit	Expansion.Level-of-detail.Arg2-as-detail	jog	jis norėjo	visi dienoraščiai, rankraščiai ir eskizai jam mirus būtų sudeginti
+Implicit	Comparison.Concession.Arg2-as-denier	bet	jis norėjo, jog visi dienoraščiai, rankraščiai ir eskizai jam mirus būtų sudeginti	Jo draugas atsisakė įvykdyti šį prašymą ir todėl dabar mes turime visus Kafkos darbus
+Explicit	Expansion.Conjunction	ir	Jo draugas atsisakė įvykdyti šį prašymą	dabar mes turime visus Kafkos darbus
+Explicit	Contingency.Cause.Result	todėl	Jo draugas atsisakė įvykdyti šį prašymą	dabar mes turime visus Kafkos darbus
+Explicit	Expansion.Level-of-detail.Arg2-as-detail	kad	Viešpatie, padaryk taip	norėčiau daugiau, nei galiu pasiekti
+Explicit	Expansion.Conjunction	o	maldavo Mikelandželas. tarsi kreipdamasis į Senojo Testamento Dievą Siksto koplyčioje	jis pats buvo tarsi tas Adomas,ištiesęs pirštą, ir vos ne palytintis Dievo ranką
+Implicit	Expansion.Conjunction	be to	Meistriškumas glūdi siekime, ne pasiekime	Tai nuolatinis noras užpildyti tarpą tarp to, kur esi, ir to, kur nori būti
+Implicit	Expansion.Conjunction	dar daugiau	Tai nuolatinis noras užpildyti tarpą tarp to, kur esi, ir to, kur nori būti	Meistriškumas reiškia aukojimąsi savo amatui, ne karjeros siekimą
+Explicit	Expansion.Level-of-detail.Arg2-as-detail	kad	Jį pastebime netgi nesutramdomo Arkties tyrinėtojo Ben Saunders gyvenime, kuris man sakė	jo pergalės nėra šiaip tik nuostabaus pasiekimo rezultatas, bet beveik pasiektų pergalių sekos suteiktas impulsas
+Explicit	Comparison.Contrast	bet	jo pergalės nėra šiaip tik nuostabaus pasiekimo rezultatas	beveik pasiektų pergalių sekos suteiktas impulsas
+Explicit	Temporal.Synchronous	kai	Mes atsiskleidžiame	laikomės savo potencialo pirmagalyje
+Explicit	Temporal.Synchronous	kai	Šią išmintį suprato Duke Ellington	teigė, kad mėgstamiausia jo repertuaro daina visad buvo ta, kurią buvo tuoj beparašąs, visada ta, kurią dar ketino sukurti
+Explicit	Expansion.Level-of-detail.Arg2-as-detail	kad	teigė	mėgstamiausia jo repertuaro daina visad buvo ta, kurią buvo tuoj beparašąs, visada ta, kurią dar ketino sukurti
+Explicit	Contingency.Cause.Reason	dėl to, kad	Tai, kad beveik pasiekta pergalė yra neatsiejama meistriškumo dalis, yra	kuo didesnis mūsų įgudimas, tuo aiškiau mes galime pamatyti, kad nežinome tiek, kiek manėme žinantys
+Explicit	Expansion.Level-of-detail.Arg2-as-detail	kad	aiškiau mes galime pamatyti	nežinome tiek, kiek manėme žinantys
+Explicit	Temporal.Asynchronous.Precedence	kai	Paris Review“ tai išgirdo iš James Baldwin	jo paklausė
+Explicit	Expansion.Level-of-detail.Arg2-as-detail	Ko	jo paklausė	jūsų manymu, padaugėja, daugėjant žinioms
+Implicit	Temporal.Asynchronous.Precedence	tada	Paris Review“ tai išgirdo iš James Baldwin, kai jo paklausė: „Ko, jūsų manymu, padaugėja, daugėjant žinioms	Jis atsakė: „Sužinai, kiek mažai žinai
+Implicit	Expansion.Level-of-detail.Arg2-as-detail	kad	Jis atsakė	Sužinai, kiek mažai žinai
+Explicit	Comparison.Contrast	bet	Sėkmė mus motyvuoja	beveik pasiekta pergalė skatina mus leistis į nuolatinius ieškojimus
+Implicit	Expansion.Instantiation	faktiskai	Sėkmė mus motyvuoja, bet beveik pasiekta pergalė skatina mus leistis į nuolatinius ieškojimus	Vieną iš ryškiausių to pavyzdžių pastebime, kai žvelgiame į skirtumą tarp olimpinio sidabro laimėtojų ir bronzos laimėtojų rungtynėms pasibaigus
+Explicit	Temporal.Synchronous	kai	Vieną iš ryškiausių to pavyzdžių pastebime	žvelgiame į skirtumą tarp olimpinio sidabro laimėtojų ir bronzos laimėtojų rungtynėms pasibaigus
+Implicit	Expansion.Instantiation	konkreciai	Vieną iš ryškiausių to pavyzdžių pastebime, kai žvelgiame į skirtumą tarp olimpinio sidabro laimėtojų ir bronzos laimėtojų rungtynėms pasibaigus	Thomas Gilovich ir jo komanda Kornelio universitete tyrė šį skirtumą ir padarė išvadą, kad nusivylimas, kurį jaučia sidabro laimėtojai, palyginus su bronzos laimėtojais, kurie įprastai laimingesni, nes neliko ketvirti ir visai be medalių, jiems suteikia akstiną susitelkti į tolesnes rungtynes
+Explicit	Expansion.Level-of-detail.Arg2-as-detail	kad	Thomas Gilovich ir jo komanda Kornelio universitete tyrė šį skirtumą ir padarė išvadą	nusivylimas, kurį jaučia sidabro laimėtojai, palyginus su bronzos laimėtojais, kurie įprastai laimingesni, nes neliko ketvirti ir visai be medalių, jiems suteikia akstiną susitelkti į tolesnes rungtynes
+Explicit	Contingency.Cause.Reason	nes	įprastai laimingesni	neliko ketvirti ir visai be medalių
+Explicit	Expansion.Conjunction	ir	Tai matome netgi ir lošimų industrijoje, kuri kažkada pastebėjo šį reiškinį – beveik pasiektą pergalę	sugalvojo nutrinamus bilietus, kurių laimėjimo tikimybė buvo didesnė nei vidutinė, šitaip priversdama žmones pirkti daugiau bilietų
+Explicit	Expansion.Conjunction	ir	Tuos bilietus vadino „peiliu širdžiai“	lošimų industrija buvo apkaltinta piktnaudžiavimu
+Explicit	Contingency.Cause.Result	dėl to	Tuos bilietus vadino „peiliu širdžiai“	lošimų industrija buvo apkaltinta piktnaudžiavimu
+Explicit	Expansion.Level-of-detail.Arg2-as-detail	kad	Priežastis, dėl kurios beveik pasiekta pergalė suteikia impulsą, yra ta	tai pakeičia mūsų matymo horizontą ir priartina mūsų tikslus prie šiandienos
+Explicit	Contingency.Condition.Arg2-as-cond	Jeigu	apibūdintumėte ją gan bendrais žodžiais	paprašyčiau įsivazduoti jūsų puikią dieną ateinančią savaitę
+Explicit	Comparison.Contrast	Bet	Jeigu paprašyčiau įsivazduoti jūsų puikią dieną ateinančią savaitę, apibūdintumėte ją gan bendrais žodžiais	jeigu paprašyčiau apibūdinti, kaip atrodo puiki TED diena rytoj, apibūdintumėte ją detaliai ir praktiškai, aiškiai
+Explicit	Contingency.Condition.Arg2-as-cond	jeigu	apibūdintumėte ją detaliai ir praktiškai, aiškiai	paprašyčiau apibūdinti, kaip atrodo puiki TED diena rytoj
+Explicit	Expansion.Level-of-detail.Arg2-as-detail	kaip	paprašyčiau apibūdinti	atrodo puiki TED diena rytoj
+Implicit	Expansion.Conjunction	atitinkamai	Bet jeigu paprašyčiau apibūdinti, kaip atrodo puiki TED diena rytoj, apibūdintumėte ją detaliai ir praktiškai, aiškiai	Taip ir su beveik pasiekta pergale
+Implicit	Expansion.Instantiation	faktiskai	Taip ir su beveik pasiekta pergale	Ji padeda susitelkti, į tai, ką būtent dabar ketiname daryti, kad įveiktume mums prieš akis stūksantį kalną
+Explicit	Expansion.Level-of-detail.Arg2-as-detail	ką	Ji padeda susitelkti, į tai	būtent dabar ketiname daryti, kad įveiktume mums prieš akis stūksantį kalną
+Explicit	Contingency.Purpose.Arg2-as-goal	kad	būtent dabar ketiname daryti	įveiktume mums prieš akis stūksantį kalną
+Implicit	Comparison.Contrast	bet	1984 m. Jackie Joyner-Kersee nepavyko laimėti septynkovės auksovos per vieną trečdalį sekundės	Jos vyras nuspėjo, kad tai suteiks jai atkaklumo reikalingo tolesnėse varžybose
+Explicit	Expansion.Level-of-detail.Arg2-as-detail	kad	Jos vyras nuspėjo	tai suteiks jai atkaklumo reikalingo tolesnėse varžybose
+Implicit	Expansion.Conjunction	ir	Jos vyras nuspėjo, kad tai suteiks jai atkaklumo reikalingo tolesnėse varžybose	1988 m. ji laimėjo septynkovės auksą ir pasiekė 7 291 taško rekordą
+Explicit	Temporal.Asynchronous.Precedence	Nuo tada	1988 m. ji laimėjo septynkovės auksą ir pasiekė 7 291 taško rekordą	dar nė vienam atletui nepavyko net priartėti prie jo
+Explicit	Temporal.Asynchronous.Succession	kai	Sužydime ne tada	padarome viską
+Explicit	Expansion.Substitution.Arg2-as-subst	bet	Sužydime ne tada, kai padarome viską	kada vis dar turime ką nuveikti
+Implicit	Expansion.Conjunction	ir	Stoviu čia	galvoju ir stebiuosi visais tais įvairiais būdais, kuriais mes galėtume beveik pasiekti pergalę šioje auditorijoje
+Implicit	Expansion.Level-of-detail.Arg2-as-detail	ir	galvoju ir stebiuosi visais tais įvairiais būdais, kuriais mes galėtume beveik pasiekti pergalę šioje auditorijoje	kas jūsų gyvenimuose galėtų nutikti
+Explicit	Contingency.Cause.Reason	nes	galvoju ir stebiuosi visais tais įvairiais būdais, kuriais mes galėtume beveik pasiekti pergalę šioje auditorijoje, kas jūsų gyvenimuose galėtų nutikti	intuityviai jaučiu, kad ir jūs tai žinote
+Explicit	Expansion.Level-of-detail.Arg2-as-detail	kad	intuityviai jaučiu	jūs tai žinote
+Explicit	Expansion.Conjunction	ir	intuityviai jaučiu	jūs tai žinote
+Explicit	Expansion.Level-of-detail.Arg2-as-detail	kad	Žinome	sužydime, kai liekame mūsų potencialo smaigalyje
+Explicit	Temporal.Asynchronous.Succession	kai	sužydime	liekame mūsų potencialo smaigalyje
+Explicit	Expansion.Conjunction	ir	Žinome, kad sužydime, kai liekame mūsų potencialo smaigalyje	sąmoningai suvokiamas neišbaigtumas yra įskiepytas į sukūrimo mitus
+Explicit	Expansion.Instantiation	būtent	Žinome, kad sužydime, kai liekame mūsų potencialo smaigalyje	sąmoningai suvokiamas neišbaigtumas yra įskiepytas į sukūrimo mitus
+Explicit	Contingency.Cause.Result	todėl	Žinome, kad sužydime, kai liekame mūsų potencialo smaigalyje	sąmoningai suvokiamas neišbaigtumas yra įskiepytas į sukūrimo mitus
+Implicit	Expansion.Instantiation	pavyzdziui	sąmoningai suvokiamas neišbaigtumas yra įskiepytas į sukūrimo mitus	Navahų kultūroje amatininkai ir moterys tikslingai palikdavo neišbaigtus tekstilės ir keramikos darbus
+Explicit	Contingency.Cause.Reason	kad	Tai vadinama sielos linija, tikslingai paliktu trūkumu rašte	audėjas ar koks kitas amatininkas turėtų ir išeitį, ir priežastį tęsti pradėtą darbą
+Explicit	Contingency.Cause.Reason	todėl, kad	Meistriškumą žmonės pasiekia ne	konceptualiai išbaigia darbą
+Implicit	Expansion.Substitution.Arg2-as-subst	bet	Meistriškumą žmonės pasiekia ne todėl, kad konceptualiai išbaigia darbą	Meistriškumo jie pasiekia todėl, kad suvokia, kad pabaigos nėra
+Explicit	Contingency.Cause.Reason	todėl, kad	Meistriškumo jie pasiekia	suvokia, kad pabaigos nėra
+Explicit	Expansion.Level-of-detail.Arg2-as-detail	kad	suvokia	pabaigos nėra
+Explicit	Contingency.Cause.Reason	kodėl	Štai man dingtelėjo tokia mintis bemąstant apie tai	lankininkių treneris pasibaigus treniruotei man pasakė, tyliai, kad negirdėtų jo auklėtinės, kad nei jis, nei jo kolegos niekad nemano galį padaryti pakankamai dėl savo komandų, niekad negalvoja, kad yra pakankamai vizualizacijos metodų ir laikysenos pozicijų pratimų galinčių padėti pasiekti joms šias beveik pasiekiamas pergales
+Explicit	Expansion.Level-of-detail.Arg2-as-detail	kad	lankininkių treneris pasibaigus treniruotei man pasakė, tyliai, kad negirdėtų jo auklėtinės	nei jis, nei jo kolegos niekad nemano galį padaryti pakankamai dėl savo komandų, niekad negalvoja, kad yra pakankamai vizualizacijos metodų ir laikysenos pozicijų pratimų galinčių padėti pasiekti joms šias beveik pasiekiamas pergales
+Implicit	Expansion.Conjunction	ir	nei jis, nei jo kolegos niekad nemano galį padaryti pakankamai dėl savo komandų	niekad negalvoja
+Explicit	Expansion.Level-of-detail.Arg2-as-detail	kad	niekad negalvoja	yra pakankamai vizualizacijos metodų ir laikysenos pozicijų pratimų galinčių padėti pasiekti joms šias beveik pasiekiamas pergales
+Explicit	Expansion.Conjunction	Ir	Štai man dingtelėjo tokia mintis bemąstant apie tai: kodėl lankininkių treneris pasibaigus treniruotei man pasakė, tyliai, kad negirdėtų jo auklėtinės, kad nei jis, nei jo kolegos niekad nemano galį padaryti pakankamai dėl savo komandų, niekad negalvoja, kad yra pakankamai vizualizacijos metodų ir laikysenos pozicijų pratimų galinčių padėti pasiekti joms šias beveik pasiekiamas pergales	jis čia visai nesiskundė
+Implicit	Comparison.Concession.Arg2-as-denier	atvirksciai	jis čia visai nesiskundė	Jis tenorėjo, kad suprasčiau, tenorėjo duoti užuominą, man priminti, kad žinojo nuolankiai žengiąs nepasotinamu taku be pabaigos, reikalaujančiu vis daugiau
+Explicit	Expansion.Level-of-detail.Arg2-as-detail	kad	Jis tenorėjo	suprasčiau
+Implicit	Expansion.Conjunction	ir	Jis tenorėjo, kad suprasčiau	tenorėjo duoti užuominą, man priminti
+Explicit	Expansion.Level-of-detail.Arg2-as-detail	kad	tenorėjo duoti užuominą, man priminti	žinojo nuolankiai žengiąs nepasotinamu taku be pabaigos, reikalaujančiu vis daugiau
+Explicit	Contingency.Condition.Arg2-as-cond	net jeigu	Mes augame ant neišbaigtų idėjų	tokia idėja buvome mes patys
+Implicit	Contingency.Cause.Reason	kadangi	Mes augame ant neišbaigtų idėjų, net jeigu tokia idėja buvome mes patys	Tokia yra meistriškumo dinamika
+Implicit	Expansion.Level-of-detail.Arg2-as-detail	kitaip tariant	Tokia yra meistriškumo dinamika	Trokštamo dalyko priartėjimas gali padėit pasiekti daugiau nei kad drįsdavote pasvajoti
+Explicit	Comparison.Concession.Arg1-as-denier	nei kad	Trokštamo dalyko priartėjimas gali padėit pasiekti daugiau	drįsdavote pasvajoti
+Implicit	Expansion.Level-of-detail.Arg2-as-detail	kad	Įsivaizduoju	būtent taip galvojo Elizabeth Murray, kai vieną dieną mačiau ją besišypsančią ir žiūrinčią į tuos ankstyvuosius darbus galerijose
+Explicit	Temporal.Synchronous	kai	būtent taip galvojo Elizabeth Murray	vieną dieną mačiau ją besišypsančią ir žiūrinčią į tuos ankstyvuosius darbus galerijose
+Explicit	Comparison.Concession.Arg2-as-denier	bet	Užbaigimas yra tikslas	kaip mes tikime, jis niekad nėra pabaiga

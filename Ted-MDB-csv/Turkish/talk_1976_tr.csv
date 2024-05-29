@@ -1,0 +1,121 @@
+rel_type	rel_sense	conn_text	arg1_text	arg2_text
+Implicit	Q/A	NONE	Peki bu nasıl oluyor	
+Implicit	Expansion.Conjunction	ve	Evren gezegenlerle dolu	Önümüzdeki 10 yıl içinde, bir başka yıldızın yakınındaki bir Dünya'yı fotoğraflayıp, orada hayat olup olmadığını ortaya çıkarabilecek bir teleskop icat etmemizi istiyorum
+Explicit	Expansion.Conjunction	fotoğraflayıp	orada hayat olup olmadığını ortaya çıkarabilecek	bir başka yıldızın yakınındaki bir Dünya'yı fotoğraflayıp
+Implicit	Expansion.Level-of-detail.Arg2-as-detail	aslında	Önümüzdeki 10 yıl içinde, bir başka yıldızın yakınındaki bir Dünya'yı fotoğraflayıp, orada hayat olup olmadığını ortaya çıkarabilecek bir teleskop icat etmemizi istiyorum	Princeton'daki NASA Jet Propulsion laboratuvarındaki meslektaşlarım ve ben önümüzdeki birkaç sene içinde bunu yapabilecek bir teknoloji üzerinde çalışıyoruz
+Implicit	Expansion.Level-of-detail.Arg2-as-detail	hatta	Astronomlar artık gökadadaki her yıldızın bir gezegeni olduğunu düşünüyorlar	Bunların beşte birinin Dünya benzeri bir gezegene sahip olduklarını, yaşam barındırıyor olabileceklerini tahmin ediyorlar
+Explicit	Comparison.Concession.Arg2-as-denier	Ama	Bunların beşte birinin Dünya benzeri bir gezegene sahip olduklarını, yaşam barındırıyor olabileceklerini tahmin ediyorlar	bunlardan hiçbirini görmüş değiliz
+Implicit	Expansion.Substitution.Arg2-as-subst	ama	bunlardan hiçbirini görmüş değiliz	Onları sadece dolaylı yollardan saptadık
+Implicit	Expansion.Level-of-detail.Arg2-as-detail	şöyle ki	Voyager uzay aracı tarafından 1990'da çekildi	Araç güneş sisteminden çıkmak üzereyken, onu bu tarafa çevirip, 6 milyar kilometre öteden Dünya'nın fotoğrafını çektirdiler
+Explicit	Temporal.Synchronous	üzereyken	onu bu tarafa çevirip	Araç güneş sisteminden çıkmak üzereyken
+Explicit	Temporal.Synchronous	çevirip	6 milyar kilometre öteden Dünya'nın fotoğrafını çektirdiler	bu tarafa çevirip
+Implicit	Comparison.Similarity	aynı şekilde	Araç güneş sisteminden çıkmak üzereyken, onu bu tarafa çevirip, 6 milyar kilometre öteden Dünya'nın fotoğrafını çektirdiler	Bir başka yıldızın etrafındaki Dünya benzeri bir gezegenin böyle bir fotoğrafını çekmek istiyorum
+Implicit	Comparison.Concession.Arg2-as-denier	ama	Bir başka yıldızın etrafındaki Dünya benzeri bir gezegenin böyle bir fotoğrafını çekmek istiyorum	Neden bunu hâlâ yapamadık
+Implicit	Expansion.Conjunction	ve	Neden bunu hâlâ yapamadık	Neden bu kadar zor
+AltLex	Contingency.Cause.Reason	Neden	"Bunu anlamak için, Hubble Uzay Teleskobu'nu tutup döndürdüğümüzü ve onu Mars'ın yörüngesine doğru gönderdiğimizi varsayalım. Göreceğimiz şey şöyle bir şey, Dünya'nın resminin hafifçe bulanık hâli gibi çünkü Mars'ın yörüngesinde oldukça ufak bir teleskobumuz var. Hadi şimdi 10 kat daha uzaklaşalım. İşte Uranüs'ün yörüngesindeyiz. Küçülüyor, daha az detaya, daha az çözünürlüğe sahip. Ufacık Ay'ı hâlâ görebiliyoruz. Şimdi bir 10 kat daha ileri gidelim. Artık güneş sisteminin sınırlarında, Kuiper Kuşağı'ndayız. Şimdi şeçilmiyor bile. Carl Sagan'ın ""Soluk Mavi Nokta""sı işte bu. Ama hadi 10 kat daha uzağa gidelim. İşte şimdi Oort Blulutu'ndayız, güneş sisteminin dışında ve güneşin görüş alanımıza, gezegenlerin oldukları yere geçtiğini görmeye başlıyoruz. Bir kez daha 10 kat uzaklaşarak Alpha Centauri'ye varıyoruz. O en yakın komşu yıldızımız ve gezegen kayboldu. Görebildiğimiz tek şey, şuradaki küçük kırmızı çemberin içinde bulunuyor olan gezegenden 10 milyar kat daha parlak olan yıldızın parıldayan büyük görüntüsü. Görmek istediğimiz şey ise o gezegen. Bu yüzden bu kadar zor"	bu kadar zor
+Explicit	Contingency.Purpose.Arg2-as-goal	için	Hubble Uzay Teleskobu'nu tutup döndürdüğümüzü ve onu Mars'ın yörüngesine doğru gönderdiğimizi varsayalım	Bunu anlamak
+Explicit	Expansion.Conjunction	tutup	döndürdüğümüzü	tutup
+Explicit	Expansion.Conjunction	ve	Hubble Uzay Teleskobu'nu tutup döndürdüğümüzü	onu Mars'ın yörüngesine doğru gönderdiğimizi
+Implicit	Temporal.Asynchronous.Precedence	sonra	Hubble Uzay Teleskobu'nu tutup döndürdüğümüzü	ve onu Mars'ın yörüngesine doğru gönderdiğimizi
+AltLex	Contingency.Condition.Arg2-as-cond	varsayalım	Göreceğimiz şey şöyle bir şey, Dünya'nın resminin hafifçe bulanık hâli gibi	onu Mars'ın yörüngesine doğru gönderdiğimizi varsayalım
+Explicit	Contingency.Cause.Reason	çünkü	Göreceğimiz şey şöyle bir şey, Dünya'nın resminin hafifçe bulanık hâli gibi	Mars'ın yörüngesinde oldukça ufak bir teleskobumuz var
+Explicit	Contingency.Cause.Result	İşte	şimdi 10 kat daha uzaklaşalım	Uranüs'ün yörüngesindeyiz
+Implicit	Comparison.Concession.Arg2-as-denier	ama	Küçülüyor, daha az detaya, daha az çözünürlüğe sahip	Ufacık Ay'ı hâlâ görebiliyoruz
+AltLex	Temporal.Asynchronous.Precedence	Şimdi	Ufacık Ay'ı hâlâ görebiliyoruz	bir 10 kat daha ileri gidelim
+Explicit	Contingency.Cause.Result	Artık	Şimdi bir 10 kat daha ileri gidelim	güneş sisteminin sınırlarında, Kuiper Kuşağı'ndayız
+AltLex	Temporal.Asynchronous.Precedence	Şimdi	Artık güneş sisteminin sınırlarında, Kuiper Kuşağı'ndayız	şeçilmiyor bile
+Explicit	Expansion.Equivalence	işte	şeçilmiyor bile	
+Explicit	Expansion.Conjunction	Ama	"Carl Sagan'ın ""Soluk Mavi Nokta""sı işte bu"	hadi 10 kat daha uzağa gidelim
+AltLex	Contingency.Cause.Result	İşte	hadi 10 kat daha uzağa gidelim	şimdi Oort Blulutu'ndayız, güneş sisteminin dışında
+Explicit	Expansion.Conjunction	ve	şimdi Oort Blulutu'ndayız, güneş sisteminin dışında	güneşin görüş alanımıza, gezegenlerin oldukları yere geçtiğini görmeye başlıyoruz
+Explicit	Contingency.Cause.Result	uzaklaşarak	Alpha Centauri'ye varıyoruz	Bir kez daha 10 kat uzaklaşarak
+Explicit	Expansion.Conjunction	ve	Alpha Centauri'ye varıyoruz	gezegen kayboldu
+Implicit	Comparison.Concession.Arg2-as-denier	ama	gezegen kayboldu	Görebildiğimiz tek şey, şuradaki küçük kırmızı çemberin içinde bulunuyor olan gezegenden 10 milyar kat daha parlak olan yıldızın parıldayan büyük görüntüsü
+Explicit	Expansion.Conjunction	ise	Görebildiğimiz tek şey, şuradaki küçük kırmızı çemberin içinde bulunuyor olan gezegenden 10 milyar kat daha parlak olan yıldızın parıldayan büyük görüntüsü	
+Implicit	Expansion.Level-of-detail.Arg2-as-detail	ve	Görmek istediğimiz şey ise o gezegen	Bu yüzden bu kadar zor
+AltLex	Contingency.Cause.Result	Bu yüzden	Görmek istediğimiz şey ise o gezegen	bu kadar zor
+AltLex	Contingency.Cause	Bu yüzden	Görebildiğimiz tek şey, şuradaki küçük kırmızı çemberin içinde bulunuyor olan gezegenden 10 milyar kat daha parlak olan yıldızın parıldayan büyük görüntüsü. Görmek istediğimiz şey ise o gezegen	bu kadar zor
+Implicit	Expansion.Level-of-detail.Arg2-as-detail	bir başka deyişle	Bu yüzden bu kadar zor	Yıldızdan gelen ışık sapma yapıyor
+Implicit	Expansion.Conjunction	ve	Yıldızdan gelen ışık sapma yapıyor	Teleskobun içinde saçılarak, gezegeni görülemeyecek hâle getiren bu aşırı parlak görüntüyü yaratıyor
+Explicit	Expansion.Manner.Arg2-as-manner	saçılarak	gezegeni görülemeyecek hâle getiren bu aşırı parlak görüntüyü yaratıyor	Teleskobun içinde saçılarak
+Explicit	Contingency.Cause.Result	Dolayısıyla	Teleskobun içinde saçılarak, gezegeni görülemeyecek hâle getiren bu aşırı parlak görüntüyü yaratıyor	gezegeni görmek için tüm bu ışığa ilişkin bir şeyler yapmamız gerek
+Explicit	Expansion.Level-of-detail.Arg2-as-detail	için	tüm bu ışığa ilişkin bir şeyler yapmamız gerek	gezegeni görmek
+Implicit	Expansion.Level-of-detail.Arg2-as-detail	aslında	gezegeni görmek için tüm bu ışığa ilişkin bir şeyler yapmamız gerek	Ondan kurtulmak zorundayız
+Implicit	Expansion.Conjunction	ve	Ondan kurtulmak zorundayız	Bunu başarmak için gerçekten inanılmaz teknolojiler üzerinde çalışan pek çok meslektaşım var
+Explicit	Contingency.Purpose.Arg2-as-goal	için	gerçekten inanılmaz teknolojiler üzerinde çalışan pek çok meslektaşım var	Bunu başarmak
+Implicit	Expansion.Conjunction	ve	Bunu başarmak için gerçekten inanılmaz teknolojiler üzerinde çalışan pek çok meslektaşım var	Ben şimdi sizlere bunların en ilginci olduğunu düşündüğüm birini anlatacağım
+Implicit	Expansion.Level-of-detail.Arg2-as-detail	şöyle ki	Fikir ilk olarak 1962'de, uzay teleskobunun babası Lyman Spitzer tarafından ortaya atıldı	Bir tutulmadan esinlenmişti
+Implicit	Contingency.Cause.Reason	yani	Bu bir güneş tutulması	Ay güneşin önüne geçmiş durumda
+Implicit	Expansion.Conjunction	ve	Ay güneşin önüne geçmiş durumda	Işığın çoğunu engelliyor
+Explicit	Contingency.Cause.Result	böylece	Işığın çoğunu engelliyor	etrafındaki soluk koronayı görebiliyoruz
+AltLex	Expansion.Equivalence	aynı şey olacaktır	böylece etrafındaki soluk koronayı görebiliyoruz	Eğer başparmağımı kaldırıp, tam gözüme gelen şu spot ışığını engellersem de
+Explicit	Expansion.Conjunction	kaldırıp	tam gözüme gelen şu spot ışığını engellersem	başparmağımı kaldırıp
+Explicit	Contingency.Condition.Arg2-as-cond	engellersem de	aynı şey olacaktır	Eğer başparmağımı kaldırıp, tam gözüme gelen şu spot ışığını engellersem de
+AltLex	Expansion.Manner.Arg1-as-manner	nasıl	Ay'ın gölgesi Dünya'nın üzerine düşüyor. Bu gölgeye bir teleskop veya kamera koyuyoruz, güneşe tekrar bakıyoruz ve ışığın çoğu yok olmuş oluyor ve böylece korona bölgesinde kalan soluk detayları görebiliyoruz	
+Explicit	Expansion.Conjunction	ve	güneşe tekrar bakıyoruz	ışığın çoğu yok olmuş oluyor
+Explicit	Expansion.Conjunction	ve	ışığın çoğu yok olmuş oluyor	böylece korona bölgesinde kalan soluk detayları görebiliyoruz
+Explicit	Contingency.Cause.Result	böylece	ışığın çoğu yok olmuş oluyor	
+Implicit	Expansion.Level-of-detail.Arg2-as-detail	şöyle ki	Spitzer bunu uzayda yapmayı önerdi	Büyük bir gölgelik yapıp uzaya göndeririz, bunu yıldızın tam önüne koyarız, ışığın çoğunu engelleriz, oluşan gölgeye bir uzay teleskobu yerleştiririz
+Explicit	Expansion.Conjunction	yapıp	uzaya göndeririz	Büyük bir gölgelik
+Explicit	Expansion.Conjunction	ve	Büyük bir gölgelik yapıp uzaya göndeririz, bunu yıldızın tam önüne koyarız, ışığın çoğunu engelleriz, oluşan gölgeye bir uzay teleskobu yerleştiririz	işte, gezegenleri görebilir hâle geliriz
+Explicit	Contingency.Cause.Result	işte	Büyük bir gölgelik yapıp uzaya göndeririz, bunu yıldızın tam önüne koyarız, ışığın çoğunu engelleriz, oluşan gölgeye bir uzay teleskobu yerleştiririz	
+Implicit	Expansion.Conjunction	ve	Spitzer bunu uzayda yapmayı önerdi. Büyük bir gölgelik yapıp uzaya göndeririz, bunu yıldızın tam önüne koyarız, ışığın çoğunu engelleriz, oluşan gölgeye bir uzay teleskobu yerleştiririz ve işte, gezegenleri görebilir hâle geliriz	Bu şöyle bir şey olurdu
+Explicit	Comparison.Concession.Arg2-as-denier	ama	Şuradaki o büyük gölgelik	hiç gezegen görünmüyor
+Explicit	Contingency.Cause.Reason	çünkü	hiç gezegen görünmüyor	ne yazık ki çok iyi çalışmaz
+AltLex	Contingency.Cause.Reason	Bunun nedeni	ne yazık ki çok iyi çalışmaz	Bunun nedeni, ışık dalgalarının tıpkı teleskobun içinde olduğu gibi, gölgelikten sapma yapmaları
+AltLex	Comparison.Similarity	benziyor	gölgelikten sapma yapmaları	Bir akarsudaki kayanın etrafında suyun eğilmesine benziyor
+Explicit	Expansion.Conjunction	ve	Bir akarsudaki kayanın etrafında suyun eğilmesine benziyor	tüm bu ışık, gölgeyi yok ediyor
+Implicit	Contingency.Cause.Reason	çünkü	Bu kötü bir gölge	Gezegenleri göremeyiz
+Explicit	Comparison.Concession.Arg2-as-denier	Ama	Gezegenleri göremeyiz	Spitzer aslında yanıtı biliyordu
+Implicit	Expansion.Level-of-detail.Arg2-as-detail	şöyle ki	Spitzer aslında yanıtı biliyordu	Eğer uçları inceltip, bu uçları yumuşatabilirsek sapmaları kontrol edebilirdik
+Explicit	Expansion.Conjunction	inceltip	bu uçları yumuşatabilirsek	Eğer uçları
+Explicit	Contingency.Condition.Arg2-as-cond	yumuşatabilirsek	sapmaları kontrol edebilirdik	Eğer uçları inceltip, bu uçları yumuşatabilirsek
+Explicit	Contingency.Cause.Result	O zaman	Eğer uçları inceltip, bu uçları yumuşatabilirsek sapmaları kontrol edebilirdik	gezegenleri görebilirdik
+Explicit	Expansion.Conjunction	ve	gezegenleri görebilirdik	yaklaşık son 10 yıldır bunu yapmak için en uygun çözümleri ortaya çıkardık
+Implicit	Expansion.Level-of-detail.Arg2-as-detail	zaten	gezegenleri görebilirdik	ve yaklaşık son 10 yıldır bunu yapmak için en uygun çözümleri ortaya çıkardık
+Explicit	Contingency.Purpose.Arg2-as-goal	için	en uygun çözümleri ortaya çıkardık	yaklaşık son 10 yıldır bunu yapmak
+Implicit	Expansion.Conjunction	ve	yaklaşık son 10 yıldır bunu yapmak için en uygun çözümleri ortaya çıkardık	Bunun gibi bir şeye benziyordu
+Explicit	Contingency.Condition.Arg2-as-cond	yaparsak	eğer biçimlerini kontrol edebilirsek, sapmaları kontrol edebiliriz ve böylece harika bir gölgeye sahip oluruz	Eğer bu yaprakların uçlarını gerektiği gibi
+Explicit	Contingency.Condition.Arg2-as-cond	edebilirsek	sapmaları kontrol edebiliriz	eğer biçimlerini kontrol edebilirsek
+Explicit	Expansion.Conjunction	ve	eğer biçimlerini kontrol edebilirsek, sapmaları kontrol edebiliriz	böylece harika bir gölgeye sahip oluruz
+Explicit	Contingency.Cause.Result	böylece	eğer biçimlerini kontrol edebilirsek, sapmaları kontrol edebiliriz	
+Explicit	Contingency.Cause.Result	ve	Önceki hâlinden 10 milyar kat daha soluk	gezegenlerin işte böyle belirdiğini görebiliyoruz
+Implicit	Expansion.Conjunction	şöyle ki	Tabi bu benim baş parmağımdan daha büyük olmalı	Bu yıldız gölgeleyici yaklaşık yarım futbol sahası büyüklüğünde
+Explicit	Expansion.Conjunction	ve	Bu yıldız gölgeleyici yaklaşık yarım futbol sahası büyüklüğünde	gölgesi içinde tutulması gereken teleskoptan 50.000 kilometre uzakta uçması gerekiyor
+Implicit	Expansion.Conjunction	ve	Bu yıldız gölgeleyici yaklaşık yarım futbol sahası büyüklüğünde ve gölgesi içinde tutulması gereken teleskoptan 50.000 kilometre uzakta uçması gerekiyor	Ancak bu şekilde gezegenleri görebiliriz
+AltLex	Expansion.Manner.Arg2-as-manner	Ancak bu şekilde	gölgesi içinde tutulması gereken teleskoptan 50.000 kilometre uzakta uçması gerekiyor	gezegenleri görebiliriz
+Explicit	Comparison.Concession.Arg2-as-denier	gelse de	JPL'deki meslektaşlarım, parlak mühendisler bunu nasıl yapabileceğimize ilişkin şöyle muhteşem bir tasarım ortaya attılar	Bu ürkütücü gelse de
+Implicit	Expansion.Conjunction	şöyle ki	JPL'deki meslektaşlarım, parlak mühendisler bunu nasıl yapabileceğimize ilişkin şöyle muhteşem bir tasarım ortaya attılar	Önce bir makaraya sarılı durumda oluyor
+Implicit	Temporal.Asynchronous.Succession	ardından	Önce bir makaraya sarılı durumda oluyor	Teleskoptan ayrılıyor
+Implicit	Temporal.Asynchronous.Precedence	sonra	Teleskoptan ayrılıyor	Yapraklar açılıp genişliyor
+Explicit	Expansion.Conjunction	açılıp	genişliyor	açılıp
+Implicit	Temporal.Asynchronous	ve	Yapraklar açılıp genişliyor	Teleskop yön değiştiriyor
+Implicit	Temporal.Asynchronous.Succession	sonrasında	Teleskop yön değiştiriyor	Gölgelik döne döne uzaklaşıyor
+Explicit	Expansion.Conjunction	ve	döne döne uzaklaşıyor	teleskoptan 50.000 km uzağa uçuyor
+Implicit	Contingency.Cause.Result	sonuçta	Gölgelik döne döne uzaklaşıyor	ve teleskoptan 50.000 km uzağa uçuyor
+Implicit	Temporal.Asynchronous	sonra	Gölgelik döne döne uzaklaşıyor ve teleskoptan 50.000 km uzağa uçuyor	Yıldızın önüne işte böyle geçecek ve harika bir gölge yaratacak
+AltLex	Contingency.Cause.Result	işte böyle	teleskoptan 50.000 km uzağa uçuyor	
+Explicit	Expansion.Conjunction	ve	Yıldızın önüne işte böyle geçecek	harika bir gölge yaratacak
+Explicit	Contingency.Cause.Result	İşte	Yıldızın önüne işte böyle geçecek ve harika bir gölge yaratacak	yörüngesinde dönen gezegenleri bulduk
+Implicit	Comparison.Concession.Arg2-as-denier	fakat	yörüngesinde dönen gezegenleri bulduk	Bu bilimkurgu değil
+Implicit	Expansion.Level-of-detail.Arg2-as-detail	özellikle	Son 5-6 yıldır bunun üzerinde çalışıyoruz	Geçen yaz, Kaliforniya'da Northrop Grumman'da çok etkileyici bir sınama yaptık
+Implicit	Expansion.Conjunction	ve	Yapraklarının açıldığını göreceksiniz	Şimdi yerleştirilmesini görüyorsunuz
+Implicit	Expansion.Level-of-detail.Arg2-as-detail	şöyle ki	Bu yaprakların yerlerine yönlenmesi gerek	Bu yaprakların tabanı her seferinde, milimetrenin onda biri hassaslıkla aynı yere oturmalı
+Explicit	Expansion.Level-of-detail.Arg2-as-detail	ve	Bu sınamayı 16 kez yaptık	16 kez, milimetrenin onda biri hassaslıkla tam olarak aynı yere geldi
+Explicit	Expansion.Conjunction	ve	Bu tam bir doğrulukla yapılmalı	eğer bunu yapabilirsek, eğer bu teknolojiyi inşa edebilirsek, eğer uzaya götürebilirsek, muhtemelen şöyle bir şey görebilirsiniz
+Explicit	Contingency.Condition.Arg2-as-cond	yapabilirsek	eğer bu teknolojiyi inşa edebilirsek, eğer uzaya götürebilirsek, muhtemelen şöyle bir şey görebilirsiniz	eğer bunu
+Implicit	Expansion.Conjunction	ve	eğer bunu yapabilirsek	eğer bu teknolojiyi inşa edebilirsek
+Explicit	Contingency.Condition.Arg2-as-cond	edebilirsek	eğer uzaya götürebilirsek, muhtemelen şöyle bir şey görebilirsiniz	eğer bu teknolojiyi inşa
+Implicit	Expansion.Conjunction	ve	eğer bu teknolojiyi inşa edebilirsek	eğer uzaya götürebilirsek
+Explicit	Contingency.Condition.Arg2-as-cond	götürebilirsek	muhtemelen şöyle bir şey görebilirsiniz	eğer uzaya
+Explicit	Expansion.Conjunction	alıp	oraya bir yere koyarsak	buna benzer biraz daha büyük bir uzay teleskobu
+Explicit	Contingency.Condition.Arg2-as-cond	getirirsek	bunun gibi bir şey görebiliriz	oraya bir yere koyarsak, önüne bir gölgeleyici
+Explicit	Comparison.Concession.Arg2-as-denier	Ama	Bu güneş sistemimizin aile portresi	bizimkini değil, bir başka güneş sistemi görebilmeyi umuyoruz, gölgeleyici sayesinde, bunun gibi bir yıldız gölgeleyici sayesinde
+Implicit	Expansion.Instantiation	örneğin 	bizimkini değil, bir başka güneş sistemi görebilmeyi umuyoruz, gölgeleyici sayesinde, bunun gibi bir yıldız gölgeleyici sayesinde	Jüpiter'i görebilirsiniz, Satürn'ü görebilirsiniz, Uranüs, Neptün ve tam burada merkezde kalıntı ışıkların yanındaki soluk mavi noktayı
+Explicit	Expansion.Conjunction	ve	Jüpiter'i görebilirsiniz, Satürn'ü görebilirsiniz, Uranüs, Neptün	tam burada merkezde kalıntı ışıkların yanındaki soluk mavi noktayı. Bu Dünya
+Implicit	Expansion.Level-of-detail.Arg2-as-detail	şöyle ki	Şunları anlamak isityoruz	Su var mı, oksijen var mı, ozon var mı
+Implicit	Expansion.Equivalence	yani	Su var mı, oksijen var mı, ozon var mı	Yaşam barındırabileceğine ilişkin işaretler arıyoruz
+Implicit	Expansion.Conjunction	aslında	Yaşam barındırabileceğine ilişkin işaretler arıyoruz	Bence bu mümkün olabilecek en harika bilim
+AltLex	Contingency.Cause.Result	Bu yüzden	Bence bu mümkün olabilecek en harika bilim	bu işin içine girdim
+Explicit	Contingency.Cause+Belief.Reason+Belief	çünkü	bu işin içine girdim	bence bu dünyayı değiştirecek
+Explicit	Contingency.Condition.Arg2-as-cond	zaman	her şeyi değiştirecek	Bunu gördüğümüz

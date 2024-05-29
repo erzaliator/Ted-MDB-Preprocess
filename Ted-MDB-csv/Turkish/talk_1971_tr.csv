@@ -1,0 +1,44 @@
+rel_type	rel_sense	conn_text	arg1_text	arg2_text
+Explicit	Expansion.Conjunction	doğup	büyüdüm	doğup
+Explicit	Comparison.Concession.Arg2-as-denier	Ancak,	Ben Sierra Leone'da doğup büyüdüm, Batı Afrika'daki küçük ve çok güzel, hem maddi kaynaklar hem de yaratıcı yetenekler bakımından zengin bir ülkede	Sierra Leone'nun 90'lı yıllarda on yıl süren ve tüm köylerin yakılıp yıkıldığı iç savaştan dolayı kötü bir şöhreti vardır
+Explicit	Expansion.Conjunction	ve	Sierra Leone'nun 90'lı yıllarda on yıl süren	tüm köylerin yakılıp yıkıldığı
+Implicit	Expansion.Level-of-detail.Arg2-as-detail	şöyle ki	Sierra Leone'nun 90'lı yıllarda on yıl süren ve tüm köylerin yakılıp yıkıldığı iç savaştan dolayı kötü bir şöhreti vardır	Bu süre boyunca yaklaşık 8.000 erkek, kadın ve çocuğun kol ve bacakları kesilmiştir
+Implicit	Contingency.Cause.Result	bu nedenle	Bu süre boyunca yaklaşık 8.000 erkek, kadın ve çocuğun kol ve bacakları kesilmiştir	Yaklaşık 12 yaşlarındayken ailemle beraber bu saldırılardan birinden kaçtığımızda kendi çocuklarımı bizim yaşadıklarımızı yaşamaktan korumak için elimden gelen her şeyi yapmaya karar verdim
+Explicit	Temporal.Synchronous	kaçtığımızda	kendi çocuklarımı bizim yaşadıklarımızı yaşamaktan korumak için elimden gelen her şeyi yapmaya karar verdim	Yaklaşık 12 yaşlarındayken ailemle beraber bu saldırılardan birinden kaçtığımızda
+Explicit	Contingency.Purpose.Arg2-as-goal	için	elimden gelen her şeyi yapmaya karar verdim	kendi çocuklarımı bizim yaşadıklarımızı yaşamaktan korumak
+Explicit	Expansion.Level-of-detail.Arg2-as-detail	Aslında	kendi çocuklarımı bizim yaşadıklarımızı yaşamaktan korumak için elimden gelen her şeyi yapmaya karar verdim	onlar artık savaşın ve amputasyonun güç elde etme taktiği olmadığı bir Sierra Leone'nun parçası olacaktı
+Implicit	Comparison.Concession.Arg2-as-denier	ama	onlar artık savaşın ve amputasyonun güç elde etme taktiği olmadığı bir Sierra Leone'nun parçası olacaktı	Tanıdığım, sevdiğim insanların bu yıkımın yaralarını sarışını izlerken beni çok üzen şey ülkede uzuvları kesilmiş olan çoğu insanın protezlerini kullanmamasıydı
+Explicit	Temporal.Synchronous	izlerken	beni çok üzen şey ülkede uzuvları kesilmiş olan çoğu insanın protezlerini kullanmamasıydı	Tanıdığım, sevdiğim insanların bu yıkımın yaralarını sarışını izlerken
+Explicit	Undecided	üzere	protez soketlerinin düzgün oturmadığı için canlarını yakmasıymış	sonradan öğrendiğim
+AltLex	Contingency.Cause+Belief.Reason+Belief	Sebebi	ülkede uzuvları kesilmiş olan çoğu insanın protezlerini kullanmamasıydı	protez soketlerinin düzgün oturmadığı için canlarını yakmasıymış
+Explicit	Contingency.Cause.Reason	için	canlarını yakmasıymış	düzgün oturmadığı
+Explicit	Expansion.Conjunction	ve	kesik uzvuna taktığı	böylece uzvu protez ayağa bağladığı
+Explicit	Contingency.Cause.Result	böylece	kesik uzvuna taktığı	
+Implicit	Expansion.Conjunction	ve	Protez soketi, uzvu kesilmiş kişinin kesik uzvuna taktığı ve böylece uzvu protez ayağa bağladığı parçadır	Gelişmiş ülkelerde bile bir hastanın rahat bir soket alabilmesi 3 haftadan yıllara kadar çıkabiliyor, tabi alabilirse
+Explicit	Contingency.Condition+SpeechAct	tabi alabilirse	Gelişmiş ülkelerde bile bir hastanın rahat bir soket alabilmesi 3 haftadan yıllara kadar çıkabiliyor	tabi alabilirse
+Implicit	Contingency.Cause.Reason	çünkü	Gelişmiş ülkelerde bile bir hastanın rahat bir soket alabilmesi 3 haftadan yıllara kadar çıkabiliyor, tabi alabilirse	Protez kullananlar tek parça protez soketleri yapmak için hala kalıp çıkarma ve kalıba dökme gibi geleneksel yöntemler kullanıyor
+Explicit	Contingency.Purpose.Arg2-as-goal	için	hala kalıp çıkarma ve kalıba dökme gibi geleneksel yöntemler kullanıyor	Protez kullananlar tek parça protez soketleri yapmak
+Explicit	Contingency.Purpose.Arg2-as-goal	için	hala kalıp çıkarma ve kalıba dökme gibi geleneksel yöntemler kullanıyor	tek parça protez soketleri yapmak
+Explicit	Expansion.Conjunction	ve	kalıp çıkarma	kalıba dökme
+Implicit	Comparison.Concession.Arg2-as-denier	ama	Protez kullananlar tek parça protez soketleri yapmak için hala kalıp çıkarma ve kalıba dökme gibi geleneksel yöntemler kullanıyor	Bu tür soketler genelde hastanın uzvuna dayanılmaz ölçüde baskı yaparak yaralara ve su toplamasına neden oluyor
+Explicit	Expansion.Manner.Arg2-as-manner	yaparak	yaralara ve su toplamasına neden oluyor	genelde hastanın uzvuna dayanılmaz ölçüde baskı
+Explicit	Contingency.Condition.Arg2-as-cond	değilse	Protez ayak ne kadar güçlü olursa olsun	Eğer protez soketiniz rahat değilse bacağınızı kullanamazsınız
+Explicit	Expansion.Conjunction	ki	Eğer protez soketiniz rahat değilse bacağınızı kullanamazsınız	bu da açıkça bizim çağımızda kabul edilemez bir şey
+Explicit	Expansion.Conjunction	ve	Yaklaşık iki buçuk yıl önce bir gün, Profesör Hugh Herr ile tanıştım	o bana bu sorunun nasıl çözüleceğini bilip bilmediğimi sordu
+Implicit	Expansion.Conjunction	ve	o bana bu sorunun nasıl çözüleceğini bilip bilmediğimi sordu	"Hayır, henüz değil, ama öğrenmeyi çok isterim"" dedim"
+Explicit	Comparison.Concession.Arg2-as-denier	ama	Hayır, henüz değil	öğrenmeyi çok isterim
+Explicit	Contingency.Cause.Result	Böylece	"Hayır, henüz değil, ama öğrenmeyi çok isterim"" dedim"	MIT Medya Laboratuvarı'nda doktora çalışmam olarak hızlı ve ucuz bir şekilde klasik soketlerden daha rahat protez soketleri tasarladım
+Implicit	Expansion.Level-of-detail.Arg2-as-detail	şöyle ki	MIT Medya Laboratuvarı'nda doktora çalışmam olarak hızlı ve ucuz bir şekilde klasik soketlerden daha rahat protez soketleri tasarladım	Hastanın anatomisinin gerçek biçimini yakalamak için manyetik rezonans görüntülemesini kullandım
+Explicit	Contingency.Purpose.Arg2-as-goal	için	manyetik rezonans görüntülemesini kullandım	Hastanın anatomisinin gerçek biçimini yakalamak
+Explicit	Expansion.Conjunction	ve	Hastanın anatomisinin gerçek biçimini yakalamak için manyetik rezonans görüntülemesini kullandım	normal kuvvetlerde iç gerilme ve deformasyon noktalarını daha iyi tahmin edebilmek için sonlu elemanlar modellemesini kullandım
+Implicit	Temporal.Asynchronous.Precedence	sonra	Hastanın anatomisinin gerçek biçimini yakalamak için manyetik rezonans görüntülemesini kullandım	ve normal kuvvetlerde iç gerilme ve deformasyon noktalarını daha iyi tahmin edebilmek için sonlu elemanlar modellemesini kullandım
+Explicit	Contingency.Purpose.Arg2-as-goal	için	sonlu elemanlar modellemesini kullandım	normal kuvvetlerde iç gerilme ve deformasyon noktalarını daha iyi tahmin edebilmek
+Explicit	Temporal.Asynchronous.Precedence	sonra da	sonlu elemanlar modellemesini kullandım	üretilmek üzere bir protez soketi yaptım
+Implicit	Expansion.Level-of-detail.Arg2-as-detail	şöyle ki	üretilmek üzere bir protez soketi yaptım	Hastanın anatomisinde gerekli yerlerdeki baskıyı azaltan çok parçalı bir protez soketi yapmak için üç boyutlu yazıcı kullandık
+Explicit	Contingency.Purpose.Arg2-as-goal	için	üç boyutlu yazıcı kullandık	Hastanın anatomisinde gerekli yerlerdeki baskıyı azaltan çok parçalı bir protez soketi yapmak
+Explicit	Expansion.Level-of-detail.Arg1-as-detail	Kısacası	Hastanın anatomisinin gerçek biçimini yakalamak için manyetik rezonans görüntülemesini kullandım ve normal kuvvetlerde iç gerilme ve deformasyon noktalarını daha iyi tahmin edebilmek için sonlu elemanlar modellemesini kullandım, sonra da üretilmek üzere bir protez soketi yaptım. Hastanın anatomisinde gerekli yerlerdeki baskıyı azaltan çok parçalı bir protez soketi yapmak için üç boyutlu yazıcı kullandık	çabuk ve ucuz yeni soketler yapmak için verileri kullanıyoruz
+Implicit	Expansion.Instantiation	örneğin	çabuk ve ucuz yeni soketler yapmak için verileri kullanıyoruz	"Son bir denemede, Medya Laboratuvarı'nda, artık tamamladık, hastalarımızdan biri, Amerikalı bir gazi, düzinelerce protez giymiş neredeyse 20 yıllık bir ampüte, bizim yazdırdığımız parçalardan biri hakkında dedi ki, ""Çok yumuşak, yastıkların üzerinde yürüyormuşsun gibi ve çok çekici"
+Explicit	Expansion.Conjunction	ve	yastıkların üzerinde yürüyormuşsun gibi	çok çekici
+Implicit	Expansion.Conjunction	ve	Umudum ve dileğim şu ki, araştırma grubumuzda geliştirdiğimiz araçlar ve yöntemler ona ihtiyacı olanlara çok işlevli protezler götürmekte kullanılabilir	Bana göre, savaş ve hastalıktan etkilenen ruhları iyileştirmeye başlamanın yolu bedenleri için rahat ve ekonomik arayüzler oluşturmaktır
+Implicit	Expansion.Conjunction	ve	Bana göre, savaş ve hastalıktan etkilenen ruhları iyileştirmeye başlamanın yolu bedenleri için rahat ve ekonomik arayüzler oluşturmaktır	Sierra Leone'da veya Boston'da, umarım bu yalnızca onları iyileştirmekle kalmaz, aynı zamanda onların insan potansiyeli anlayışlarını da değiştirir
+AltLex	Expansion.Conjunction	aynı zamanda	umarım bu yalnızca onları iyileştirmekle kalmaz	onların insan potansiyeli anlayışlarını da değiştirir

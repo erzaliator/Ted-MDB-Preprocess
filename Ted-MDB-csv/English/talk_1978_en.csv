@@ -1,0 +1,120 @@
+rel_type	rel_sense	conn_text	arg1_text	arg2_text
+Implicit	Contingency.Cause.Reason	because	I feel so fortunate that my first job was working at the Museum of Modern Art on a retrospective of painter Elizabeth Murray	I learned so much from her
+Implicit	Contingency.Cause.Reason	because	I loved looking at the paintings from the 1970s	There were some motifs and elements that would come up again later in her life
+Explicit	Contingency.Condition.Arg2-as-cond	If	you might not have been able to guess	you didn't know they were hers
+Explicit	Expansion.Instantiation	in fact	that a few didn't quite meet her own mark for what she wanted them to be	
+Explicit	Expansion.Conjunction	and	she had set it out in the trash in her studio	her neighbor had taken it
+Implicit	Temporal.Asynchronous.Precedence	then	she had set it out in the trash in her studio	and her neighbor had taken it
+Explicit	Contingency.Cause.Reason	because	her neighbor had taken it	she saw its value
+Implicit	Contingency.Cause.Result	consequently	One of the works, in fact, so didn't meet her mark, she had set it out in the trash in her studio, and her neighbor had taken it because she saw its value	In that moment, my view of success and creativity changed
+Implicit	Expansion.Level-of-detail.Arg2-as-detail	specifically	my view of success and creativity changed	I realized that success is a moment, but what we're always celebrating is creativity and mastery
+Explicit	Comparison.Concession.Arg2-as-denier	but	I realized that success is a moment	what we're always celebrating is creativity and mastery
+Explicit	Comparison.Concession.Arg2-as-denier	But	what we're always celebrating is creativity and mastery	this is the thing: What gets us to convert success into mastery
+Implicit	Expansion.Conjunction	and	This is a question I've long asked myself	I think it comes when we start to value the gift of a near win
+Explicit	Temporal.Synchronous	when	I started to understand this	I went on one cold May day to watch a set of varsity archers
+Explicit	Contingency.Purpose.Arg2-as-goal	in order	you have to aim at something slightly skew from it	
+Implicit	Contingency.Cause.Result	so	I wanted to see what's called archer's paradox, the idea that in order to actually hit your target, you have to aim at something slightly skew from it	I stood and watched as the coach drove up these women in this gray van
+Explicit	Expansion.Conjunction	and	stood	watched
+Explicit	Temporal.Synchronous	as	I stood and watched	the coach drove up these women in this gray van
+Explicit	Expansion.Conjunction	and	I stood and watched as the coach drove up these women in this gray van	they exited
+Implicit	Temporal.Asynchronous.Precedence	then	I stood and watched as the coach drove up these women in this gray van	and they exited
+Explicit	Expansion.Conjunction	And	One held a half-eaten ice cream cone in one hand and arrows in the left with yellow fletching	they passed me and smiled
+Explicit	Expansion.Conjunction	and	they passed me	smiled
+Explicit	Comparison.Concession.Arg2-as-denier	but	smiled	they sized me up as they made their way to the turf
+Explicit	Temporal.Synchronous	as	they sized me up	they made their way to the turf
+Explicit	Expansion.Conjunction	and	they sized me up as they made their way to the turf	spoke to each other not with words but with numbers, degrees, I thought, positions for how they might plan to hit their target
+Explicit	Expansion.Substitution.Arg2-as-subst	but	spoke to each other not with words	with numbers, degrees, I thought, positions for how they might plan to hit their target
+Implicit	Temporal.Asynchronous.Precedence	then	they passed me and smiled, but they sized me up as they made their way to the turf, and spoke to each other not with words but with numbers, degrees, I thought, positions for how they might plan to hit their target	I stood behind one archer as her coach stood in between us to maybe assess who might need support, and watched her, and I didn't understand how even one was going to hit the ten ring
+Explicit	Temporal.Synchronous	as	I stood behind one archer	her coach stood in between us
+Implicit	Contingency.Purpose.Arg2-as-goal	in order	her coach stood in between us	to maybe assess who might need support
+Explicit	Expansion.Conjunction	and	I stood behind one archer as her coach stood in between us to maybe assess who might need support	watched her
+Explicit	Expansion.Conjunction	and	I stood behind one archer as her coach stood in between us to maybe assess who might need support, and watched her	I didn't understand how even one was going to hit the ten ring
+Explicit	Expansion.Conjunction	And	The ten ring from the standard 75-yard distance, it looks as small as a matchstick tip held out at arm's length	this is while holding 50 pounds of draw weight on each shot
+Explicit	Expansion.Conjunction	and	She first hit a seven, I remember	then a nine
+Explicit	Temporal.Asynchronous.Precedence	then	She first hit a seven, I remember	a nine
+Explicit	Expansion.Conjunction	and	a nine	then two tens
+Explicit	Temporal.Asynchronous.Precedence	then	a nine	two tens
+Explicit	Expansion.Conjunction	and	two tens	then the next arrow didn't even hit the target
+Explicit	Temporal.Asynchronous.Precedence	then	two tens	the next arrow didn't even hit the target
+Explicit	Expansion.Conjunction	And	the next arrow didn't even hit the target	I saw that gave her more tenacity
+Implicit	Contingency.Cause.Result	consequently	the next arrow didn't even hit the target	And I saw that gave her more tenacity
+Explicit	Expansion.Conjunction	and	I saw that gave her more tenacity	she went after it again and again
+Implicit	Contingency.Cause.Result	as a result	I saw that gave her more tenacity	and she went after it again and again
+Implicit	Expansion.Conjunction	finally	For three hours this went on	At the end of the practice, one of the archers was so taxed that she lied out on the ground just star-fished, her head looking up at the sky, trying to find what T.S. Eliot might call that still point of the turning world
+Explicit	Contingency.Purpose.Arg2-as-goal	in order	what it means to align your body posture for three hours	to hit a target
+Explicit	Comparison.Concession.Arg2-as-denier	But	It's so rare in American culture, there's so little that's vocational about it anymore, to look at what doggedness looks like with this level of exactitude, what it means to align your body posture for three hours in order to hit a target, pursuing a kind of excellence in obscurity	I stayed
+Explicit	Contingency.Cause.Reason	because	I stayed	I realized I was witnessing what's so rare to glimpse, that difference between success and mastery
+Explicit	Comparison.Contrast	but	success is hitting that ten ring	mastery is knowing that it means nothing if you can't do it again and again
+Explicit	Contingency.Condition.Arg2-as-cond	if	that it means nothing	you can't do it again and again
+Explicit	Expansion.Level-of-detail.Arg2-as-detail	though	mastery is knowing that it means nothing if you can't do it again and again	Mastery is not just the same as excellence
+Implicit	Comparison.Similarity	similarly	Mastery is not just the same as excellence	It's not the same as success
+Implicit	Expansion.Conjunction	furthermore	It's not the same as success, which I see as an event, a moment in time, and a label that the world confers upon you	Mastery is not a commitment to a goal
+Explicit	Expansion.Substitution.Arg2-as-subst	but	Mastery is not a commitment to a goal	to a constant pursuit
+Implicit	Expansion.Level-of-detail.Arg2-as-detail	specifically	What gets us to do this	what get us to forward thrust more is to value the near win
+Implicit	Expansion.Instantiation	for example	what get us to forward thrust more is to value the near win	How many times have we designated something a classic, a masterpiece even, while its creator considers it hopelessly unfinished, riddled with difficulties and flaws, in other words, a near win
+Explicit	Temporal.Synchronous	while	How many times have we designated something a classic, a masterpiece even	its creator considers it hopelessly unfinished, riddled with difficulties and flaws, in other words, a near win
+Explicit	Expansion.Level-of-detail.Arg2-as-detail	with	Elizabeth Murray surprised me	her admission about her earlier paintings
+Implicit	Comparison.Similarity	similarly	Elizabeth Murray surprised me with her admission about her earlier paintings	Painter Paul Cézanne so often thought his works were incomplete that he would deliberately leave them aside with the intention of picking them back up again
+Explicit	Comparison.Concession.Arg2-as-denier	but	Painter Paul Cézanne so often thought his works were incomplete that he would deliberately leave them aside with the intention of picking them back up again	at the end of his life, the result was that he had only signed 10 percent of his paintings
+Explicit	Expansion.Conjunction	and	"His favorite novel was ""The [Unknown] Masterpiece"" by Honoré de Balzac"	he felt the protagonist was the painter himself
+Explicit	Comparison.Contrast	when	Franz Kafka saw incompletion	others would find only works to praise
+AltLex	Contingency.Cause.Result	so much so	Franz Kafka saw incompletion when others would find only works to praise	that he wanted all of his diaries, manuscripts, letters and even sketches burned upon his death
+Implicit	Comparison.Concession.Arg2-as-denier	however	that he wanted all of his diaries, manuscripts, letters and even sketches burned upon his death	His friend refused to honor the request
+Explicit	Expansion.Conjunction	and	His friend refused to honor the request	"we now have all the works we now do by Kafka: ""America,"" ""The Trial"" and ""The Castle,"" a work so incomplete it even stops mid-sentence"
+AltLex	Contingency.Cause.Result	because of that	His friend refused to honor the request	"we now have all the works we now do by Kafka: ""America,"" ""The Trial"" and ""The Castle,"" a work so incomplete it even stops mid-sentence"
+Explicit	Expansion.Conjunction	and	"Lord, grant that I desire more than I can accomplish,"" Michelangelo implored, as if to that Old Testament God on the Sistine Chapel"	he himself was that Adam with his finger outstretched and not quite touching that God's hand
+Explicit	Expansion.Conjunction	and	with his finger outstretched	not quite touching that God's hand
+AltLex	Expansion.Substitution.Arg1-as-subst	not	Mastery is in the reaching	not the arriving
+Implicit	Expansion.Conjunction	further	Mastery is in the reaching, not the arriving	It's in constantly wanting to close that gap between where you are and where you want to be
+Implicit	Expansion.Conjunction	further	It's in constantly wanting to close that gap between where you are and where you want to be	Mastery is about sacrificing for your craft and not for the sake of crafting your career
+Explicit	Expansion.Conjunction	and	Mastery is about sacrificing for your craft	not for the sake of crafting your career
+AltLex	Expansion.Substitution.Arg1-as-subst	not	Mastery is about sacrificing for your craft	and not for the sake of crafting your career
+Explicit	Comparison.Contrast	but	that his triumphs are not merely the result of a grand achievement	of the propulsion of a lineage of near wins
+Explicit	Contingency.Cause.Reason	because	Part of the reason that the near win is inbuilt to mastery is	the greater our proficiency, the more clearly we might see that we don't know all that we thought we did
+Explicit	Temporal.Synchronous	when	The Paris Review got it out of James Baldwin	"they asked him, ""What do you think increases with knowledge?"" and he said, ""You learn how little you know"
+Explicit	Expansion.Conjunction	and	"they asked him, ""What do you think increases with knowledge"	"he said, ""You learn how little you know"
+Explicit	Comparison.Contrast	but	Success motivates us	a near win can propel us in an ongoing quest
+AltLex	Expansion.Instantiation	One of the most vivid examples of this comes	Success motivates us, but a near win can propel us in an ongoing quest	when we look at the difference between Olympic silver medalists and bronze medalists after a competition
+Implicit	Expansion.Instantiation	for example	One of the most vivid examples of this comes when we look at the difference between Olympic silver medalists and bronze medalists after a competition	Thomas Gilovich and his team from Cornell studied this difference and found that the frustration silver medalists feel compared to bronze, who are typically a bit more happy to have just not received fourth place and not medaled at all, gives silver medalists a focus on follow-up competition
+Explicit	Expansion.Conjunction	and	Thomas Gilovich and his team from Cornell studied this difference	
+AltLex	Contingency.Cause.Result	and found	Thomas Gilovich and his team from Cornell studied this difference	that the frustration silver medalists feel compared to bronze, who are typically a bit more happy to have just not received fourth place and not medaled at all, gives silver medalists a focus on follow-up competition
+Explicit	Expansion.Conjunction	and	to have just not received fourth place	not medaled at all
+Implicit	Contingency.Cause.Result	as a result	to have just not received fourth place	and not medaled at all
+Explicit	Expansion.Conjunction	and	that once picked up on this phenomenon of the near win	created these scratch-off tickets that had a higher than average rate of near wins and so compelled people to buy more tickets that they were called heart-stoppers
+Explicit	Expansion.Conjunction	and	that had a higher than average rate of near wins	compelled people to buy more tickets
+Explicit	Contingency.Cause.Result	so	that had a higher than average rate of near wins	
+Explicit	Expansion.Conjunction	and	that once picked up on this phenomenon of the near win and created these scratch-off tickets that had a higher than average rate of near wins and so compelled people to buy more tickets that they were called heart-stoppers	were set on a gambling industry set of abuses in Britain in the 1970s
+AltLex	Contingency.Cause.Reason	because	The reason the near win has a propulsion is	it changes our view of the landscape and puts our goals, which we tend to put at a distance, into more proximate vicinity to where we stand
+Explicit	Expansion.Conjunction	and	it changes our view of the landscape	puts our goals, which we tend to put at a distance, into more proximate vicinity to where we stand
+Explicit	Contingency.Condition.Arg2-as-cond	If	you might describe it in more general terms	I ask you to envision what a great day looks like next week
+Explicit	Comparison.Contrast	But	If I ask you to envision what a great day looks like next week, you might describe it in more general terms	if I ask you to describe a great day at TED tomorrow, you might describe it with granular, practical clarity
+Explicit	Contingency.Condition.Arg2-as-cond	if	you might describe it with granular, practical clarity	I ask you to describe a great day at TED tomorrow
+Explicit	Expansion.Conjunction	And	if I ask you to describe a great day at TED tomorrow, you might describe it with granular, practical clarity	this is what a near win does
+Implicit	Expansion.Level-of-detail.Arg2-as-detail	specifically	this is what a near win does	It gets us to focus on what, right now, we plan to do to address that mountain in our sights
+Explicit	Expansion.Conjunction	and	It's Jackie Joyner-Kersee, who in 1984 missed taking the gold in the heptathlon by one third of a second	her husband predicted that would give her the tenacity she needed in follow-up competition
+Implicit	Contingency.Cause+Belief.Result+Belief	as a result	It's Jackie Joyner-Kersee, who in 1984 missed taking the gold in the heptathlon by one third of a second	and her husband predicted that would give her the tenacity she needed in follow-up competition
+Implicit	Temporal.Asynchronous.Precedence	then	who in 1984 missed taking the gold in the heptathlon by one third of a second, and her husband predicted that would give her the tenacity she needed in follow-up competition	In 1988, she won the gold in the heptathlon and set a record of 7,291 points, a score that no athlete has come very close to since
+Explicit	Expansion.Conjunction	and	she won the gold in the heptathlon	set a record of 7,291 points
+Implicit	Contingency.Cause.Result	as a result	she won the gold in the heptathlon	and set a record of 7,291 points
+Explicit	Expansion.Substitution.Arg2-as-subst	but	We thrive not when we've done it all	when we still have more to do
+Explicit	Expansion.Conjunction	and	thinking	wondering
+Explicit	Contingency.Cause.Reason	because	I stand here thinking and wondering about all the different ways that we might even manufacture a near win in this room, how your lives might play this out	I think on some gut level we do know this
+Implicit	Expansion.Level-of-detail.Arg2-as-detail	that is	I think on some gut level we do know this	We know that we thrive when we stay at our own leading edge
+Explicit	Expansion.Conjunction	and	We know that we thrive when we stay at our own leading edge	it's why the deliberate incomplete is inbuilt into creation myths
+Implicit	Contingency.Cause.Result	as a result	We know that we thrive when we stay at our own leading edge	and it's why the deliberate incomplete is inbuilt into creation myths
+Implicit	Expansion.Instantiation	for example	it's why the deliberate incomplete is inbuilt into creation myths	In Navajo culture, some craftsmen and women would deliberately put an imperfection in textiles and ceramics
+Implicit	Contingency.Purpose.Arg2-as-goal	in order	a deliberate flaw in the pattern	to give the weaver or maker a way out
+Explicit	Comparison.Concession.Arg2-as-denier	but	It's what's called a spirit line, a deliberate flaw in the pattern to give the weaver or maker a way out	also a reason to continue making work
+Explicit	Expansion.Conjunction	also	It's what's called a spirit line, a deliberate flaw in the pattern to give the weaver or maker a way out	a reason to continue making work
+Implicit	Contingency.Cause.Reason	because	It's what's called a spirit line, a deliberate flaw in the pattern to give the weaver or maker a way out, but also a reason to continue making work	Masters are not experts because they take a subject to its conceptual end
+Explicit	Contingency.Cause.Reason	because	Masters are not experts	they take a subject to its conceptual end
+Implicit	Expansion.Substitution.Arg2-as-subst	rather	Masters are not experts because they take a subject to its conceptual end	They're masters because they realize that there isn't one
+Explicit	Contingency.Cause.Reason	because	They're masters	they realize that there isn't one
+Explicit	Temporal.Synchronous	as	it occurred to me	I thought about this
+Explicit	Expansion.Substitution.Arg2-as-subst	but	It didn't sound like a complaint, exactly	just a way to let me know, a kind of tender admission, to remind me that he knew he was giving himself over to a voracious, unfinished path that always required more
+Implicit	Contingency.Purpose.Arg2-as-goal	in order	just a way to let me know, a kind of tender admission	to remind me that he knew he was giving himself over to a voracious, unfinished path that always required more
+Implicit	Contingency.Cause.Reason	because	We build out of the unfinished idea, even if that idea is our former self	This is the dynamic of mastery
+Implicit	Expansion.Level-of-detail.Arg2-as-detail	specifically	This is the dynamic of mastery	Coming close to what you thought you wanted can help you attain more than you ever dreamed you could
+Explicit	Temporal.Synchronous	when	It's what I have to imagine Elizabeth Murray was thinking	I saw her smiling at those early paintings one day in the galleries
+AltLex	Contingency.Condition.Arg2-as-cond	Even if	I believe we would still have the incomplete	we created utopias
+Explicit	Comparison.Concession.Arg2-as-denier	but	Completion is a goal	we hope it is never the end

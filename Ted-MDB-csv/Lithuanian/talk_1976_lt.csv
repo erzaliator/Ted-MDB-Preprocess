@@ -1,0 +1,114 @@
+rel_type	rel_sense	conn_text	arg1_text	arg2_text
+Implicit	Expansion.Conjunction	iki tada		
+Implicit	Expansion.Conjunction	ir	﻿Visatoje knibždėte knibžda planetos	Norėčiau, kad kitą dešimtmetį sukurtume tokį teleskopą visatai stebėti, kuris leistų parsisiųsti į Žemę vaizdų ir suprasti, ar žvaigždėje yra gyvybės
+Explicit	Expansion.Level-of-detail.Arg2-as-detail	kad	Norėčiau	kitą dešimtmetį sukurtume tokį teleskopą visatai stebėti, kuris leistų parsisiųsti į Žemę vaizdų ir suprasti, ar žvaigždėje yra gyvybės
+Implicit	Contingency.Cause.Result	taigi	Norėčiau, kad kitą dešimtmetį sukurtume tokį teleskopą visatai stebėti, kuris leistų parsisiųsti į Žemę vaizdų ir suprasti, ar žvaigždėje yra gyvybės	NASA Reaktyvinio judėjimo laboratorija Prinstone ir aš bendradarbiaujame kurdami technologiją, kuri būtent tai ir sugebės atlikti artimiausiais metais
+Explicit	Expansion.Level-of-detail.Arg2-as-detail	kad	Šiandien astronomai mano,	galaktikoje kiekviena žvaigždė turi savo planetą
+Explicit	Expansion.Conjunction	ir	Šiandien astronomai mano, kad galaktikoje kiekviena žvaigždė turi savo planetą	jie spėja, kad penktadalis žvaigždžių turi planetą kaip Žemė, kurioje galbūt yra gyvybės, nors tokių dar nesugebėjome pamatyti
+Explicit	Expansion.Level-of-detail.Arg2-as-detail	kad	jie spėja	penktadalis žvaigždžių turi planetą kaip Žemė, kurioje galbūt yra gyvybės, nors tokių dar nesugebėjome pamatyti
+Explicit	Comparison.Concession.Arg2-as-denier	nors	jie spėja, kad penktadalis žvaigždžių turi planetą kaip Žemė, kurioje galbūt yra gyvybės	tokių dar nesugebėjome pamatyti
+Implicit	Comparison.Concession.Arg2-as-denier	taciau	Šiandien astronomai mano, kad galaktikoje kiekviena žvaigždė turi savo planetą, ir jie spėja, kad penktadalis žvaigždžių turi planetą kaip Žemė, kurioje galbūt yra gyvybės, nors tokių dar nesugebėjome pamatyti	Esame aptikę jas tik netiesiogiai
+Explicit	Contingency.Purpose.Arg2-as-goal	kad	Ją padarė erdvėlaivis „Voyager“ 1990 m., apsuktas Saulės sistemos pakraštyje	padarytų Žemės nuotrauką iš šešių milijardų kilometrų nuotolio
+Implicit	Comparison.Similarity	panasiai	Ją padarė erdvėlaivis „Voyager“ 1990 m., apsuktas Saulės sistemos pakraštyje, kad padarytų Žemės nuotrauką iš šešių milijardų kilometrų nuotolio	Aš noriu padaryti tokią kitos į Žemę panašios planetos ir kitos žvaigždės nuotrauką
+Implicit	Comparison.Concession.Arg2-as-denier	bet	Aš noriu padaryti tokią kitos į Žemę panašios planetos ir kitos žvaigždės nuotrauką	Kodėl dar to nepadarėme
+Implicit	Expansion.Conjunction	ir	Kodėl dar to nepadarėme	Kodėl tai sudėtinga
+AltLex	Hypophora	Kodėl	Kad suprastume, įsivaizduokime „Hubble“ teleskopą apsuktą ir perkeltą į Marso orbitą	tai sudėtinga
+Explicit	Contingency.Purpose.Arg2-as-goal	Kad	įsivaizduokime „Hubble“ teleskopą apsuktą ir perkeltą į Marso orbitą	suprastume
+Implicit	Expansion.Conjunction	ir	Kad suprastume, įsivaizduokime „Hubble“ teleskopą apsuktą ir perkeltą į Marso orbitą	Pamatysime štai ką: šiek tiek išplaukusį Žemės vaizdą, nes esame gan mažas teleskopas iškeltas prie Marso orbitos
+Explicit	Contingency.Cause.Reason	nes	Pamatysime štai ką: šiek tiek išplaukusį Žemės vaizdą	esame gan mažas teleskopas iškeltas prie Marso orbitos
+Explicit	Temporal.Asynchronous.Precedence	Dabar	Pamatysime štai ką: šiek tiek išplaukusį Žemės vaizdą, nes esame gan mažas teleskopas iškeltas prie Marso orbitos	nutolkime dar dešimt kartų tiek
+Implicit	Contingency.Cause.Result	taigi	Dabar nutolkime dar dešimt kartų tiek	Štai esame prie Urano orbitos
+Implicit	Comparison.Concession.Arg2-as-denier	taciau	Vaizdas mažesnis, ne toks detalus, ne toks raiškus	Vis dar matyti mažytis mėnulis
+Explicit	Expansion.Conjunction	bet	Vis dar matyti mažytis mėnulis	vėl nutolkime dar dešimt kartų
+Implicit	Contingency.Cause.Result	taigi	vėl nutolkime dar dešimt kartų	Atsidūrėme Saulės sistemos paribyje, prie Kuiperio juostos
+AltLex	Temporal.Synchronous	Dabar	Atsidūrėme Saulės sistemos paribyje, prie Kuiperio juostos	vaizdas visai neraiškus
+Implicit	Expansion.Equivalence	kitaip tariant	Dabar vaizdas visai neraiškus	Štai tas blyškusis mėlynasis Karlo Sagano taškas
+Explicit	Expansion.Conjunction	Bet	Štai tas blyškusis mėlynasis Karlo Sagano taškas	nutolkime dar dešimt kartų toliau
+AltLex	Temporal.Synchronous	Dabar	nutolkime dar dešimt kartų toliau	esame prie Oorto Debesies,už Saulės sistemos ribų, ir dabar matome, kaip saulė atsiduria vaizdo lauke, ten, kur yra planeta
+Explicit	Expansion.Conjunction	ir	Dabar esame prie Oorto Debesies,už Saulės sistemos ribų	dabar matome, kaip saulė atsiduria vaizdo lauke, ten, kur yra planeta
+Explicit	Expansion.Level-of-detail.Arg2-as-detail	kaip	dabar matome	saulė atsiduria vaizdo lauke, ten, kur yra planeta
+Implicit	Expansion.Conjunction	ir	Dabar esame prie Oorto Debesies,už Saulės sistemos ribų, ir dabar matome, kaip saulė atsiduria vaizdo lauke, ten, kur yra planeta	Dar kartą dešimt kartų toliau
+AltLex	Temporal.Synchronous	Dabar	Dar kartą dešimt kartų toliau	esame prie Alfa Kentauro, mūsų artimiausios kaimynės ir planetos jau nebėra
+Implicit	Expansion.Conjunction	ir	Dabar esame prie Alfa Kentauro	mūsų artimiausios kaimynės ir planetos jau nebėra
+Implicit	Expansion.Conjunction	ir	Dabar esame prie Alfa Kentauro, mūsų artimiausios kaimynės ir planetos jau nebėra	Tematome tik šviečiantį žvaigždės vaizdą, kuris dešimt milijardų kartų ryškesnis už planetą, kuri turėtų būti raudoname apskritime
+Explicit	Contingency.Cause.Reason	Todėl	Tematome tik šviečiantį žvaigždės vaizdą, kuris dešimt milijardų kartų ryškesnis už planetą, kuri turėtų būti raudoname apskritime. Tai ir norime pamatyti	tai ir sunku
+Implicit	Contingency.Cause.Reason	nes	tai ir sunku	Nuo žvaigždės sklindanti šviesa lūžta
+Implicit	Expansion.Conjunction	ir	Nuo žvaigždės sklindanti šviesa lūžta	Ji išsisklaido teleskope sukurdama tą ryškų vaizdą, kuris užlieja planetą
+Explicit	Contingency.Purpose.Arg2-as-goal	Kad	turime kažką padaryti su ta šviesa	pamatytume tą planetą
+Implicit	Contingency.Cause.Result	taigi	Ji išsisklaido teleskope sukurdama tą ryškų vaizdą, kuris užlieja planetą	Kad pamatytume tą planetą, turime kažką padaryti su ta šviesa
+Implicit	Expansion.Level-of-detail.Arg2-as-detail	trumpai tariant	Kad pamatytume tą planetą, turime kažką padaryti su ta šviesa	Ją reikia pašalinti
+Implicit	Expansion.Conjunction	ir	Ją reikia pašalinti	Kai kurie mano kolegos dirba būtent ties tokiomis technologijomis
+Explicit	Comparison.Concession.Arg2-as-denier	bet	Kai kurie mano kolegos dirba būtent ties tokiomis technologijomis	šiandien noriu papasakoti apie tą, kuri, mano galva, šauniausia ir labiausiai pajėgi padaryti norimą nuotrauką per artimiausią dešimtmetį
+Implicit	Temporal.Synchronous	kai	Pirmasis tai pasiūlė Lyman Spitzer, kosminio teleskopo tėvas	1962 m. Jį įkvėpė vienas užtemimas
+Implicit	Temporal.Synchronous	kai	Kalbu apie saulės užtemimą	Mėnulis atsiduria priešais saulę
+Implicit	Expansion.Conjunction	ir	Mėnulis atsiduria priešais saulę	Jis uždengia didžiąją dalį šviesos ir mes tematome blyškų vainiką aplink
+Explicit	Expansion.Conjunction	ir	Jis uždengia didžiąją dalį šviesos	mes tematome blyškų vainiką aplink
+Implicit	Expansion.Equivalence	faktiskai	Jis uždengia didžiąją dalį šviesos ir mes tematome blyškų vainiką aplink	Būtų tas pats, jei aš nykščiu uždengčiau tą lempos šviesą, kuri sklinda man į akis
+Explicit	Contingency.Condition.Arg2-as-cond	jei	Būtų tas pats	aš nykščiu uždengčiau tą lempos šviesą, kuri sklinda man į akis
+AltLex	Hypophora	Kas	Mėnulis meta šešėlį ant Žemės	čia vyksta
+Implicit	Contingency.Cause.Result	taigi	Pastatome teleskopą ar kamerą tame šešėlyje ir atsisukame į saulę	Didžioji dalis šviesos pašalinta ir mes matome blyškią, trapią struktūrą vainike
+Explicit	Expansion.Conjunction	ir	Didžioji dalis šviesos pašalinta	mes matome blyškią, trapią struktūrą vainike
+Implicit	Contingency.Cause.Result	todel	Didžioji dalis šviesos pašalinta	mes matome blyškią, trapią struktūrą vainike
+Implicit	Expansion.Level-of-detail.Arg2-as-detail	savo ruoztu	Spitzer siūlė tą patį padaryti erdvėje	Pastatome didelę uždangą, nuskraidiname ją į kosmosą, paliekame ją priešais žvaidgždę, užblokuojame didžiąją dalį šviesos, į sukurtą šešėlį nuskraidiname kosminį teleskopą
+Implicit	Temporal.Asynchronous.Precedence	tada	Pastatome didelę uždangą	nuskraidiname ją į kosmosą
+Implicit	Temporal.Asynchronous.Precedence	tada	nuskraidiname ją į kosmosą	paliekame ją priešais žvaidgždę
+Implicit	Temporal.Asynchronous.Precedence	tada	paliekame ją priešais žvaidgždę	užblokuojame didžiąją dalį šviesos
+Implicit	Temporal.Asynchronous.Precedence	tada	užblokuojame didžiąją dalį šviesos	į sukurtą šešėlį nuskraidiname kosminį teleskopą
+AltLex	Contingency.Cause.Result	ir štai	Pastatome didelę uždangą, nuskraidiname ją į kosmosą, paliekame ją priešais žvaidgždę, užblokuojame didžiąją dalį šviesos, į sukurtą šešėlį nuskraidiname kosminį teleskopą	galime matyti planetas
+Implicit	Comparison.Similarity	faktiskai	ir štai – galime matyti planetas	Taip viskas atrodytų
+Explicit	Comparison.Contrast	o	Didysis ekranas yra	planetų ne
+Explicit	Contingency.Cause.Reason	nes	planetų ne	pasirodo, ne viskas gerai veikia
+Implicit	Expansion.Level-of-detail.Arg2-as-detail	kad	pasirodo	ne viskas gerai veikia
+Explicit	Contingency.Cause.Reason	nes	ne viskas gerai veikia	šviesos bangos užlinksta aplink ekraną lygiai taip kaip ir teleskope
+AltLex	Comparison.Similarity	Tarytum	šviesos bangos užlinksta aplink ekraną lygiai taip kaip ir teleskope	vandens tėkmė aplink akmenį upelyje
+Explicit	Expansion.Conjunction	o	Tarytum vandens tėkmė aplink akmenį upelyje	visa ta šviesa išdarko šešėlį
+Explicit	Expansion.Conjunction	Ir	Šešėlis didžiulis	planetų mes nematome
+Implicit	Contingency.Cause.Result	todel	Šešėlis didžiulis	Ir planetų mes nematome
+Explicit	Comparison.Concession.Arg2-as-denier	Bet	Ir planetų mes nematome	Spitzer juk žinojo atsakymą
+Explicit	Contingency.Condition.Arg2-as-cond	Jei	galėtume valdyti difrakciją, vadinasi, ir matyti planetą	galėtume prislopinti, sušvelninti kraštus
+Implicit	Expansion.Conjunction	ir	galėtume prislopinti	sušvelninti kraštus
+Implicit	Expansion.Conjunction	ir	Per pastaruosius dešimt metų pavyko rasti optimalų sprendimą	Jis maždaug toks
+Explicit	Contingency.Condition.Arg2-as-cond	Jei	galėsime valdyti difrakciją ir išgauti puikų šešėlį	sukursime tinkamos formos žiedlapius
+Explicit	Contingency.Condition.Arg2-as-cond	jei	galėsime valdyti difrakciją ir išgauti puikų šešėlį	galėsime valdyti šešėlį
+Implicit	Expansion.Conjunction	ir	Jei sukursime tinkamos formos žiedlapius	jei galėsime valdyti šešėlį
+Explicit	Expansion.Conjunction	Ir	Jis dešimt milijardų kartų blankesnis nei anksčiau	matome, kaip šviečia planetos
+Implicit	Expansion.Level-of-detail.Arg2-as-detail	konkreciai	Na, jis turi būti didesnis už nykštį	Šydas maždaug pusės futbolo lauko dydžio
+Explicit	Expansion.Conjunction	Ir	Šydas maždaug pusės futbolo lauko dydžio	jis turi nuskristi 50 000 kilometrų tolyn nuo teleskopo, jis turi atsidurti tikslioje vietoje ir tada pamatysime tas planetas
+Implicit	Expansion.Conjunction	ir	jis turi nuskristi 50 000 kilometrų tolyn nuo teleskopo	jis turi atsidurti tikslioje vietoje
+Explicit	Expansion.Conjunction	ir	jis turi atsidurti tikslioje vietoje	pamatysime tas planetas
+Explicit	Temporal.Asynchronous.Precedence	tada	jis turi atsidurti tikslioje vietoje	pamatysime tas planetas
+Explicit	Comparison.Concession.Arg2-as-denier	bet	Tai atrodo sunkiai įveikiama	puikūs inžinieriai, mano kolegos laboratorijoje, sukūrė nuostabų planą, kaip tai padaryti
+Implicit	Expansion.Conjunction	ir	Tai atrodo sunkiai įveikiama, bet puikūs inžinieriai, mano kolegos laboratorijoje, sukūrė nuostabų planą, kaip tai padaryti	Jis maždaug toks
+Implicit	Temporal.Asynchronous.Precedence	tada	Pradžioje šydas apvyniojamas apie ašį	Jis atsiskiria nuo teleskopo
+Implicit	Temporal.Asynchronous.Precedence	tada	Jis atsiskiria nuo teleskopo	Žiedlapiai skleidžiasi, atsiveria
+Implicit	Temporal.Asynchronous.Precedence	tada	Žiedlapiai skleidžiasi, atsiveria	teleskopas apsisuka
+Explicit	Temporal.Asynchronous.Precedence	Tada	teleskopas apsisuka	šydas atsiskiria ir skrenda 50 000 kilometrų tolyn nuo teleskopo
+Implicit	Temporal.Asynchronous.Precedence	tada	Tada šydas atsiskiria ir skrenda 50 000 kilometrų tolyn nuo teleskopo	Jis atsidurs priešais žvaigždę, štai taip, ir sukurs puikų šešėlį
+Explicit	Expansion.Conjunction	ir	Jis atsidurs priešais žvaigždę, štai taip	sukurs puikų šešėlį
+AltLex	Contingency.Cause.Result	Valio	Jis atsidurs priešais žvaigždę, štai taip, ir sukurs puikų šešėlį	aplink jį orbitoje planetos
+Implicit	Expansion.Level-of-detail.Arg2-as-detail	faktiskai	Šioje srityje dirbame jau penkerius šešerius metus	Pernai vasarą atlikome puikų bandymą Kaliformijoje, Nortrop Gramane
+Explicit	Expansion.Level-of-detail.Arg2-as-detail	kaip	Pamatysite	skleidžiasi žiedlapiai
+AltLex	Temporal.Asynchronous.Precedence	Štai	Tuos keturis žiedlapius sukūrė keturi studentai atlikę pas mus vasaros praktiką	kaip jie skleidžiasi
+Implicit	Expansion.Level-of-detail.Arg2-as-detail	faktiskai	Žiedlapiai turi suktis ir laiku sustoti	Jų pagrindas turi kaskart sustoti ten pat milimetro dešimtosios tikslumu
+Explicit	Expansion.Conjunction	ir	Šį bandymą atlikome 16 kartų	16 kartų jis stojo į reikiamas vietas reikiamu tikslumu
+Explicit	Comparison.Concession.Arg2-as-denier	bet	Tai reikia atlikti labai tiksliai	jei mums pavyks, jei technologiją sukursime, jei nugabensime ją į kosmosą, pamatysite kažką tokio. Tai mūsų artimiausios kaimynės nuotrauka atlikta „Hubble“ teleskopu. Jei mums pavyktų nugabenti panašų teleskopą, tik
+Explicit	Contingency.Condition.Arg2-as-cond	jei	pamatysite kažką tokio	mums pavyks
+Explicit	Contingency.Negative-condition.Arg2-as-negcond	jei	pamatysite kažką tokio	technologiją sukursime
+Implicit	Expansion.Conjunction	ir	jei mums pavyks	jei technologiją sukursime
+Explicit	Contingency.Condition.Arg2-as-cond	jei	pamatysite kažką tokio	nugabensime ją į kosmosą
+Implicit	Expansion.Conjunction	ir	jei technologiją sukursime	jei nugabensime ją į kosmosą
+Explicit	Contingency.Condition.Arg2-as-cond	Jei	galėtumė pamatyti kažką tokio: saulės sistemos šeimos nuotrauka, bet ji ne mūsų	mums pavyktų nugabenti panašų teleskopą, tik šiek tiek didesnį, jį palikti reikiamoje vietoje ir priešais įrengti uždangą
+Implicit	Expansion.Conjunction	ir	Jei mums pavyktų nugabenti panašų teleskopą, tik šiek tiek didesnį	jį palikti reikiamoje vietoje
+Explicit	Expansion.Conjunction	ir	jį palikti reikiamoje vietoje	priešais įrengti uždangą
+Explicit	Comparison.Concession.Arg2-as-denier	bet	galėtumė pamatyti kažką tokio: saulės sistemos šeimos nuotrauka	ji ne mūsų
+Implicit	Contingency.Cause.Reason	nes	Jei mums pavyktų nugabenti panašų teleskopą, tik šiek tiek didesnį, jį palikti reikiamoje vietoje ir priešais įrengti uždangą, galėtumė pamatyti kažką tokio: saulės sistemos šeimos nuotrauka, bet ji ne mūsų	Mes tikimės, kad tai bus kažkieno kito saulės sistema matoma per uždangą, pro štai tokį šydą
+Explicit	Expansion.Level-of-detail.Arg2-as-detail	kad	Mes tikimės	tai bus kažkieno kito saulės sistema matoma per uždangą, pro štai tokį šydą
+Explicit	Expansion.Conjunction	o	Matote Jupiterį, Saturną, Uraną, Neptūną	štai ten centre šviesos ruožo pakraštyje yra tas blyškusis mėlynasis taškas
+Explicit	Expansion.Level-of-detail.Arg2-as-detail	ar	Norime pamatyti	ten yra vandens, deguonies, ozono
+Implicit	Expansion.Conjunction	ir	Norime pamatyti, ar ten yra vandens, deguonies, ozono	pamatyti dalykus, kurie parodytų, ar ten yra gyvybės
+Explicit	Expansion.Level-of-detail.Arg2-as-detail	ar	pamatyti dalykus, kurie parodytų	ten yra gyvybės
+Explicit	Contingency.Cause.Result	Todėl	Mano galva, tai šauniausias mokslas	aš į tai įsitraukiau
+Explicit	Expansion.Conjunction	ir	Mano galva, tai šauniausias mokslas	aš į tai įsitraukiau
+Explicit	Contingency.Cause.Result	Nes	aš į tai įsitraukiau	tikiu, kad tai pakeis pasaulį
+Explicit	Expansion.Level-of-detail.Arg2-as-detail	kad	tikiu	tai pakeis pasaulį
+AltLex	Temporal.Asynchronous.Precedence	vos tik	Viskas pasikeis	mes tai pamatysime

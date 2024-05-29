@@ -1,0 +1,85 @@
+rel_type	rel_sense	conn_text	arg1_text	arg2_text
+Explicit	Contingency.Purpose.Arg2-as-goal	który	żebyśmy w następnej dekadzie zbudowali teleskop	pozwoli uchwycić Ziemię w pobliżu innej gwiazdy i odkryć, czy jest na niej życie
+Implicit	Contingency.Cause.Reason	więc (so)	Chcę, żebyśmy w następnej dekadzie zbudowali teleskop, który pozwoli uchwycić Ziemię w pobliżu innej gwiazdy i odkryć, czy jest na niej życie	Razem z pracownikami Labolatorium Napędu Odrzutowego NASA w Princeton pracujemy nad technologią, która pozwoli to zrealizować w najbliższych latach
+Explicit	Temporal.Synchronous	i	Obecnie astronomowie uważają, że każda gwiazda w galaktyce ma planetę	szacują, że nawet jedna na pięć ma planetę jak Ziemia
+Explicit	Comparison.Similarity	jak	każda gwiazda w galaktyce ma planetę i szacują, że nawet jedna na pięć ma planetę	jak Ziemia, na której może istnieć życie
+Explicit	Comparison.Contrast	ale	Obecnie astronomowie uważają, że każda gwiazda w galaktyce ma planetę i szacują, że nawet jedna na pięć ma planetę jak Ziemia, na której może istnieć życie	żadnej jeszcze nie widzieliśmy
+Explicit	Temporal.Synchronous	kiedy	Zostało zrobione przez sondę Voyager w 1990 roku,	opuszczała Układ Słoneczny obrócono ją, aby zrobiła zdjęcie Ziemi z odległości 6 miliardów kilometrów
+Explicit	Contingency.Purpose.Arg2-as-goal	aby	obrócono ją	zrobiła zdjęcie Ziemi z odległości 6 miliardów kilometrów
+Implicit	Expansion.Level-of-detail	i (and)	Zostało zrobione przez sondę Voyager w 1990 roku, kiedy opuszczała Układ Słoneczny obrócono ją, aby zrobiła zdjęcie Ziemi z odległości 6 miliardów kilometrów	Chcę zrobić takie zdjęcie planety w pobliżu innej gwiazdy
+Implicit	Contingency.Cause.Result	i w efekcie	Wyobraźmy sobie, że bierzemy Kosmiczny Teleskop Hubble'a, obracamy go i przenosimy na orbitę Marsa	Zobaczymy coś takiego, nieco rozmazany obraz Ziemi, bo to dość mały teleskop na orbicie Marsa
+Explicit	Contingency.Cause.Reason	bo	Zobaczymy coś takiego, nieco rozmazany obraz Ziemi	to dość mały teleskop na orbicie Marsa
+Implicit	Expansion.Level-of-detail	a	Zobaczymy coś takiego, nieco rozmazany obraz Ziemi, bo to dość mały teleskop na orbicie Marsa	Teraz przenieśmy się dziesięć razy dalej
+Implicit	Expansion.Level-of-detail.Arg2-as-detail	otóż	Teraz przenieśmy się dziesięć razy dalej	Jesteśmy na orbicie Urana
+Implicit	Expansion.Level-of-detail	mianowicie	Jesteśmy na orbicie Urana	Jest mniejsza, mniej wyraźna
+Explicit	Comparison.Concession.Arg2-as-denier	ale	Wciąż można dostrzec mały Księżyc	znów przenieśmy się dziesięć razy dalej
+Implicit	Expansion.Level-of-detail	w wyniku czego	znów przenieśmy się dziesięć razy dalej	Jesteśmy na granicy Układu Słonecznego w Pasie Kuipera
+Implicit	Contingency.Cause.Result	więc (so)	Jesteśmy na granicy Układu Słonecznego w Pasie Kuipera	Teraz obraz jest całkiem niewyraźny
+Implicit	Expansion.Level-of-detail.Arg2-as-detail	otóż	Teraz obraz jest całkiem niewyraźny	"Teraz to ""Błękitna kropka"" Carla Sagana"
+Implicit	Expansion.Level-of-detail	i (and)	"Teraz to ""Błękitna kropka"" Carla Sagana"	Przenieśmy się znowu dziesięć razy dalej
+Implicit	Contingency.Cause.Result	i w efekcie	Przenieśmy się znowu dziesięć razy dalej	Jesteśmy w Obłoku Oorta poza Układem Słonecznym
+Explicit	Temporal.Synchronous	i	Jesteśmy w Obłoku Oorta poza Układem Słonecznym	zaczynamy widzieć
+Implicit	Expansion.Level-of-detail	ale	Słońce przesuwa się w pole widzenia, w miejsce, gdzie jest planeta	Przenieśmy się dziesięć razy dalej
+Implicit	Expansion.Conjunction	i w efekcie	Przenieśmy się dziesięć razy dalej	Jesteśmy przy Alfa Centauri, najbliższej gwieździe
+Explicit	Comparison.Contrast	a	Jesteśmy przy Alfa Centauri, najbliższej gwieździe	planeta zniknęła
+Implicit	Expansion.Conjunction	i (and)	planeta zniknęła	Widać tylko promienną gwiazdę dziesięć miliardów razy jaśniejszą niż planeta
+Implicit	Expansion.Level-of-detail	i (and)	Widać tylko promienną gwiazdę dziesięć miliardów razy jaśniejszą niż planeta, która powinna być w miejscu czerwonego kółka	To chcemy zobaczyć
+Explicit	Contingency.Cause.Result	Dlatego	Widać tylko promienną gwiazdę dziesięć miliardów razy jaśniejszą niż planeta, która powinna być w miejscu czerwonego kółka	to jest trudne
+Implicit	Expansion.Equivalence	mianowicie	Światło gwiazdy ulega dyfrakcji	Rozprasza się wewnątrz teleskopu, tworząc ten jasny obraz, który zamazuje planetę
+Explicit	Contingency.Cause.Reason	Aby	dostrzec planetę	trzeba coś zrobić z tym światłem
+Explicit	Contingency.Cause.Result	więc	Rozprasza się wewnątrz teleskopu, tworząc ten jasny obraz, który zamazuje planetę	trzeba coś zrobić z tym światłem
+Implicit	Expansion.Level-of-detail.Arg2-as-detail	mianowicie	trzeba coś zrobić z tym światłem	Trzeba się go pozbyć
+Explicit	Comparison.Contrast	ale	Wielu moich kolegów pracuje nad niesamowitymi technologiami	chcę powiedzieć o jednej, chyba najfajniejszej i najprawdopodobniej ona ukaże nam Ziemię w najbliższej dekadzie
+Explicit	Expansion.Conjunction	i	chcę powiedzieć o jednej, chyba najfajniejszej	najprawdopodobniej ona ukaże nam Ziemię w najbliższej dekadzie
+Implicit	Expansion.Level-of-detail	otóż	Zaproponował ją Lyman Spitzer, ojciec kosmicznego teleskopu, w 1962 roku, zainspirowany zaćmieniem	Wszyscy to widzieli - zaćmienie Słońca
+Implicit	Expansion.Level-of-detail.Arg2-as-detail	mianowicie	Wszyscy to widzieli - zaćmienie Słońca	Księżyc przesunął się przed Słońce
+Implicit	Contingency.Cause.Result	w taki sposób, że 	Księżyc przesunął się przed Słońce	Zasłonił większość światła
+Explicit	Contingency.Cause.Result	tak, że	Zasłonił większość światła	widać wokół niego przyćmioną koronę
+Explicit	Comparison.Similarity	tak	Zasłonił większość światła tak, że widać wokół niego przyćmioną koronę	jakbym palcem zasłonił światło wpadające do oka, widzę was w tylnym rzędzie
+Implicit	Expansion.Level-of-detail	otóż	Księżyc rzuca cień na Ziemię	W tym cieniu umieszczamy teleskop lub aparat
+Implicit	Temporal.Synchronous	i (and)	W tym cieniu umieszczamy teleskop lub aparat	znów patrzymy na Słońce
+Explicit	Temporal.Synchronous	i	znów patrzymy na Słońce	większość światła została usunięta
+Implicit	Expansion.Level-of-detail.Arg2-as-detail	mianowicie	większość światła została usunięta	widać przyćmioną, drobną strukturę w koronie
+Implicit	Expansion.Level-of-detail.Arg2-as-detail	mianowicie	Spitzer proponował zrobić to w kosmosie	Zbudować wielki ekran, polecieć w kosmos, umieścić go przed gwiazdą, zasłonić większość światła, wysłać kosmiczny teleskop do uzyskanego cienia, i bum - możemy zobaczyć planety
+Implicit	Temporal.Asynchronous.Succession	i (and)	Zbudować wielki ekran	polecieć w kosmos
+Implicit	Temporal.Asynchronous.Succession	i (and)	polecieć w kosmos	umieścić go przed gwiazdą
+Implicit	Temporal.Asynchronous.Succession	i (and)	umieścić go przed gwiazdą	zasłonić większość światła
+Implicit	Temporal.Asynchronous.Succession	i (and)	zasłonić większość światła	wysłać kosmiczny teleskop do uzyskanego cienia
+Explicit	Contingency.Cause.Result	i	wysłać kosmiczny teleskop do uzyskanego cienia	bum - możemy zobaczyć planety
+Implicit	Expansion.Instantiation	na przykład	Tak by to mniej więcej wyglądało	Jest ogromny ekran i nie ma planet
+Explicit	Contingency.Cause.Result	bo	nie ma planet	niestety to tak nie działa
+Explicit	Contingency.Cause.Reason	gdyż	niestety to tak nie działa	światło faluje i fale ulegają dyfrakcji wokół tego ekranu tak samo jak w teleskopie
+Explicit	Comparison.Similarity	Tak jak	woda opływa kamień w strumieniu	światło zakłóca ten cień
+Explicit	Expansion.Level-of-detail	I	Okropny cień	nie widać planet
+Explicit	Comparison.Contrast	Ale	I nie widać planet	Spitzer znał odpowiedź
+Explicit	Contingency.Condition.Arg1-as-cond	Jeśli	złagodzi się krawędzie	można zobaczyć planetę
+Explicit	Contingency.Purpose.Arg2-as-goal	aby	złagodzi się krawędzie	kontrolować dyfrakcję
+Implicit	Expansion.Instantiation	mianowicie	Przez 10 ostatnich lat znaleziono optymalne rozwiązanie	Wygląda mniej więcej tak
+Explicit	Expansion.Instantiation	tak	Wygląda mniej więcej	Nazywamy to przesłoną gwiezdną z płatków kwiatów
+Explicit	Contingency.Condition.Arg1-as-cond	Jeśli	krawędzie tych płatków będą odpowiednie	to przez ich kontrolę możemy kontrolować dyfrakcję, i uzyskać doskonały cień
+Explicit	Contingency.Cause.Result	i	możemy kontrolować dyfrakcję	uzyskać doskonały cień
+Implicit	Expansion.Level-of-detail.Arg2-as-detail	mianowicie	uzyskać doskonały cień	Jest około 10 miliardów razy ciemniejszy niż wcześniej i widać, jak pojawiają się planety
+Implicit	Expansion.Level-of-detail	i (and)	Jest około 10 miliardów razy ciemniejszy niż wcześniej i widać, jak pojawiają się planety	Musi być oczywiście większe niż palec
+Explicit	Expansion.Conjunction	i	Ta przesłona gwiezdna jest wielkości połowy boiska	musi odlecieć na 50 tysięcy kilometrów od teleskopu
+Explicit	Comparison.Contrast	ale	Brzmi to wspaniale	genialni inżynierowie, moi koledzy z laboratorium, stworzyli cudowny projekt uzyskania tego cienia, a wygląda to tak
+Implicit	Expansion.Instantiation	mianowicie	wygląda to tak	Najpierw jest owinięty wokół centrum.
+Implicit	Temporal.Asynchronous.Succession	potem 	Najpierw jest owinięty wokół centrum	Oddziela się od teleskopu
+Implicit	Temporal.Asynchronous.Succession	potem 	Oddziela się od teleskopu	Płatki rozwijają się, otwierają, teleskop obraca się, następnie przekręca się i odlatuje 50 tysięcy kilometrów od teleskopu
+Implicit	Temporal.Asynchronous.Succession	potem 	Płatki rozwijają się, otwierają, teleskop obraca się, następnie przekręca się i odlatuje 50 tysięcy kilometrów od teleskopu	Przemieści się przed gwiazdę, właśnie tak, tworząc cudowny cień. Gotowe, mamy planety krążące na orbicie
+Implicit	Contingency.Cause+Belief.Result+Belief	w wyniku czego	Przemieści się przed gwiazdę, właśnie tak, tworząc cudowny cień	Gotowe, mamy planety krążące na orbicie
+Implicit	Expansion.Level-of-detail	mianowicie	To nie jest science fiction	Pracujemy nad tym od pięciu czy sześciu lat
+Implicit	Expansion.Instantiation	na przykład	Pracujemy nad tym od pięciu czy sześciu lat	Tego lata przeprowadziliśmy fajny test w Northrop Grumman w Kaliforni
+Implicit	Expansion.Instantiation	na przykład	Tego lata przeprowadziliśmy fajny test w Northrop Grumman w Kaliforni	Oto cztery płatki
+Implicit	Expansion.Conjunction	i (and)	To gwiezdny cień w małej skali	Jest może połowę mniejszy niż ten, który widzieliście
+Implicit	Expansion.Level-of-detail	otóż	Te cztery płatki zbudowało czterech studentów w czasie letniego stażu w laboratorium	Jak widzicie otwiera się
+Implicit	Expansion.Conjunction	a	Płatki muszą obrócić się na miejsce	Podstawa płatków musi zawsze trafić w to samo miejsce z dokładnością do dziesiątych części milimetra
+Explicit	Expansion.Conjunction	i	Test przeprowadziliśmy 16 razy	16 razy trafiła w to samo miejsce do dziesiątych części milimetra
+Implicit	Expansion.Level-of-detail	i (and)	Test przeprowadziliśmy 16 razy i 16 razy trafiła w to samo miejsce do dziesiątych części milimetra	Musi to być zrobione bardzo precyzyjnie
+Explicit	Comparison.Contrast	ale	Musi to być zrobione bardzo precyzyjnie	jeśli stworzymy tę technologię i gdy przeniesiemy ją do kosmosu, można będzie zobaczyć coś takiego
+Explicit	Contingency.Condition.Arg1-as-cond	jeśli	stworzymy tę technologię i gdy przeniesiemy ją do kosmosu	można będzie zobaczyć coś takiego
+Explicit	Contingency.Condition.Arg1-as-cond	Jeśli	będziemy mogli podobny kosmiczny teleskop, trochę większy, umieścić tam, a przed niego wysłać przesłonę, moglibyśmy zobaczyć coś takiego	to portret rodzinny naszego Układu Słonecznego, ale nie naszego
+Explicit	Comparison.Similarity	jak	Mamy nadzieję, że będzie to Układ Słoneczny kogoś innego, widziany przez gwiezdną przesłonę	ta
+Implicit	Expansion.Level-of-detail	i (and)	To chyba najfajniejsza dziedzina nauki	Zacząłem to robić, bo myślę, że to zmieni świat
+Explicit	Contingency.Cause.Reason	bo	Zacząłem to robić	myślę, że to zmieni świat
+Implicit	Expansion.Level-of-detail	i (and)	Zacząłem to robić, bo myślę, że to zmieni świat	Wszystko się zmieni, kiedy to zobaczymy
+Explicit	Contingency.Condition.Arg1-as-cond	kiedy	Wszystko się zmieni	to zobaczymy

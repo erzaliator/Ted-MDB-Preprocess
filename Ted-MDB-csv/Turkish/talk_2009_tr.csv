@@ -1,0 +1,52 @@
+rel_type	rel_sense	conn_text	arg1_text	arg2_text
+Explicit	Temporal.Synchronous	olarak	bir gün kaçan giden biri olmayı hayal ettim	Küçük bir kız olarak
+Implicit	Expansion.Conjunction	hatta	Küçük bir kız olarak, bir gün kaçan giden biri olmayı hayal ettim	Altı yaşından beri, bazı elbiselerimi davul toplu konserve yiyceklerimi de dolabın arkasında tutuyorum
+Implicit	Expansion.Level-of-detail.Arg2-as-detail	öyle ki 	Altı yaşından beri, bazı elbiselerimi davul toplu konserve yiyceklerimi de dolabın arkasında tutuyorum	İçimde derin bir rahatsızlık var hayatın tek düzeliğine ve sıkkınlığa kurban düşeceğime dair ilkel bir korku
+Explicit	Expansion.Conjunction	Ve	İçimde derin bir rahatsızlık var hayatın tek düzeliğine ve sıkkınlığa kurban düşeceğime dair ilkel bir korku	bu yüzden çocukluk dönemi hatıralarımın çoğu sınırlarda yürüyüp, çilek peşinde koştuğum ve farklı farklı insanlarla karşılaştığım yollarda sıradışı bir hayat sürdüğüm karma karışık hayallerdi
+AltLex	Contingency.Cause.Result	bu yüzden	İçimde derin bir rahatsızlık var hayatın tek düzeliğine ve sıkkınlığa kurban düşeceğime dair ilkel bir korku	
+Explicit	Expansion.Conjunction	yürüyüp	çilek peşinde koştuğum	sınırlarda
+Explicit	Expansion.Conjunction	ve	sınırlarda yürüyüp, çilek peşinde koştuğum	farklı farklı insanlarla karşılaştığım
+Implicit	Temporal.Asynchronous.Precedence	sonra	bu yüzden çocukluk dönemi hatıralarımın çoğu sınırlarda yürüyüp, çilek peşinde koştuğum ve farklı farklı insanlarla karşılaştığım yollarda sıradışı bir hayat sürdüğüm karma karışık hayallerdi	Yıllar geçti
+Explicit	Comparison.Concession.Arg2-as-denier	ama	Yıllar geçti	çocuk olarak hayalini kurduğum birçok macera -- benim dünyam dışındaki dünyalar arasında seyahat ederken ve yoluma dokunurken -- bir belgesel fotorafçısı olarak işim aracıyla bunlar gerçek oldu
+Explicit	Expansion.Conjunction	ve	benim dünyam dışındaki dünyalar arasında seyahat ederken	yoluma dokunurken
+Explicit	Expansion.Manner.Arg2-as-manner	olarak	işim aracıyla bunlar gerçek oldu	bir belgesel fotorafçısı olarak
+Explicit	Comparison.Concession.Arg2-as-denier	Ama	bir belgesel fotorafçısı olarak işim aracıyla bunlar gerçek oldu	hiçbir başka deneyim çocukluk rüyalarımı yaşayanlar arasında olmak kadar ve Birleşik Devlet boyunca gezgin arkadaşların arasında yasamak kadar gerçek hissettirmedi
+Explicit	Comparison.Similarity	kadar	ve Birleşik Devlet boyunca gezgin arkadaşların arasında yasamak kadar gerçek hissettirmedi	hiçbir başka deneyim çocukluk rüyalarımı yaşayanlar arasında olmak kadar
+Explicit	Expansion.Conjunction	ve	çocukluk rüyalarımı yaşayanlar arasında olmak kadar	Birleşik Devlet boyunca gezgin arkadaşların arasında yasamak kadar
+Implicit	Expansion.Level-of-detail.Arg2-as-detail	özellikle	Birçoğumuzun aklınızda, aylaklar-serseriler geçmişten gelen canavarlar	"Gezici rençper"" kelimesi bacakları vagondan sarkan kömürle kaplı yıpranmış yaşlı bir adamı çağrıştırıyor"
+Explicit	Comparison.Contrast	ama	"""Gezici rençper"" kelimesi bacakları vagondan sarkan kömürle kaplı yıpranmış yaşlı bir adamı çağrıştırıyor"	bu fotoraflar renkli ve onlar ülke çapında fırıl fırıl dönen, oldukça canlı ve yaratıcı bir şekilde özgür, Amerikan'ın kimsenin görmediği taraflarını gören bir topluluğu tanımlıyor
+Explicit	Expansion.Conjunction	ve	bu fotoraflar renkli	onlar ülke çapında fırıl fırıl dönen, oldukça canlı ve yaratıcı bir şekilde özgür, Amerikan'ın kimsenin görmediği taraflarını gören bir topluluğu tanımlıyor
+Implicit	Expansion.Conjunction	ve	bu fotoraflar renkli ve onlar ülke çapında fırıl fırıl dönen, oldukça canlı ve yaratıcı bir şekilde özgür, Amerikan'ın kimsenin görmediği taraflarını gören bir topluluğu tanımlıyor	Onların öncelleri gibi, bugünün göçebeleri Birleşik Devletler'in çelik ve asfalt arterlerinde seyahat ediyorlar
+Implicit	Expansion.Level-of-detail.Arg2-as-detail	bilhassa	Onların öncelleri gibi, bugünün göçebeleri Birleşik Devletler'in çelik ve asfalt arterlerinde seyahat ediyorlar	Gün başlarken, yük trenlerinden atılıyorlar baş parmaklarını kaldırıyorlar ve kamyonculardan futbolcu annelerine kim gelirse onlarla yolculuk ediyorlar
+Explicit	Temporal.Synchronous	başlarken	yük trenlerinden atılıyorlar baş parmaklarını kaldırıyorlar ve kamyonculardan futbolcu annelerine kim gelirse onlarla yolculuk ediyorlar	Gün başlarken
+Explicit	Expansion.Conjunction	ve	yük trenlerinden atılıyorlar baş parmaklarını kaldırıyorlar	kamyonculardan futbolcu annelerine kim gelirse onlarla yolculuk ediyorlar
+Explicit		gelirse	onlarla yolculuk ediyorlar	kim
+Implicit	Expansion.Conjunction	ve	Gün başlarken, yük trenlerinden atılıyorlar baş parmaklarını kaldırıyorlar ve kamyonculardan futbolcu annelerine kim gelirse onlarla yolculuk ediyorlar	Akşam, yıldızların altında birlikte köpeklerine, kedilerine ve evcil farelerine sokularak uyuyorlar
+Explicit	Expansion.Manner.Arg2-as-manner	sokularak	uyuyorlar	sokularak
+Implicit	Comparison.Contrast	öte yandan	Akşam, yıldızların altında birlikte köpeklerine, kedilerine ve evcil farelerine sokularak uyuyorlar	Yolları tercih eden bazı gezginler maddeciliği, geleneksel işleri ve üniversite derecelerini bir maceranın zayıf ışığına tercih ediyor
+Explicit	Comparison.Contrast	Ama	Yolları tercih eden bazı gezginler maddeciliği, geleneksel işleri ve üniversite derecelerini bir maceranın zayıf ışığına tercih ediyor	diğer toplumun alt kesimlerinden gelenlerin yukarlara doğru tırmanmaya şanşı yok: evlatlık olup bakıcılardan kaçanlar, kaçan ergenler, tacize uğrayanlar ve evinden atılalar
+Explicit	Expansion.Conjunction	olup	bakıcılardan kaçanlar	evlatlık
+Implicit	Expansion.Level-of-detail.Arg2-as-detail	bir başka deyişle	Diğerlerinin ekonomik başarısızlık ve yokluk gördüğü yerde, gezginler liberalizm ve özgürlük prizmasından kendi var oluşlarını görüyorlar	boşa giden ve tüketici bir toplum olarak gördüklerinin aşırılılıklarındansa geleneksel Amerikan rüyasında gerçek dışı bir şansla çok çalışarak yaşıyorlar
+Explicit	Expansion.Substitution.Arg2-as-subst	aşırılılıklarındansa	geleneksel Amerikan rüyasında gerçek dışı bir şansla çok çalışarak yaşıyorlar	boşa giden ve tüketici bir toplum olarak gördüklerinin aşırılılıklarındansa
+Explicit	Expansion.Manner.Arg2-as-manner	çalışarak	yaşıyorlar	çok
+Explicit	Expansion.Conjunction	karıştırıp	yiyecek toplamak için mükemmel bir üretim yeri olduğudur	çöplüklerin ve çöp tenekelerinin karıştırıp
+Implicit	Expansion.Conjunction	ve	Birleşik Devletler'de yiyeceklerin yüzde 40'nın sonunun çöpte bittiği gerçeğinden yola çıkarak çöplüklerin ve çöp tenekelerinin karıştırıp yiyecek toplamak için mükemmel bir üretim yeri olduğudur	Nesnel rahatlığı yer ve zaman karşılığında içsel bir yaratıcılığı keşfetmek için, hayal kurmak, okumak, müzik, sanat ve edebiyatta çalışmak için feda ediyorlar
+Explicit	Contingency.Purpose.Arg2-as-goal	için		yer ve zaman karşılığında içsel bir yaratıcılığı keşfetmek
+Explicit	Contingency.Purpose.Arg2-as-goal	için		hayal kurmak, okumak, müzik, sanat ve edebiyatta çalışmak
+Explicit	Comparison.Concession.Arg2-as-denier	Ama	Nesnel rahatlığı yer ve zaman karşılığında içsel bir yaratıcılığı keşfetmek için, hayal kurmak, okumak, müzik, sanat ve edebiyatta çalışmak için feda ediyorlar	bir çok açıdan bu hayat cennet gibi sessiz bir yaşantıdan uzak
+Implicit	Contingency.Cause.Reason	çünkü	bir çok açıdan bu hayat cennet gibi sessiz bir yaşantıdan uzak	Hiç kimse yollara düşerek kendi içindeki şeytanından kurtulamıyor
+Explicit	Expansion.Manner.Arg2-as-manner	düşerek	kendi içindeki şeytanından kurtulamıyor	Hiç kimse yollara düşerek
+Implicit	Expansion.Level-of-detail.Arg2-as-detail	zaten	Hiç kimse yollara düşerek kendi içindeki şeytanından kurtulamıyor	Bağımlılık gerçek, doğa şartları gerçek, yük trenleri öldürüyor ve sakatlıyor ve sokaklarda yaşayan her hangi biri bunu onaylayabilir yorucu yasalar listesi evsiz insanları suçlu hala getiriyor
+Explicit	Expansion.Conjunction	ve	yük trenleri öldürüyor	sakatlıyor
+Explicit	Expansion.Conjunction	ve	sakatlıyor	sokaklarda yaşayan her hangi biri bunu onaylayabilir
+Implicit	Expansion.Instantiation	örneğin	sokaklarda yaşayan her hangi biri bunu onaylayabilir yorucu yasalar listesi evsiz insanları suçlu hala getiriyor	Burada kim Birleşik Devletler'de birçok şehirde yol kenarına battaniyeye sarılı oturmanın yaşadışı oldupunu biliyor. veya arabanızda uyumanın, veya yabancılara yiyecek önermenin
+AltLex	Hypophora	kim	Bu kanunları biliyorum çünkü bir kaç arkadaşın ve diğer gezginlerin şuç denen bu şeylerden dolayı hapishaneye götürüldüğünü veya uyarı aldığına şahit oldum	Burada kim Birleşik Devletler'de birçok şehirde yol kenarına battaniyeye sarılı oturmanın yaşadışı oldupunu biliyor. veya arabanızda uyumanın, veya yabancılara yiyecek önermenin
+Explicit	Expansion.Disjunction	veya	Burada kim Birleşik Devletler'de birçok şehirde yol kenarına battaniyeye sarılı oturmanın yaşadışı oldupunu biliyor	arabanızda uyumanın, veya yabancılara yiyecek önermenin
+Explicit	Expansion.Disjunction	veya	arabanızda uyumanın	yabancılara yiyecek önermenin
+Explicit	Contingency.Cause.Reason	çünkü	Bu kanunları biliyorum	bir kaç arkadaşın ve diğer gezginlerin şuç denen bu şeylerden dolayı hapishaneye götürüldüğünü veya uyarı aldığına şahit oldum
+Explicit	Expansion.Disjunction	veya	şuç denen bu şeylerden dolayı hapishaneye götürüldüğünü	uyarı aldığına
+Explicit	Comparison.Concession.Arg2-as-denier	ama	Böyle bir soruya yollara düşen insanlar tarafından çeşitli cevaplar verilebilir	göçebeler genellikle is tek bir kelime ile cevap vereceklerdir: özgürlük
+Explicit	Contingency.Purpose.Arg2-as-goal	kadar	onlariyi yaşamak için çalışacaklar	Her insanın kendi işinin onurundan emin olduğu bir dünyada yaşayana kadar
+Explicit	Contingency.Purpose.Arg2-as-goal	için	çalışacaklar	onlariyi yaşamak için
+Explicit	Contingency.Purpose.Arg2-as-goal	için	onlariyi yaşamak için çalışacaklar	
+Explicit	Contingency.Purpose.Arg2-as-goal	için	onlariyi yaşamak için çalışacaklar sadece hayatta kalmak için değil	daima bir anlamda kaçmak

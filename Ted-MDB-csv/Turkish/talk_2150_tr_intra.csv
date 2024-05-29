@@ -1,0 +1,22 @@
+rel_type	rel_sense	conn_text	arg1_text	arg2_text
+Explicit	Temporal.Synchronous	düşündüğümüzde	yollar, sokaklar, caddeler, binalar ve şehirlerin oluşumuna yol açan yerleşim hikayeleri aklımıza gelir	Şehirlerin haritalarını oluşturmayı
+Explicit	Expansion.Conjunction	ve	düşünmenin	yapmanın
+Implicit	Expansion.Conjunction	ve	Her bir çizgi ise bu insanlar arasındaki ilişkiyi göstermekte	her bir renk ağ içindeki topluluğu temsil etmektedir
+Explicit	Expansion.Conjunction	ve	Ağın diğer tarafında başlıca Afro-Amerikalılar ve Latin toplumu yer almakta	bunlar anti-sosyallerden kısmen daha farklı şeylerle ilgilenirler
+Explicit	Contingency.Purpose.Arg2-as-goal	için	ağın yeşil renkli alanını, burada ikamet edenlerimiz için Küçüktimore olarak adlandırabiliriz	Bir fikir vermek
+Explicit	Comparison.Similarity	gibi	gözüküyor	adeta çok küçük bir kasabada yaşıyormuşuz
+AltLex	Contingency.Cause.Reason	keşfetmemizden	kaynaklanıyor	bu, şehri enine boyuna tüm derinliğine keşfetmemizden
+Explicit	Expansion.Conjunction	ve	çok farklı ve belirgin olan	tweeter çalışanı olarak tanımlayabileceğimiz
+Explicit	Expansion.Conjunction	ve	San Francisco’dan kulağımıza gelen	insanların seçkinleştirme ve yeni teknoloji firmalarının şehre getirdiği
+Explicit	Expansion.Conjunction	olup	esasında bu durumun burada dökümante edildiğini görebilirsiniz	görüleceği gibi San Francisco’dan kulağımıza gelen ve insanların seçkinleştirme ve yeni teknoloji firmalarının şehre getirdiği yeni zenginlik ve yeni yerleşimlerden kaynaklanan gerginlik bir gerçek
+Explicit	Expansion.Manner.Arg2-as-manner	bakarak	anlamaya çalışacağınızı düşünüyorum	Bunu böyle bir haritaya
+Explicit	Expansion.Disjunction	veya	yapmamayı	bizim yapmayı
+Explicit	Contingency.Condition.Arg2 as condition	eğer düşünürseniz	şehrin üzerine uzay teleskopu tutmak ve adeta büyük bir lisenin kafeteryası gibiymiş bakmak, herkesin bir oturma şemasına kendisini nasıl yerleştirdiğini görmektir	bizim bu verilerle yapmayı düşündüğümüz şey
+Explicit	Expansion.Conjunction	ve	şehrin üzerine uzay teleskopu tutmak	adeta büyük bir lisenin kafeteryası gibiymiş bakmak
+Explicit	Expansion.Manner.Arg2-as-manner	gibiymiş	bakmak	adeta büyük bir lisenin kafeteryası gibiymiş
+Implicit	Expansion.Conjunction	ve	adeta büyük bir lisenin kafeteryası gibiymiş bakmak	herkesin bir oturma şemasına kendisini nasıl yerleştirdiğini görmektir
+Explicit	Contingency.Purpose.Arg2-as-goal	için	bir yöntem olarak kullanmayı deniyorsak	farklılıkları bazı zor problemlerimizi çözmek
+Explicit	Contingency.Condition.Arg2 as condition	deniyorsak	farklıklara yeni bir tarzda bakmaya başlamamız gerekiyor	Eğer, farklılıkları bazı zor problemlerimizi çözmek için bir yöntem olarak kullanmayı deniyorsak
+Explicit	Expansion.Conjunction	ve	inanıyorum ki eğer biz bu kabiliyete sahipsek bunu yapmak için bazı sorumlulukları üstlenebiliriz	şehirlerimizi yeni bir şekilde şekillendirmeye başlayacak icatları yaratacak kabiliyete sahibiz
+Explicit	Contingency.Condition.Arg2 as condition	sahipsek	bunu yapmak için bazı sorumlulukları üstlenebiliriz	eğer biz bu kabiliyete
+Explicit	Contingency.Condition.Arg2 as condition	başlayabilirsek	sahip olmayı isteyeceğimiz tarzda şehirler yaratmayı deneyebiliriz	bu ilişkileri gerçekçi bir şekilde belgelemeye

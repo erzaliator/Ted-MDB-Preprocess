@@ -1,0 +1,17 @@
+rel_type	rel_sense	conn_text	arg1_text	arg2_text
+Explicit	Expansion.Conjunction	und	Überschneidung	Trennung
+Explicit	Contingency.Condition.Arg2-as-cond	Wenn	denken wir an Wege , Straßen und Gebäude und an die Stadtentwicklung , die zu diesem Ergebnis führte , oder Sie denken an die großen Visionen eines Städteplaners	wir über die Kartierung von Städten nachdenken
+Explicit	Expansion.Disjunction	oder	denken wir an Wege , Straßen und Gebäude und an die Stadtentwicklung , die zu diesem Ergebnis führte	Sie denken an die großen Visionen eines Städteplaners
+Explicit	Contingency.Cause.Reason	da	den grünen Teil des Netzwerkes nennen wir Klein-timore	diese Leute , wie es scheint , in einer sehr kleinen Stadt wohnen
+Explicit	Contingency.Cause.Reason	weil	Wir sehen immer wieder die gleichen Leute	wir nicht die ganze Breite und Tiefe der Stadt erforschen
+Explicit	Expansion.Conjunction	und	an Dingen wie Hip-Hop interessiert sind	sich eher mit dem Wohngebiet DC / Maryland / Virigina identifizieren , als mit der korrekten Stadtbezeichnung für Baltimore
+Explicit	Expansion.Level-of-detail.Arg2-as-detail	und	In der Mitte sehen Sie etwas , das die beiden Gruppierungen verbindet	das ist Sport
+Explicit	Comparison.Concession.Arg2-as-denier	aber	Auf der einen Seite gibt es den Medien- , Politik- und Nachrichtenflügel , den es in Baltimore und anderen Städten meist gibt	
+Explicit	Expansion.Level-of-detail.Arg2-as-detail	auch	Auf der einen Seite gibt es den Medien- , Politik- und Nachrichtenflügel , den es in Baltimore und anderen Städten meist gibt	
+Explicit	Expansion.Conjunction	und	neuen Wohlstand bringen	sich in der Stadt ansiedeln
+Explicit	Expansion.Manner.Arg2-as-manner	indem	sie können versuchen , das verstehen	sie solche Karten anschauen
+Explicit	Contingency.Condition.Arg2-as-cond	Wenn	mit diesem Daten haben wir einen Blick darauf und betrachten die Stadt wie einen riesigen Schulspeiseraum , beobachten , wie sich jeder in dieser Stadt seinen Stuhl sucht	Sie darüber nachdenken
+Explicit	Expansion.Conjunction	und		betrachten die Stadt wie einen riesigen Schulspeiseraum
+Explicit	Contingency.Condition.Arg2-as-cond	Wenn	wir versuchen diese Vielfalt zu nutzen , um heikle Probleme anzugehen	brauchen wir eine neue Art des Denkens bezüglich Vielfältigkeit
+Explicit	Contingency.Purpose.Arg2-as-goal	um	wir versuchen diese Vielfalt zu nutzen	heikle Probleme anzugehen
+Explicit	Contingency.Condition.Arg2-as-cond	Wenn	hätten wir eine echte Chance , die Städte zu erhalten , die wir gerne hätten	wir anfangen können , die Beziehungen wirklich zu dokumentieren

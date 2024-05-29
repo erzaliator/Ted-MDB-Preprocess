@@ -1,0 +1,156 @@
+rel_type	rel_sense	conn_text	arg1_text	arg2_text
+Implicit	Expansion.Level-of-detail.Arg2-as-detail	in particular	Ich mag ihn auch	
+Implicit	Expansion.Level-of-detail.Arg2-as-detail	specifically	Die Welt ist im Wandel	Sie verändert sich wirklich tiefgreifend
+Explicit	Expansion.Conjunction	Und	Sie verändert sich wirklich tiefgreifend	ich befürchte , dass Investoren einigen der größten Veränderungen nicht genügend Aufmerksamkeit schenken
+Explicit	Expansion.Level-of-detail.Arg2-as-detail	Insbesondere wenn	dass Investoren einigen der größten Veränderungen nicht genügend Aufmerksamkeit schenken	es um Nachhaltigkeit geht
+Implicit	Expansion.Level-of-detail.Arg2-as-detail	specifically	Insbesondere wenn es um Nachhaltigkeit geht	Mit Nachhaltigkeit meine ich die wirklich heißen Themen wie ökologische und soziale Fragen und grundlegende Unternehmensführung
+Explicit	Contingency.Cause+Belief.Reason+Belief	denn	Es ist leichtsinnig , diese Dinge zu ignorieren	das kann künftige langfristige Renditen gefährden
+Implicit	Expansion.Level-of-detail.Arg2-as-detail	in fact	Die ausgleichende Macht , die wirklich Einfluss auf Nachhaltigkeit hat , liegt bei institutionellen Investoren , den großen Investoren wie Pensionsfonds und Stiftungen	Ich glaube , dass nachhaltiges Investieren weniger kompliziert ist , als Sie denken , besser abschneidet , als Sie glauben , und wichtiger ist , als wir uns vorstellen können
+Explicit	Expansion.Conjunction	und	besser abschneidet , als Sie glauben	wichtiger ist , als wir uns vorstellen können
+Implicit	Expansion.Instantiation	specifically	Halten wir uns einige bekannte Tatsachen vor Augen	Die Bevölkerung wächst und altert ; es gibt 7 Milliarden Menschen auf der Erde , und am Ende des Jahrhunderts werden es 10 Milliarden sein
+Explicit	Expansion.Conjunction	und	wächst	altert
+Implicit	Expansion.Level-of-detail.Arg2-as-detail	specifically	Die Bevölkerung wächst und altert	es gibt 7 Milliarden Menschen auf der Erde
+Explicit	Expansion.Conjunction	und	es gibt 7 Milliarden Menschen auf der Erde	am Ende des Jahrhunderts werden es 10 Milliarden sein
+Explicit	Expansion.Conjunction	Und	Wir verbrauchen die natürlichen Ressourcen schneller , als sie sich regenerieren können	die Emissionen , die für den Klimawandel hauptverantwortlich sind , nehmen weiter zu
+Explicit	Comparison.Concession.Arg2-as-denier	aber	Das sind ganz klar Umweltthemen und soziale Themen	das ist noch nicht alles
+Explicit	Expansion.Conjunction	auch	Das sind ganz klar Umweltthemen und soziale Themen , aber das ist noch nicht alles	
+Explicit	Contingency.Cause.Result	Und deshalb	Es sind auch Wirtschaftsthemen	sind sie für die Risiko- und Renditebewertung sehr wichtig
+Implicit	Expansion.Conjunction	and	Und deshalb sind sie für die Risiko- und Renditebewertung sehr wichtig	Sie sind sehr komplex und scheinen schwer verständlich , sodass die Versuchung groß sein kann , genau das hier zu tun : den Kopf in den Sand zu stecken und nicht darüber nachzudenken
+Implicit	Contingency.Cause.Result	as a result	Sie sind sehr komplex	und scheinen schwer verständlich
+Explicit	Contingency.Cause.Result	sodass	Sie sind sehr komplex und scheinen schwer verständlich	die Versuchung groß sein kann , genau das hier zu tun
+Explicit	Expansion.Conjunction	und	den Kopf in den Sand zu stecken	nicht darüber nachzudenken
+Implicit	Comparison.Contrast	but	den Kopf in den Sand zu stecken und nicht darüber nachzudenken	Tun Sie das möglichst nicht
+Implicit	Expansion.Level-of-detail.Arg2-as-detail	in other words	Tun Sie das möglichst nicht	Bitte zu Hause nicht nachmachen
+Implicit	Expansion.Instantiation	for example	ich frage mich wirklich , ob die Anlagestrategien von heute für die Zwecke von morgen geeignet sind	Wir wissen , wenn Investoren sich ein Unternehmen anschauen und entscheiden , ob sie investieren , schauen sie sich Finanzdaten an
+Explicit	Contingency.Condition.Arg2-as-cond	wenn	"schauen sie sich Finanzdaten an .
+Metriken wie Umsatzwachstum , Cashflow , Marktanteil , Bewertung -- Sie wissen schon , die wirklich attraktiven Sachen"	Investoren sich ein Unternehmen anschauen und entscheiden , ob sie investieren
+Explicit	Comparison.Concession.Arg2-as-denier	aber	Diese Dinge sind natürlich wichtig	sie sind nicht genug
+Implicit	Contingency.Cause+Belief.Reason+Belief	because	sie sind nicht genug	Anleger sollten auch auf Leistungsmetriken wie ESG achten : Umwelt , Soziales und Unternehmensführung
+Explicit	Expansion.Conjunction	auch	sie sind nicht genug	
+Implicit	Expansion.Instantiation		Anleger sollten auch auf Leistungsmetriken wie ESG achten	Umwelt , Soziales und Unternehmensführung
+Implicit	Expansion.Equivalence	in other words	""" Umwelt "" umfasst Energieverbrauch , Wassernutzung , Abfall und Umweltverschmutzung , kurz"	die effiziente Nutzung von Ressourcen
+Implicit	Expansion.Conjunction	and	"Umwelt "" umfasst Energieverbrauch , Wassernutzung , Abfall und Umweltverschmutzung , kurz : die effiziente Nutzung von Ressourcen"	"Soziales "" beinhaltet Humankapital , Dinge wie Mitarbeiter-Engagement und Innovationsfähigkeit sowie Supply-Chain-Management und Arbeits- und Menschenrechte"
+Implicit	Expansion.Conjunction	and	"Soziales "" beinhaltet Humankapital , Dinge wie Mitarbeiter-Engagement und Innovationsfähigkeit sowie Supply-Chain-Management und Arbeits- und Menschenrechte"	"Unternehmensführung "" bedeutet die Aufsicht über das Unternehmen durch den Vorstand und Investoren"
+Implicit	Contingency.Cause+SpeechAct.Result+SpeechAct	as a result	"Unternehmensführung "" bedeutet die Aufsicht über das Unternehmen durch den Vorstand und Investoren"	Ich habe zuvor gesagt , es geht um die wirklich heißen Dinge
+Explicit	Comparison.Concession.Arg2-as-denier	Aber	es geht um die wirklich heißen Dinge	ESG ist das Maß für Nachhaltigkeit , und nachhaltiges Investieren berücksichtigt ESG-Faktoren und finanzielle Faktoren beim Anlageprozess
+Explicit	Expansion.Conjunction	und	ESG ist das Maß für Nachhaltigkeit	nachhaltiges Investieren berücksichtigt ESG-Faktoren und finanzielle Faktoren beim Anlageprozess
+Explicit	Expansion.Conjunction	und	Damit können künftige Risiken durch Minimierung von Schäden an Personen und am Planeten begrenzt	Kapital für die Nutzer bereitgestellt werden , die es für produktive und nachhaltige Ergebnisse einsetzen
+Explicit	Contingency.Condition+SpeechAct	Wenn	achtet der Privatsektor darauf	Nachhaltigkeit heute ein Finanzthema ist , und es höchstwahrscheinlich immer relevanter wird
+Explicit	Contingency.Cause+SpeechAct.Result+SpeechAct	also	Damit können künftige Risiken durch Minimierung von Schäden an Personen und am Planeten begrenzt und Kapital für die Nutzer bereitgestellt werden , die es für produktive und nachhaltige Ergebnisse einsetzen	Nachhaltigkeit heute ein Finanzthema ist , und es höchstwahrscheinlich immer relevanter wird , achtet der Privatsektor darauf
+Explicit	Expansion.Conjunction	und	Nachhaltigkeit heute ein Finanzthema ist	es höchstwahrscheinlich immer relevanter wird
+AltLex	Hypophora	?	achtet der Privatsektor darauf	Wirklich cool ist , dass die meisten CEOs darauf achten
+Implicit	Expansion.Level-of-detail.Arg2-as-detail	specifically	Wirklich cool ist , dass die meisten CEOs darauf achten	Sie begannen , Nachhaltigkeit nicht nur als wichtig , sondern als entscheidend für den Geschäftserfolg zu sehen
+Implicit	Expansion.Level-of-detail.Arg2-as-detail	in fact	Sie begannen , Nachhaltigkeit nicht nur als wichtig , sondern als entscheidend für den Geschäftserfolg zu sehen	Ungefähr 80 % der CEOs weltweit sehen in Nachhaltigkeit die Wurzel für Innovations-Wachstum , was zu einem Wettbewerbsvorteil in ihren Branchen führt
+Explicit	Comparison.Contrast	Aber	Ungefähr 80 % der CEOs weltweit sehen in Nachhaltigkeit die Wurzel für Innovations-Wachstum , was zu einem Wettbewerbsvorteil in ihren Branchen führt	93 % sehen ESG als die Zukunft oder als wichtig für die Zukunft ihres Unternehmens
+Explicit	Expansion.Disjunction	oder	als die Zukunft	als wichtig für die Zukunft ihres Unternehmens
+Explicit	Contingency.Cause+SpeechAct.Result+SpeechAct	Also	93 % sehen ESG als die Zukunft oder als wichtig für die Zukunft ihres Unternehmens	die CEOs sehen das ganz klar
+Implicit	Comparison.Contrast	in paticular	die CEOs sehen das ganz klar	Nachhaltigkeit bietet enorme Möglichkeiten
+Explicit	Hypophora	Wie	nutzen Unternehmen ESG , um harte Geschäftsergebnisse zu erzielen	Ein Beispiel geht uns besonders zu Herzen
+Implicit	Contingency.Cause+SpeechAct.Result+SpeechAct	so	Nachhaltigkeit bietet enorme Möglichkeiten	Wie nutzen Unternehmen ESG , um harte Geschäftsergebnisse zu erzielen
+Implicit	Expansion.Level-of-detail.Arg2-as-detail	specifically	Ein Beispiel geht uns besonders zu Herzen	Im Jahr 2012 hat State Street 54 Anwendungsprogramme in die Cloud-Umgebung migriert und weitere 85 Programme eingestellt
+AltLex	Expansion.Instantiation	Ein Beispiel geht uns besonders zu Herzen	Wie nutzen Unternehmen ESG , um harte Geschäftsergebnisse zu erzielen	Im Jahr 2012 hat State Street 54 Anwendungsprogramme in die Cloud-Umgebung migriert und weitere 85 Programme eingestellt
+Explicit	Expansion.Conjunction	und	hat State Street 54 Anwendungsprogramme in die Cloud-Umgebung migriert	weitere 85 Programme eingestellt
+Implicit	Expansion.Level-of-detail.Arg2-as-detail	specifically	Im Jahr 2012 hat State Street 54 Anwendungsprogramme in die Cloud-Umgebung migriert und weitere 85 Programme eingestellt	Wir virtualisierten die Arbeitsumgebungen und stellten zahlreiche Automatisierungsprojekte fertig
+Explicit	Expansion.Conjunction	und	Wir virtualisierten die Arbeitsumgebungen	stellten zahlreiche Automatisierungsprojekte fertig
+Implicit	Contingency.Cause.Result	as a result	Wir virtualisierten die Arbeitsumgebungen und stellten zahlreiche Automatisierungsprojekte fertig	Diese Initiativen schaffen einen mobileren Arbeitsplatz und reduzieren unseren Immobilien-Bedarf
+Explicit	Expansion.Conjunction	und	Diese Initiativen schaffen einen mobileren Arbeitsplatz	reduzieren unseren Immobilien-Bedarf
+Implicit	Contingency.Cause.Result	as a result	Diese Initiativen schaffen einen mobileren Arbeitsplatz	und reduzieren unseren Immobilien-Bedarf
+Explicit	Expansion.Manner.Arg1-as-manner	Dadurch	Diese Initiativen schaffen einen mobileren Arbeitsplatz und reduzieren unseren Immobilien-Bedarf	werden jährlich 23 Mio. Dollar an Betriebskosten gespart und die Emission von 100 000 Tonnen Kohlenstoff vermieden
+Explicit	Expansion.Conjunction	und	Dadurch werden jährlich 23 Mio. Dollar an Betriebskosten gespart	die Emission von 100 000 Tonnen Kohlenstoff vermieden
+Implicit	Expansion.Equivalence	in other words	Dadurch werden jährlich 23 Mio. Dollar an Betriebskosten gespart und die Emission von 100 000 Tonnen Kohlenstoff vermieden	Das sind 21 000 Autos weniger auf den Straßen
+Implicit	Contingency.Cause+SpeechAct.Result+SpeechAct	so	Das sind 21 000 Autos weniger auf den Straßen	Genial , oder
+Explicit	Expansion.Conjunction	und	verkauften sie ihr Kerngeschäft , Heimwerker-Geräte	investierten die Einnahmen ins Wassergeschäft
+Implicit	Temporal.Asynchronous.Precedence	after	verkauften sie ihr Kerngeschäft , Heimwerker-Geräte	und investierten die Einnahmen ins Wassergeschäft
+Implicit	Contingency.Cause+SpeechAct.Result+SpeechAct	so	Vor etwa einem Jahrzehnt verkauften sie ihr Kerngeschäft , Heimwerker-Geräte , und investierten die Einnahmen ins Wassergeschäft	Das ist ein wirklich großer Einsatz
+Implicit	Contingency.Cause.Reason	because	Warum haben sie das getan	"Die Heimwerker-Fans mögen entschuldigen , aber es gibt mehr Wachstum bei Wasser als bei Elektrowerkzeugen , und dieses Unternehmen hat die , wie sie es nennen , "" neue Neue Welt "" im Visier : Vier Milliarden Menschen aus der Mittelschicht , die Nahrung , Strom und Wasser brauchen"
+Explicit	Comparison.Contrast	aber	Die Heimwerker-Fans mögen entschuldigen	es gibt mehr Wachstum bei Wasser als bei Elektrowerkzeugen
+Explicit	Expansion.Conjunction	und	es gibt mehr Wachstum bei Wasser als bei Elektrowerkzeugen	"dieses Unternehmen hat die , wie sie es nennen , "" neue Neue Welt "" im Visier"
+Implicit	Expansion.Level-of-detail.Arg2-as-detail	in other words	Jetzt fragen Sie sich vielleicht , sind das denn nicht nur Einzelfälle	Ich meine , mal ehrlich , stehen Unternehmen , die Nachhaltigkeit berücksichtigen , finanziell tatsächlich gut da
+Explicit	Hypophora	?	Ich meine , mal ehrlich , stehen Unternehmen , die Nachhaltigkeit berücksichtigen , finanziell tatsächlich gut da	Die überraschende Antwort ist ja
+Implicit	Expansion.Level-of-detail.Arg2-as-detail	because	Die überraschende Antwort ist ja	Die Daten zeigen , dass Aktien mit besserer ESG-Leistung genauso gut abschneiden wie andere
+Explicit	Expansion.Conjunction	Und	In Blau sehen wir den MSCI World Index , ein Index für Großunternehmen aus entwickelten Märkten auf der ganzen Welt	in Gold sehen wir die Teilmenge von Unternehmen mit der besten ESG-Leistung
+Implicit	Expansion.Level-of-detail.Arg2-as-detail	in short	Und in Gold sehen wir die Teilmenge von Unternehmen mit der besten ESG-Leistung	Seit über drei Jahren kein Leistungskompromiss
+Implicit	Contingency.Cause+SpeechAct.Result+SpeechAct	so	Seit über drei Jahren kein Leistungskompromiss	Das ist doch okay , oder
+Explicit	Comparison.Contrast	Aber	Das ist doch okay	wir wollen mehr
+Implicit	Expansion.Level-of-detail.Arg2-as-detail	specifically	wir wollen mehr	Ich will mehr
+Implicit	Expansion.Instantiation	for example	In einigen Fällen ist ESG ein Indikator für überdurchschnittliche Wertentwicklung	In Blau sehen wir die Leistung der 500 größten globalen Unternehmen und in Gold sehen wir eine Teilmenge von Unternehmen mit guter Klimaschutzstrategie und Risikomanagement
+Implicit	Expansion.Level-of-detail.Arg2-as-detail	specifically	In Blau sehen wir die Leistung der 500 größten globalen Unternehmen und in Gold sehen wir eine Teilmenge von Unternehmen mit guter Klimaschutzstrategie und Risikomanagement	Seit fast acht Jahren übertreffen sie die Wertentwicklung um rund zwei Drittel
+AltLex	Contingency.Condition.Arg2-as-cond	Zugegeben	Seit fast acht Jahren übertreffen sie die Wertentwicklung um rund zwei Drittel	das ist eine Korrelation , kein Kausalzusammenhang
+Explicit	Comparison.Contrast	Aber	Zugegeben , das ist eine Korrelation , kein Kausalzusammenhang	es macht deutlich , dass umweltorientierte Führung mit guten Renditen kompatibel ist
+Explicit	Contingency.Condition.Arg2-as-cond	Wenn	sollte es nicht Standard sein	die Erträge gleich oder besser sind , und es gut für den Planeten ist
+Explicit	Expansion.Conjunction	und	die Erträge gleich oder besser sind	es gut für den Planeten ist
+Implicit	Expansion.Level-of-detail.Arg2-as-detail	furthermore	Wenn die Erträge gleich oder besser sind , und es gut für den Planeten ist , sollte es nicht Standard sein	Engagieren sich Investoren , insbesondere institutionelle Investoren
+Explicit	Hypophora	?	Engagieren sich Investoren , insbesondere institutionelle Investoren	Nun , einige tun es , und ein paar sind wirkliche Vorreiter
+Explicit	Expansion.Conjunction	und	einige tun es	ein paar sind wirkliche Vorreiter
+Implicit	Expansion.Instantiation	for instance	ein paar sind wirkliche Vorreiter	"Hesta .
+Hesta ist ein Pensionsfonds für Mitarbeiter im Gesundheitswesen und im öffentlichen Dienst in Australien , mit einem Vermögen von 22 Mrd.
+[ Dollar ]"
+Implicit	Expansion.Conjunction	and	"Hesta ist ein Pensionsfonds für Mitarbeiter im Gesundheitswesen und im öffentlichen Dienst in Australien , mit einem Vermögen von 22 Mrd.
+[ Dollar ]"	Sie glauben , dass ESG das Potenzial hat , Risiken und Erträge zu beeinflussen
+Explicit	Contingency.Cause.Result	Deshalb	Sie glauben , dass ESG das Potenzial hat , Risiken und Erträge zu beeinflussen	sehen sie es als ihre Pflicht an , das beim Investment mit einzubeziehen
+Implicit	Expansion.Level-of-detail.Arg2-as-detail	in particular	Deshalb sehen sie es als ihre Pflicht an , das beim Investment mit einzubeziehen	Im besten Interesse der Fondsmitglieder handeln , das ist ihre Kernaufgabe
+Implicit	Contingency.Cause+SpeechAct.Result+SpeechAct	so	Im besten Interesse der Fondsmitglieder handeln , das ist ihre Kernaufgabe	Man muss sie einfach lieben , die Australier , oder
+Implicit	Expansion.Conjunction	and	CalPERS ist der Pensionsfonds für Angestellte im öffentlichen Dienst in Kalifornien	"Mit einem Vermögen von 244 Mrd.
+[ Dollar ] ist er der zweitgrößte in den USA und der sechstgrößte in der Welt"
+Implicit	Expansion.Level-of-detail.Arg2-as-detail	specifically	"Mit einem Vermögen von 244 Mrd.
+[ Dollar ] ist er der zweitgrößte in den USA und der sechstgrößte in der Welt"	Ihre Investitionen in Nachhaltigkeit liegen bei fast 100 %
+Implicit	Expansion.Manner.Arg2-as-manner	by	Ihre Investitionen in Nachhaltigkeit liegen bei fast 100 %	Sie integrieren die ESG systematisch in den gesamten Fonds
+Implicit	Contingency.Cause.Reason	because	"Sie integrieren die ESG systematisch in den gesamten Fonds .
+Warum"	Sie glauben , es ist wichtig für größere langfristige Renditen , Punkt
+Implicit	Expansion.Level-of-detail.Arg2-as-detail	in particular	Sie glauben , es ist wichtig für größere langfristige Renditen , Punkt	"Langfristige Wertschöpfung erfordert die effiziente Verwaltung dreier Formen des Kapitals : Finanzielles , personelles und physisches Kapital .
+Deshalb ist uns ESG wichtig"
+Explicit	Contingency.Cause.Result	Deshalb	Langfristige Wertschöpfung erfordert die effiziente Verwaltung dreier Formen des Kapitals : Finanzielles , personelles und physisches Kapital	ist uns ESG wichtig
+Implicit	Comparison.Concession.Arg2-as-denier	but	Bestandteil meiner Arbeit ist , mit vielen Investoren zu sprechen	Nicht alle sehen das genauso
+Implicit	Expansion.Level-of-detail.Arg2-as-detail	in particular	Nicht alle sehen das genauso	"Oft höre ich : "" Wir sind verpflichtet , Gewinne zu maximieren , deshalb machen wir das hier nicht"
+Explicit	Contingency.Cause+Belief.Result+Belief	deshalb	Wir sind verpflichtet , Gewinne zu maximieren	machen wir das hier nicht
+Explicit	Expansion.Disjunction	Oder	Wir sind verpflichtet , Gewinne zu maximieren , deshalb machen wir das hier nicht	Wir wollen mit dem Portfolio keine Grundsatzerklärungen abgeben
+Implicit	Comparison.Concession.Arg2-as-denier	but	"Wir sind verpflichtet , Gewinne zu maximieren , deshalb machen wir das hier nicht . ""
+Oder : "" Wir wollen mit dem Portfolio keine Grundsatzerklärungen abgeben"	"Die folgende Aussage geht mir wirklich unter die Haut : "" Wenn Sie das verändern wollen , verdienen Sie Geld und spenden Sie die Gewinne an Wohltätigkeitsorganisationen"
+Explicit	Contingency.Condition.Arg2-as-cond	Wenn	verdienen Sie Geld und spenden Sie die Gewinne an Wohltätigkeitsorganisationen	Sie das verändern wollen
+Explicit	Expansion.Conjunction	und	verdienen Sie Geld	spenden Sie die Gewinne an Wohltätigkeitsorganisationen
+Implicit	Contingency.Cause+SpeechAct.Result+SpeechAct	so	"Die folgende Aussage geht mir wirklich unter die Haut : "" Wenn Sie das verändern wollen , verdienen Sie Geld und spenden Sie die Gewinne an Wohltätigkeitsorganisationen"	Da verdrehe ich die Augen
+Implicit	Contingency.Cause.Reason	because	Unternehmen und Investoren sind nicht alleine für das Schicksal des Planeten verantwortlich	Sie haben nicht unbegrenzte soziale Verpflichtungen , und umsichtige Investitions- und Finanzierungstheorien sind nicht der Nachhaltigkeit untergeordnet
+Explicit	Expansion.Conjunction	und	Sie haben nicht unbegrenzte soziale Verpflichtungen , und umsichtige Investitions	Finanzierungstheorien sind nicht der Nachhaltigkeit untergeordnet
+Explicit	Comparison.Contrast	Aber	Finanzierungstheorien sind nicht der Nachhaltigkeit untergeordnet	sie sind kompatibel
+Explicit	Contingency.Cause+SpeechAct.Result+SpeechAct	also	Aber sie sind kompatibel	
+Explicit	Comparison.Concession.Arg2-as-denier	Aber	Ich spreche hier also nicht über Kompromisse	institutionelle Investoren sind der Schlüsselfaktor für Nachhaltigkeit
+Implicit	Contingency.Cause+SpeechAct.Result+SpeechAct	so	Aber institutionelle Investoren sind der Schlüsselfaktor für Nachhaltigkeit	Warum sind sie der Schlüssel
+AltLex	Contingency.Cause.Reason	Die Antwort ist ganz einfach	Warum sind sie der Schlüssel	"Sie haben das Geld .
+( Gelächter ) Eine ganze Menge Geld"
+AltLex	Expansion.Substitution.Arg2-as-subst	Ich meine	"Die Antwort ist ganz einfach : Sie haben das Geld .
+( Gelächter ) Eine ganze Menge Geld"	wirklich viel Geld
+Implicit	Expansion.Instantiation	for instance	Ich meine , wirklich viel Geld	Der globale Aktienmarkt umfasst 55 Billionen Dollar
+Implicit	Expansion.Conjunction	and	Der globale Aktienmarkt umfasst 55 Billionen Dollar	Der globale Rentenmarkt 78 Billionen Dollar
+Implicit	Expansion.Level-of-detail.Arg1-as-detail	in sum	"Der globale Aktienmarkt umfasst 55 Billionen Dollar .
+Der globale Rentenmarkt 78 Billionen Dollar"	Das sind zusammen 133 Billionen
+Implicit	Comparison.Similarity	in comparison	Das sind zusammen 133 Billionen	Das ist achteinhalb Mal das BIP der USA
+Implicit	Expansion.Equivalence	in other words	Das ist achteinhalb Mal das BIP der USA	Das ist die größte Volkswirtschaft der Welt
+Implicit	Expansion.Equivalence	in other words	Das ist die größte Volkswirtschaft der Welt	Das ist schon gigantisch viel Feuerkraft
+Explicit	Contingency.Condition.Arg2-as-cond	Wenn	Damit können wir ganz anders an einige dringende Herausforderungen herangehen , wie frisches Wasser , saubere Luft , Nahrung für 10 Milliarden Münder	nur institutionelle Anleger die ESG in ihre Investitionen integrieren
+Implicit	Comparison.Concession.Arg2-as-denier	but	"Damit können wir ganz anders an einige dringende Herausforderungen herangehen , wie frisches Wasser , saubere Luft , Nahrung für 10 Milliarden Münder .
+Wenn nur institutionelle Anleger die ESG in ihre Investitionen integrieren"	Was wäre , wenn sie diese Feuerkraft nutzten und mehr von ihrem Kapital in Unternehmen investierten , die am härtesten an der Lösung dieser Probleme arbeiten , oder sie zumindest nicht verschärfen
+Explicit	Expansion.Disjunction	oder	die am härtesten an der Lösung dieser Probleme arbeiten	sie zumindest nicht verschärfen
+Implicit	Expansion.Conjunction	and	Was wäre , wenn sie diese Feuerkraft nutzten und mehr von ihrem Kapital in Unternehmen investierten , die am härtesten an der Lösung dieser Probleme arbeiten , oder sie zumindest nicht verschärfen	Was haben wir davon , wenn wir arbeiten , sparen und investieren , nur um im Ruhestand eine Welt vorzufinden , die angespannter und unsicherer ist als jetzt
+Explicit	Contingency.Condition.Arg2-as-cond	wenn	Was haben wir davon	wir arbeiten , sparen und investieren , nur um im Ruhestand eine Welt vorzufinden , die angespannter und unsicherer ist als jetzt
+Explicit	Expansion.Conjunction	und	sparen	investieren
+Implicit	Expansion.Conjunction	and	Was haben wir davon , wenn wir arbeiten , sparen und investieren , nur um im Ruhestand eine Welt vorzufinden , die angespannter und unsicherer ist als jetzt	Wenn saubere Luft und frisches Wasser fehlen
+Implicit	Comparison.Contrast	on the other hand	"Was wäre , wenn sie diese Feuerkraft nutzten und mehr von ihrem Kapital in Unternehmen investierten , die am härtesten an der Lösung dieser Probleme arbeiten , oder sie zumindest nicht verschärfen ?
+Was haben wir davon , wenn wir arbeiten , sparen und investieren , nur um im Ruhestand eine Welt vorzufinden , die angespannter und unsicherer ist als jetzt ?
+Wenn saubere Luft und frisches Wasser fehlen"	Eine berechtigte Frage könnte sein : Und wenn das ganze Nachhaltigkeits-Risiko-Gerede übertrieben und nicht dringlich ist
+Implicit	Expansion.Conjunction	and	Und wenn das ganze Nachhaltigkeits-Risiko-Gerede übertrieben und nicht dringlich ist	Wenn es nur etwas für tugendhafte Verbraucher oder eine reine Frage des Lebensstils ist
+Explicit	Comparison.Contrast	aber	Aktionsprogramme bergen Risiken und Kosten	sie sind weit geringer als die langfristigen Risiken und Kosten der bequemen Untätigkeit
+Explicit	Comparison.Concession.Arg2-as-denier	aber	Sicher gibt es ein Schätzrisiko	da dies alles auf breitem wissenschaftlichen Konsens beruht , ist die Chance , dass es nicht völlig falsch ist , höher als die Wahrscheinlichkeit , dass unser Haus abbrennt oder wir einem Autounfall haben
+Explicit	Contingency.Cause.Reason	da	ist die Chance , dass es nicht völlig falsch ist , höher als die Wahrscheinlichkeit , dass unser Haus abbrennt oder wir einem Autounfall haben	dies alles auf breitem wissenschaftlichen Konsens beruht
+Explicit	Expansion.Disjunction	oder	unser Haus abbrennt	wir einem Autounfall haben
+Implicit	Expansion.Exception.Arg2-as-excpt	except	aber da dies alles auf breitem wissenschaftlichen Konsens beruht , ist die Chance , dass es nicht völlig falsch ist , höher als die Wahrscheinlichkeit , dass unser Haus abbrennt oder wir einem Autounfall haben	Nun , vielleicht nicht , wenn Sie in Boston leben
+Explicit	Contingency.Condition.Arg2-as-cond	wenn	Nun , vielleicht nicht	Sie in Boston leben
+Explicit	Expansion.Manner.Arg2-as-manner	Durch	tun wir zwei Dinge	nachhaltiges Investieren
+Implicit	Expansion.Level-of-detail.Arg2-as-detail	namely	Durch nachhaltiges Investieren tun wir zwei Dinge	Wir schaffen eine Versicherung , verringern die Gefahr für unseren Planeten und für unsere Wirtschaft , und gleichzeitig müssen wir kurzfristig nicht auf Leistung verzichten
+Explicit	Expansion.Conjunction	und gleichzeitig	Wir schaffen eine Versicherung , verringern die Gefahr für unseren Planeten und für unsere Wirtschaft	müssen wir kurzfristig nicht auf Leistung verzichten
+Explicit	Expansion.Conjunction	und	das alles bloß Schwindel ist	wir schaffen ohne Grund eine bessere Welt
+Implicit	Comparison.Similarity	also	Gut , er gefällt Ihnen .	Ich mag ihn auch
+Implicit	Expansion.Level-of-detail.Arg2-as-detail	in particular	Ich mag ihn auch	Ich mag ihn , weil er sich über beide Lager des Klimawandels lustig macht
+Explicit	Contingency.Cause.Reason	weil	Ich mag ihn	er sich über beide Lager des Klimawandels lustig macht
+Implicit	Expansion.Level-of-detail.Arg2-as-detail	specifically	Ich mag ihn , weil er sich über beide Lager des Klimawandels lustig macht	"Ich mag es besonders , weil er mich an Mark Twain erinnert , der sagte : "" Plane für die Zukunft , denn dort wirst du den Rest deines Lebens verbringen"
+Explicit	Contingency.Cause.Reason	weil	Ich mag es besonders	er mich an Mark Twain erinnert , der sagte
+Explicit	Contingency.Cause.Reason	denn	Plane für die Zukunft	dort wirst du den Rest deines Lebens verbringen

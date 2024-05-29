@@ -1,0 +1,95 @@
+rel_type	rel_sense	conn_text	arg1_text	arg2_text
+Implicit	Contingency.Cause.Reason	because	Miałam szczęście, że moja pierwsza praca była w Muzeum Sztuki Nowoczesnej, przy wystawie malarstwa Elizabeth Murray	Nauczyłam się od niej bardzo dużo
+Implicit	Contingency.Cause.Reason	because	uwielbiałam patrzeć na obrazy z lat 70	Pewne motywy i elementy tych prac pojawiały się później w jej życiu
+Explicit	Contingency.Condition.Arg2-as-cond	Jeśli	czasem byłoby trudno zgadnąć	się nie wiedziało, że to jej prace
+Implicit	Expansion.Instantiation.Arg2-as-instance	in fact	kilka nie spełniło jej własnych oczekiwań	Jedna z jej prac tak ją rozczarowała, że wyrzuciła ją do śmieci w studio
+Explicit	Expansion.Conjunction	a	wyrzuciła ją do śmieci w studio	sąsiadka zabrała obraz do siebie
+Explicit	Contingency.Cause.Reason	bo	sąsiadka zabrała obraz do siebie	widziała jego wartość
+Implicit	Expansion.Level-of-detail.Arg2-as-detail	specifically	moje poglądy na sukces i kreatywność zmieniły się	Dotarło do mnie, że sukces to chwila, ale tak naprawdę zawsze podziwiamy pomysłowość i kunszt
+Explicit	Comparison.Concession.Arg2-as-denier	ale	Dotarło do mnie, że sukces to chwila	tak naprawdę zawsze podziwiamy pomysłowość i kunszt
+Implicit	Comparison.Concession.Arg2-as-denier	so	tak naprawdę zawsze podziwiamy pomysłowość i kunszt	Zachodzi pytanie: co sprawia, że potrafimy zmienić sukces w kunszt?
+Implicit	Expansion.Conjunction	and	Zadawałam sobie to pytanie od dawna	Myślę, że to przychodzi, kiedy zaczynamy cenić dar bliskości zwycięstwa.
+Explicit	Temporal.Synchronous	kiedy	Zaczęłam to rozumieć	poszłam pewnego zimnego majowego dnia oglądać trening łuczniczy, jak los chciał, samych kobiet, na północnym krańcu Manhattanu, w centrum sportowym Columbia Baker
+Implicit	Expansion.Level-of-detail.Arg2-as-detail	specifically	Chciałam zobaczyć to, co nazywają paradoksem łucznika	Polega on na tym, że żeby trafić do celu, trzeba celować w coś trochę od celu oddalonego
+Explicit	Contingency.Purpose.Arg1-as-goal	żeby	trafić do celu	trzeba celować w coś trochę od celu oddalonego
+Explicit	Temporal.Synchronous	i	Stałam	obserwowałam trenera, który podwiózł kobiety szarym vanem
+Explicit	Expansion.Conjunction	a	obserwowałam trenera, który podwiózł kobiety szarym vanem	one wysiadły w zrelaksowanym skupieniu
+Implicit	Expansion.Conjunction	and	Jedna trzymała w jednej ręce nadjedzonego loda, a w drugiej strzały z żółtym opierzeniem	Przeszły obok mnie
+Implicit	Temporal.Synchronous	and	Przeszły obok mnie	uśmiechnęły się
+Explicit	Comparison.Concession.Arg2-as-denier	ale	uśmiechnęły się	oceniły mnie po drodze i porozumiały się nie słowami tylko liczbami, stopniami
+Explicit	Expansion.Conjunction	i	oceniły mnie po drodze	porozumiały się nie słowami tylko liczbami, stopniami
+Implicit	Expansion.Manner.Arg1-as-manner	so	porozumiały się nie słowami tylko liczbami, stopniami	Jak sądziłam, planowały swoją pozycję, żeby trafić w cel
+Implicit	Temporal.Synchronous	and	Przeszły obok mnie, uśmiechnęły się, ale oceniły mnie po drodze i porozumiały się nie słowami tylko liczbami, stopniami. Jak sądziłam, planowały swoją pozycję, żeby trafić w cel	Stałam za jedną z łuczniczek, a jej trener stał pomiędzy nami, żeby ocenić, komu trzeba pomóc
+Explicit	Temporal.Synchronous	a	Stałam za jedną z łuczniczek	jej trener stał pomiędzy nami
+Explicit	Contingency.Purpose.Arg2-as-goal	żeby	jej trener stał pomiędzy nami	ocenić, komu trzeba pomóc
+Implicit	Expansion.Conjunction	and	Stałam za jedną z łuczniczek, a jej trener stał pomiędzy nami, żeby ocenić, komu trzeba pomóc	Obserwowałam ją
+Implicit	Expansion.Conjunction	and	Obserwowałam ją	nie wiedząc, jak zamierza choć raz trafić w tarczę
+Implicit	Expansion.Conjunction	and	Tarcza ze standardowej odległości 70 metrów wygląda jak łebek zapałki trzymanej na długość ramienia	Do tego dochodzi 20 kg siły naciągu przy każdym strzale
+Explicit	Temporal.Asynchronous.Precedence	potem	Pierwszy raz trafiła siódemkę	dziewiątkę
+Explicit	Temporal.Asynchronous.Precedence	i potem	dziewiątkę	dwie dziesiątki
+Explicit	Temporal.Asynchronous.Precedence	A po tym	Pierwszy raz trafiła siódemkę, potem dziewiątkę i potem dwie dziesiątki	następna strzała w ogóle nie trafiła w tarczę
+Implicit	Contingency.Cause.Result	as a result	następna strzała w ogóle nie trafiła w tarczę	To ją zmobilizowało
+Explicit	Contingency.Cause.Result	bo	To ją zmobilizowało	strzelała potem bez przerwy
+Implicit	Temporal.Synchronous	and	strzelała potem bez przerwy	Trwało to trzy godziny
+Implicit	Expansion.Conjunction	finally	Trwało to trzy godziny	Na koniec treningu jedna z łuczniczek była tak wyczerpana, że położyła się na ziemi z wyciągniętymi rękami, patrzyła w niebo, szukając czegoś, co T.S. Eliot mógłby nazwać nieruchomym punktem wirującego świata
+Implicit	Expansion.Conjunction	in other words	W kulturze amerykańskiej to rzadkie, tak mało zostało profesjonalizmu, żeby widzieć jak wygląda zawziętość z tym stopniem dokładności	Co to znaczy, utrzymać postawę ciała przez trzy godziny, żeby trafić do celu, dążąc do niewidocznej doskonałości
+Explicit	Contingency.Purpose.Arg2-as-goal	żeby	Co to znaczy, utrzymać postawę ciała przez trzy godziny	trafić do celu
+Explicit	Contingency.Cause.Reason	bo	Zostałam	uświadomiłam sobie, że jestem świadkiem czegoś rzadkiego do uchwycenia, tej różnicy między sukcesem a mistrzostwem.
+Explicit	Comparison.Contrast	ale	Sukces to trafienie w środek tarczy	kunsztem jest wiedzieć, że to nic nie znaczy, jeśli nie możesz tego powtórzyć
+Explicit	Contingency.Condition.Arg2-as-cond	jeśli	to nic nie znaczy	nie możesz tego powtórzyć
+Implicit	Expansion.Level-of-detail.Arg2-as-detail	and	Kunszt to nie to samo, co doskonałość	To nie to samo, co sukces, który uważam za wydarzenie, chwilę w czasie i etykietkę przyznawaną przez świat
+Implicit	Expansion.Conjunction	furthermore	To nie to samo, co sukces, który uważam za wydarzenie, chwilę w czasie i etykietkę przyznawaną przez świat	Mistrzostwo to nie przywiązanie do celu, ale ciągłe dążenie
+Explicit	Expansion.Substitution.Arg2-as-subst	ale	Mistrzostwo to nie przywiązanie do celu	ciągłe dążenie
+Implicit	Expansion.Instantiation.Arg2-as-instance	for example	Jak to zrobić, co nas popchnie dalej to wartość bliskiej wygranej	Ile razy uznaliśmy coś za klasykę, a nawet arcydzieło, kiedy twórca uznał to za beznadziejne i niedokończone, rozważając wszystkie wady
+Explicit	Temporal.Synchronous	kiedy	Ile razy uznaliśmy coś za klasykę, a nawet arcydzieło	twórca uznał to za beznadziejne i niedokończone, rozważając wszystkie wady
+Implicit	Comparison.Similarity	similarly	Elizabeth Murray zaskoczyła mnie swoim wyznaniem o wczesnych obrazach	Malarz Paul Cézanne tak często uważał swoje obrazy za niekompletne, że celowo je odstawiał z zamiarem późniejszego dokończenia
+Explicit	Comparison.Concession.Arg2-as-denier	Jednak	Malarz Paul Cézanne tak często uważał swoje obrazy za niekompletne, że celowo je odstawiał z zamiarem późniejszego dokończenia	pod koniec życia okazało się, że podpisał tylko 10% swoich dzieł
+Explicit	Contingency.Cause.Reason	bo	"Jego ulubioną powieścią było ""Nieznane arcydzieło"" Honoriusza Balzaka"	czuł, że jej bohater to on sam
+Explicit	Comparison.Contrast	kiedy	Franz Kafka widział niekompletność	inni widzieli dzieło do wielbienia
+Explicit	Contingency.Cause.Result	tak dalece, że	Franz Kafka widział niekompletność, kiedy inni widzieli dzieło do wielbienia	wszystkie dzienniki, manuskrypty, listy, a nawet szkice kazał spalić zaraz po swojej śmierci
+Implicit	Comparison.Concession.Arg2-as-denier	however	wszystkie dzienniki, manuskrypty, listy, a nawet szkice kazał spalić zaraz po swojej śmierci	Przyjaciel nie uszanował tej prośby
+Explicit	Contingency.Cause.Result	dlatego	Przyjaciel nie uszanował tej prośby	"mamy teraz wszystkie prace Kafki: ""Amerykę"", ""Proces"", ""Zamek"", na tyle niekompletny, że urywa się w pół zdania."
+Explicit	Comparison.Similarity	jakby	"""Panie, pozwól mi pragnąć dokonać więcej, niż potrafię"" Michał Anioł błagał Boga ze Starego Testamentu w Kaplicy Sykstyńskiej"	sam był Adamem, z palcem wyciągniętym, jednak nie do końca dotykającym ręki bożej
+Explicit	Comparison.Contrast	jednak	sam był Adamem, z palcem wyciągniętym	nie do końca dotykającym ręki bożej
+Explicit	Comparison.Contrast	nie	Mistrzostwo jest w zmierzaniu	w osiągnięciu celu
+Implicit	Expansion.Conjunction	furthermore	Mistrzostwo jest w zmierzaniu, nie w osiągnięciu celu	To ciągła chęć zamknięcia luki między tym, gdzie jesteś, a gdzie chciałbyś być
+Implicit	Expansion.Conjunction	and	To ciągła chęć zamknięcia luki między tym, gdzie jesteś, a gdzie chciałbyś być	Mistrzostwo leży w poświęceniu się dla rzemiosła
+Explicit	Comparison.Contrast	a nie	Mistrzostwo leży w poświęceniu się dla rzemiosła	w rzeźbieniu kariery
+Explicit	Comparison.Contrast	ale	jego zwycięstwa nie są nawet wynikiem wielkich osiągnięć	ciągiem niepełnych zwycięstw.
+Explicit	Contingency.Cause.Reason	to, że	Częściową przyczyną tego, że niepełne zwycięstwo prowadzi do mistrzostwa, jest	z nabieraniem wprawy coraz jaśniej widzimy, że nie wiemy wszystkiego, co się nam zdawało
+Explicit	Expansion.Conjunction	Kiedy	"zapytali go: ""Jak uważasz, co zwiększa się z wiedzą?"""	"odpowiedział: ""Dowiadujemy się, jak mało wiemy."""
+Implicit	Expansion.Substitution.Arg2-as-subst	specifically	"Paryski Przegląd"" wziął to od Jamesa Baldwina"	"Kiedy zapytali go: ""Jak uważasz, co zwiększa się z wiedzą?"", odpowiedział: ""Dowiadujemy się, jak mało wiemy."""
+Explicit	Comparison.Contrast	ale	Sukces nas motywuje	bliska wygrana może popchnąć nas do stałego wysiłku
+Implicit	Expansion.Instantiation.Arg2-as-instance	and	Sukces nas motywuje, ale bliska wygrana może popchnąć nas do stałego wysiłku	Jednym z najlepszych przykładów jest różnica, jaką widać na Olimpiadzie między srebrnymi medalistami i medalistami brązowymi
+Implicit	Expansion.Instantiation.Arg2-as-instance	for example	Jednym z najlepszych przykładów jest różnica, jaką widać na Olimpiadzie między srebrnymi medalistami i medalistami brązowymi	Thomas Gilovich i jego zespół z Cornell badali tę różnicę i odkryli, że widoczna frustracja srebrnych medalistów, w porównaniu z brązowymi, którzy zwykle bardziej się cieszą, że nie zajęli czwartego miejsca, bez żadnego medalu, daje srebrnym medalistom skupienie w kolejnych wyścigach
+Explicit	Contingency.Cause.Result	i	Thomas Gilovich i jego zespół z Cornell badali tę różnicę	odkryli, że widoczna frustracja srebrnych medalistów, w porównaniu z brązowymi, którzy zwykle bardziej się cieszą, że nie zajęli czwartego miejsca, bez żadnego medalu, daje srebrnym medalistom skupienie w kolejnych wyścigach
+Explicit	Comparison.Contrast	w porównaniu z	widoczna frustracja srebrnych medalistów	brązowymi, którzy zwykle bardziej się cieszą, że nie zajęli czwartego miejsca, bez żadnego medalu
+Implicit	Contingency.Cause.Result	as a result	widoczna frustracja srebrnych medalistów, w porównaniu z brązowymi, którzy zwykle bardziej się cieszą, że nie zajęli czwartego miejsca, bez żadnego medalu	daje srebrnym medalistom skupienie w kolejnych wyścigach
+Explicit	Expansion.Conjunction	i	Widać to nawet w branży hazardowej, gdzie ktoś połapał się w tym fenomenie bliskiej wygranej	stworzył zdrapki, które częściej wydają się blisko wygranej, naciągając graczy na kupowanie kolejnych zdrapek
+Implicit	Contingency.Cause.Result	as a result	Widać to nawet w branży hazardowej, gdzie ktoś połapał się w tym fenomenie bliskiej wygranej i stworzył zdrapki, które częściej wydają się blisko wygranej	naciągając graczy na kupowanie kolejnych zdrapek
+Implicit	Expansion.Conjunction	and	Widać to nawet w branży hazardowej, gdzie ktoś połapał się w tym fenomenie bliskiej wygranej i stworzył zdrapki, które częściej wydają się blisko wygranej, naciągając graczy na kupowanie kolejnych zdrapek	"Nazywano je ""zdrapki-zawał"" i spowodowały serię nadużyć w latach 70. w Wielkiej Brytanii"
+Explicit	Contingency.Cause.Reason	bo	Bliskość wygranej daje impuls	zmienia nam perspektywę i przesuwa odległy cel dużo bliżej miejsca, w którym stoimy
+Explicit	Expansion.Conjunction	i	zmienia nam perspektywę	przesuwa odległy cel dużo bliżej miejsca, w którym stoimy
+Explicit	Contingency.Condition.Arg2-as-cond	Jeśli	poproszę was o opisanie świetnego dnia w przyszłym tygodniu	pewnie użyjecie ogólników
+Explicit	Comparison.Contrast	Ale	Jeśli poproszę was o opisanie świetnego dnia w przyszłym tygodniu, pewnie użyjecie ogólników	jeśli poproszę o opisanie świetnego dnia na jutrzejszym TED, podalibyście pewnie szczegóły z praktyczną dokładnością
+Explicit	Contingency.Condition.Arg2-as-cond	jeśli	poproszę o opisanie świetnego dnia na jutrzejszym TED	podalibyście pewnie szczegóły z praktyczną dokładnością
+Implicit	Expansion.Conjunction	and	jeśli poproszę o opisanie świetnego dnia na jutrzejszym TED, podalibyście pewnie szczegóły z praktyczną dokładnością	Tak działa bliskość wygranej
+Implicit	Expansion.Level-of-detail.Arg2-as-detail	specifically	Tak działa bliskość wygranej	Skupia uwagę na tym, co jest teraz, na górze, przed którą stoimy
+Implicit	Contingency.Cause+Belief.Reason+Belief	as a result	Jackie Joyner-Kersee w 1984 roku przegrała złoty medal w siedmioboju o jedną trzecią sekundy	a jej mąż przewidział, że da jej to skupienie potrzebne do wygrania kolejnych zawodów
+Explicit	Expansion.Conjunction	a	Jackie Joyner-Kersee w 1984 roku przegrała złoty medal w siedmioboju o jedną trzecią sekundy	jej mąż przewidział, że da jej to skupienie potrzebne do wygrania kolejnych zawodów
+Implicit	Temporal.Asynchronous.Precedence	then	Jackie Joyner-Kersee w 1984 roku przegrała złoty medal w siedmioboju o jedną trzecią sekundy, a jej mąż przewidział, że da jej to skupienie potrzebne do wygrania kolejnych zawodów	W 1988 roku wygrała złoty medal w siedmioboju i ustanowiła rekord na 7291 punktów.
+Explicit	Contingency.Cause.Result	i	W 1988 roku wygrała złoty medal w siedmioboju	ustanowiła rekord na 7291 punktów.
+Explicit	Expansion.Substitution.Arg2-as-subst	ale	Kwitniemy nie wtedy, gdy wszystko jest skończone	wtedy, gdy mamy jeszcze coś do zrobienia
+Implicit	Expansion.Conjunction	in other words	Stoję tutaj, myśląc i zastanawiając się nad różnymi sposobami wyprodukowania bliskości zwycięstwa na tej sali	Jak odbiłoby się to na waszym życiu
+Explicit	Contingency.Cause.Reason	bo	Stoję tutaj, myśląc i zastanawiając się nad różnymi sposobami wyprodukowania bliskości zwycięstwa na tej sali. Jak odbiłoby się to na waszym życiu,	chyba gdzieś głęboko każdy z nas to wie
+Implicit	Expansion.Level-of-detail.Arg2-as-detail	that is	chyba gdzieś głęboko każdy z nas to wie	Wiemy, że rozkwitamy, stojąc na krańcach możliwości
+Explicit	Contingency.Cause.Result	dlatego też	Wiemy, że rozkwitamy, stojąc na krańcach możliwości	celowa niekompletność jest wpisana w mit stworzenia
+Implicit	Expansion.Instantiation.Arg2-as-instance	for example	celowa niekompletność jest wpisana w mit stworzenia	W kulturze Navajo niektórzy rzemieślnicy celowo tworzą skazy na tkaninach i ceramice
+Explicit	Expansion.Conjunction	a także	celowa skaza we wzorze daje tkaczce albo twórcy wyjście	powód do kontynuacji pracy
+Implicit	Expansion.Substitution.Arg2-as-subst	rather	Mistrzowie nie dlatego są ekspertami, że doprowadzają przedmiot do końca	Są mistrzami, bo mają świadomość, że nie ma takiego końca.
+Explicit	Contingency.Cause.Reason	bo	Są mistrzami	mają świadomość, że nie ma takiego końca
+Implicit	Expansion.Conjunction	in other words	jak zilustrowanie rodzaju rzewnego wyznania	przypomnienia, że on wie, że poświęca się nienasyconej, niedokończonej drodze, która zawsze wymaga więcej.
+Implicit	Expansion.Conjunction	and	"Bazujemy na niedokończonej idei, nawet chodzi o nasze dawne ""ja"""	Oto dynamika mistrzostwa
+Implicit	Expansion.Level-of-detail.Arg2-as-detail	specifically	Oto dynamika mistrzostwa	Zbliżanie się do pożądanego celu może pomóc przewyższyć marzenia
+Explicit	Temporal.Synchronous	kiedy	Wyobrażam sobie, że tak Elizabeth Murray myślała	widziałam jej uśmiech na widok pierwszych obrazów w galerii
+Explicit	Comparison.Concession.Arg2-as-denier	ale	Kończenie jest celem	mamy nadzieję, że nigdy końcem

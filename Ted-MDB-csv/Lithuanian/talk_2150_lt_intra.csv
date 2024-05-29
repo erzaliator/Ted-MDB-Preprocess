@@ -1,0 +1,64 @@
+rel_type	rel_sense	conn_text	arg1_text	arg2_text
+Explicit	Temporal.Synchronous	﻿Kai	paprastai galvojame apie kelius, gatves ir pastatus, ir gyvenamųjų vietų naratyvą	kalbame apie miestų žemėlapius
+Explicit	Expansion.Level-of-detail.Arg2-as-detail	dėl kurio	paprastai galvojame apie kelius, gatves ir pastatus, ir gyvenamųjų vietų naratyvą	miestas kūrėsi
+Explicit	Expansion.Disjunction	arba	paprastai galvojame apie kelius, gatves ir pastatus, ir gyvenamųjų vietų naratyvą, dėl kurio miestas kūrėsi	galvojame apie drąsią urbanistinio dizainerio viziją
+Explicit	Comparison.Contrast	bet	﻿Kai kalbame apie miestų žemėlapius, paprastai galvojame apie kelius, gatves ir pastatus, ir gyvenamųjų vietų naratyvą, dėl kurio miestas kūrėsi, arba galvojame apie drąsią urbanistinio dizainerio viziją	galime ir kitaip galvotiapie miestų žemėlapius ir kaip jie buvo sukurti
+Explicit	Expansion.Conjunction	ir	galime ir kitaip galvotiapie miestų žemėlapius	jie buvo sukurti
+Explicit	Expansion.Manner.Arg2-as-manner	kaip	galime ir kitaip galvotiapie miestų žemėlapius	jie buvo sukurti
+Explicit	Expansion.Conjunction	ir	Jis vaizduoja ryšius tarp žmonių iš mano gimtojo miesto Baltimorės Merilende,	kiekvienas taškas jame vaizduoja žmogų
+Implicit	Expansion.Conjunction	ir	kiekvienas taškas jame vaizduoja žmogų	kiekviena linija vaizduoja ryšį tarp tų žmonių
+Explicit	Expansion.Conjunction	ir	kiekviena linija vaizduoja ryšį tarp tų žmonių	kiekviena spalva vaizduoja bendruomenę
+Implicit	Expansion.Conjunction	ir	Aš esu žalioje pusėje, toli dešinėje su kitais moksliukais	TEDx irgi ten dešinėje
+Implicit	Expansion.Level-of-detail.Arg2-as-detail	faktiškai	Kitoje tinklo pusėje daugiausia afro amerikiečiai ir žmonės kilę iš lotynų amerikos	kuriems rūpi kiek kiti dalykai, nei moksliukams
+Explicit	Expansion.Disjunction	nei	kuriems rūpi kiek kiti dalykai	moksliukams
+Implicit	Expansion.Conjunction	ir	Kitoje tinklo pusėje daugiausia afro amerikiečiai ir žmonės kilę iš lotynų amerikos, kuriems rūpi kiek kiti dalykai, nei moksliukams	tuoj paaiškinsiu
+Explicit	Expansion.Level-of-detail.Arg2-as-detail	kad	tuoj paaiškinsiu	žaliąją tinklo pusę ten gyvenantieji vadina Mažąja Baltimore, nes atrodo, kad gyvename labai mažame mieste
+Explicit	Contingency.Cause.Reason	nes	žaliąją tinklo pusę ten gyvenantieji vadina Mažąja Baltimore	atrodo, kad gyvename labai mažame mieste
+Explicit	Expansion.Level-of-detail.Arg2-as-detail	kad	atrodo	gyvename labai mažame mieste
+Explicit	Comparison.Concession.Arg2-as-denier	bet	Vėl ir vėl matome tuos pačius žmones	pakankamai neieškome visame miesto gylyje ir plotyje
+Explicit	Contingency.Cause.Reason	tik todėl, kad	Vėl ir vėl matome tuos pačius žmones	pakankamai neieškome visame miesto gylyje ir plotyje
+Explicit	Expansion.Conjunction	ir	Kitoje tinklo pusėje yra žmonės, kurie domisi hip-hopo muzika	jie net tapatina save labiau su Vašingtonu, Merilendu ir Virdžinijanei su Baltimorės miestu
+Implicit	Expansion.Level-of-detail.Arg2-as-detail	faktıškai	viduryje matote kai ką	kas jungia abidvi bendruomenes
+Implicit	Expansion.Level-of-detail.Arg2-as-detail	iš tiesų	kas jungia abidvi bendruomenes	tai sportas
+Explicit	Expansion.Level-of-detail.Arg2-as-detail	ir	Galbūt girdėjote Baltimorės kompaniją Under Armour	ta sporto bendruomenė yra tiltas, jungiantisabi tinklo puses
+Explicit	Expansion.Conjunction	ir	Vienoje pusėje turime žiniasklaidos, politikos ir žinių žievę, kuri pastebima ir Baltimorėje	kitur
+Explicit	Comparison.Contrast	bet	kitur	taip pat turime vieną labai aiškią moksliukų ir technologijos entuziastų grupę,  kuri užima viršutinę tinklo pusę
+Explicit	Comparison.Contrast	o	turime vieną labai aiškią moksliukų ir technologijos entuziastų grupę,  kuri užima viršutinę tinklo pusę	viena grupė tokia aiški, kad galime ją identifikuotikaip Twitter darbuotojus, tarp technologijų entuziastų ir kompiuterinių žaidimų žaidėjų, priešingoje spektro pusėje nei hip-hopas
+Explicit	Contingency.Cause.Result	kad	viena grupė tokia aiški	galime ją identifikuotikaip Twitter darbuotojus, tarp technologijų entuziastų ir kompiuterinių žaidimų žaidėjų, priešingoje spektro pusėje nei hip-hopas
+Explicit	Expansion.Level-of-detail.Arg1-as-detail	kaip	įtampa apie kurią girdėjome San Fransiske apie susirūpinimą dėl būsto kainų ir gyventojų išstūmimo ir technologijų kompanijų, kurios atneša daug turto ir įsikuria, yra tikra	matote
+Implicit	Expansion.Level-of-detail.Arg2-as-detail	faktiškai		apie kurią girdėjome San Fransiske apie susirūpinimą dėl būsto kainų ir gyventojų išstūmimo ir technologijų kompanijų, kurios atneša daug turto ir įsikuria
+Explicit	Expansion.Conjunction	ir	kaip matote įtampa apie kurią girdėjome San Fransiske apie susirūpinimą dėl būsto kainų ir gyventojų išstūmimo ir technologijų kompanijų, kurios atneša daug turto ir įsikuria, yra tikra	to įrodymą matote šioje medžiagoje
+Explicit	Expansion.Level-of-detail.Arg2-as-detail	kad	Matote	LGBT bendruomenėne visai sutaria su moksliukų bendruomene, su menų bendruomene, su muzikos bendruomene
+Explicit	Expansion.Conjunction	ir	Gavau šią nuotrauką prieš kelias savaites	joje matote
+Implicit	Expansion.Level-of-detail.Arg2-as-detail	faktiškai	joje matote	kas vyksta San Fransisko gatvėse
+Explicit	Expansion.Conjunction	ir	Gavau šią nuotrauką prieš kelias savaites ir joje matote, kas vyksta San Fransisko gatvėse	manau, kad tai galima suprasti žiūrint į šiuos žemėlapius
+Explicit	Expansion.Level-of-detail.Arg2-as-detail	kad	manau	tai galima suprasti žiūrint į šiuos žemėlapius
+Implicit	Expansion.Manner.Arg2-as-manner	tuo būdu	tai galima suprasti	žiūrint į šiuos žemėlapius
+Explicit	Contingency.Cause+SpeechAct.Result+SpeechAct	ir	Per paskutines kelias savaites rinkau duomenis apie Rio	vienas dalykas labai išsiskyrė iš kitų: viskas yra išties labai susimaišę
+Implicit	Expansion.Level-of-detail.Arg2-as-detail	faktiškai	vienas dalykas labai išsiskyrė iš kitų	viskas yra išties labai susimaišę
+Explicit	Comparison.Contrast	negu	Tai labai heterogeniškas miestas	Baltimorė ar San Fransiskas
+Explicit	Expansion.Conjunction	ir	Kitos vaikinų grupės, kantri muzika, gospelai, fankas, repas ir komedijos pasirodymai	visa dalis aplink narkotikus ir humorą
+Explicit	Comparison.Concession.Arg2-as-denier	bet	turime tą patį pasiskirstymą tarp sporto, pilietinių teisių, menų ir muzikos	tai pavaizduota visai kitaip
+Explicit	Expansion.Conjunction	ir	turime tą patį pasiskirstymą tarp sporto, pilietinių teisių, menų ir muzikos, bet tai pavaizduota visai kitaip	manau, kad tai gerai aititinkamūsų Rio de Žaneiro suvokimą, kad tai labai daugiakultūrinis ir muzikos prasme įvairus miestas
+Explicit	Expansion.Level-of-detail.Arg2-as-detail	kad	manau	tai gerai aititinkamūsų Rio de Žaneiro suvokimą
+Explicit	Expansion.Level-of-detail.Arg2-as-detail	kad	tai gerai aititinkamūsų Rio de Žaneiro suvokimą	tai labai daugiakultūrinis ir muzikos prasme įvairus miestas
+Implicit	Expansion.Level-of-detail.Arg2-as-detail	faktišklai	Tai nepaprastai turtingas duomenų apie šiuos miestus rinkinys	galbūt net turtingesnis, nei iki šiol turėta
+Explicit	Comparison.Concession.Arg1-as-denier	nei	galbūt net turtingesnis	iki šiol turėta
+Explicit	Expansion.Level-of-detail.Arg2-as-detail	kad	galime bandyti suprasti	segregacija yra socialinis fenomenas
+Explicit	Comparison.Concession.Arg2-as-denier	o	Tai vyksta dėl mūsų pasirinkimo	galėtų ir nevykti
+Explicit	Expansion.Conjunction	ir	Tai vyksta dėl mūsų pasirinkimo, o galėtų ir nevykti	pagalvoji, ką darome su šiais duomenimis, tai lyg paimtume teleskopą ir nukreipę į miestą žiūrėtume lyg į mokyklos valgyklą, ir matytume kaip visi susiskirstę per stalus
+Explicit	Contingency.Condition.Arg2-as-cond	jei	tai lyg paimtume teleskopą ir nukreipę į miestą žiūrėtume lyg į mokyklos valgyklą, ir matytume kaip visi susiskirstę per stalus	pagalvoji, ką darome su šiais duomenimis
+Implicit	Expansion.Level-of-detail.Arg2-as-detail	apskritai	pagalvoji	ką darome su šiais duomenimis
+Explicit	Expansion.Level-of-detail.Arg2-as-detail	kad	Kitas dalykas, kurį supratome	rasė yra prastas būdas matuoti įvairovę
+Implicit	Expansion.Conjunction	ir	Turime visų rasių žmones pavaizduotus šiame žemėlapyje	žiūrėti tik į rasę nepadeda bandant prisidėti prie įvairumo vystymo
+Implicit	Temporal.Synchronous	kai	žiūrėti tik į rasę nepadeda	bandant prisidėti prie įvairumo vystymo
+Implicit	Contingency.Cause.Result	todėl	Bandome įvairumą naudoti sprendžiant kai kurias sudėtingesnes problemas	turime pradėti kitaip galvoti apie įvairumą
+Explicit	Expansion.Conjunction	ir	mes turime galimybę pradėti naujai formuoti savo miestus	manau, kad jei turime galimybę, netgi galime ir prisimti atsakomybę tai darydami
+Explicit	Expansion.Level-of-detail.Arg2-as-detail	kad	manau	turime galimybę, netgi galime ir prisimti atsakomybę tai darydami
+Explicit	Contingency.Condition.Arg2-as-cond	jei	netgi galime ir prisimti atsakomybę tai darydami	turime galimybę
+Explicit	Expansion.Level-of-detail.Arg2-as-detail	kad	Kai kas pasakytų	tai geografinė vieta arba gatvių ir pastatų rinkinys
+Explicit	Comparison.Contrast	bet	Kai kas pasakytų, kad tai geografinė vieta arba gatvių ir pastatų rinkinys	aš tikiu, kad miestas yra suma visų ryšių tarp ten gyvenančių žmonių
+Explicit	Expansion.Level-of-detail.Arg2-as-detail	kad	aš tikiu	miestas yra suma visų ryšių tarp ten gyvenančių žmonių
+Explicit	Expansion.Conjunction	ir	aš tikiu, kad miestas yra suma visų ryšių tarp ten gyvenančių žmonių	tikiu, kad jei galime pradėti realiai tuos ryšius dokumentuoti, galbūt išties galėtume sukurti tokius miestus, kokių iš tikrųjų norime
+Explicit	Expansion.Level-of-detail.Arg2-as-detail	kad	tikiu	galime pradėti realiai tuos ryšius dokumentuoti
+Explicit	Contingency.Condition.Arg2-as-cond	jei	galbūt išties galėtume sukurti tokius miestus, kokių iš tikrųjų norime	galime pradėti realiai tuos ryšius dokumentuoti

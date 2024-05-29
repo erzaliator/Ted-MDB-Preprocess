@@ -1,0 +1,42 @@
+rel_type	rel_sense	conn_text	arg1_text	arg2_text
+Implicit	Temporal.Synchronous	jednocześnie z	"Słysząc termin ""odwzorowanie miasta"	myślimy o ulicach i budynkach, czynnikach wpływających na ich stworzenie albo o śmiałej wizji miejskiego architekta
+Explicit	Comparison.Contrast	Ale	"Słysząc termin ""odwzorowanie miasta"", myślimy o ulicach i budynkach, czynnikach wpływających na ich stworzenie albo o śmiałej wizji miejskiego architekta"	można zupełnie inaczej myśleć o mapach miast i tym, jak są przygotowywane
+Implicit	Contingency.Cause.Result	więc (so)	Ale można zupełnie inaczej myśleć o mapach miast i tym, jak są przygotowywane	Chciałbym pokazać wam nowy rodzaj mapy
+Implicit	Comparison.Contrast	ale	Chciałbym pokazać wam nowy rodzaj mapy	To nie jest mapa geograficzna
+Implicit	Comparison.Contrast	ale	To nie jest mapa geograficzna	To jest mapa związków międzyludzkich w moim mieście, Baltimore w stanie Maryland
+Implicit	Expansion.Instantiation	na przykład	Każda kropka reprezentuje pojedynczą osobę, każda linia to związek pomiędzy tymi ludźmi, a każdy kolor przedstawia wspólnotę w ramach tej sieci	Ja jestem na zielono, po prawej, z innymi okularnikami i TEDx też jest tutaj po prawej
+Implicit	Expansion.Level-of-detail.Arg2-as-detail	otóż	Po drugiej stronie siatki mamy ludzi interesujących się hip-hopem	Oni identyfikują się bardziej z mieszkańcami Maryland lub Virginii niż z pozostałymi mieszkańcami Baltimore
+Explicit	Expansion.Disjunction	jednak	Oni identyfikują się bardziej z mieszkańcami Maryland lub Virginii niż z pozostałymi mieszkańcami Baltimore	
+Implicit	Expansion.Level-of-detail.Arg2-as-detail	mianowicie	Pomiędzy nimi znajdziemy jednak coś, co łączy dwie różne społeczności, a jest to sport	Mamy drużynę piłkarską i baseballową oraz olimpijczyka, Michaela Phelpsa
+Implicit	Expansion.Conjunction	i (and)	Mamy drużynę piłkarską i baseballową oraz olimpijczyka, Michaela Phelpsa	Firma sportowa Under Armour ma swoją siedzibę w Baltimore
+Implicit	Expansion.Level-of-detail.Arg1-as-detail	krótko mówiąc	Firma sportowa Under Armour ma swoją siedzibę w Baltimore	Sport jest jedynym łącznikiem między tymi dwoma społecznościami
+Implicit	Expansion.Level-of-detail.Arg2-as-detail	otóż	Przyjrzyjmy się San Francisco	Można zauważyć, że w San Francisco wygląda to trochę inaczej
+Implicit	Expansion.Level-of-detail.Arg2-as-detail	otóż	Można zauważyć, że w San Francisco wygląda to trochę inaczej	Mamy tu media, polityków, dziennikarzy, tak jak w Baltimore i innych miastach
+Explicit	Comparison.Concession.Arg2-as-denier	Jednak	Mamy tu media, polityków, dziennikarzy, tak jak w Baltimore i innych miastach	liczebnie wyróżnia się grupa okularników i fanów techniki, stanowiących prawie połowę sieci
+Implicit	Expansion.Conjunction	i (and)	Jednak liczebnie wyróżnia się grupa okularników i fanów techniki, stanowiących prawie połowę sieci	Mamy nawet grupę inną od reszty, którą nazwać możemy pracownikami Twittera
+Implicit	Expansion.Level-of-detail.Arg2-as-detail	mianowicie	Mamy nawet grupę inną od reszty, którą nazwać możemy pracownikami Twittera	Obok okularników, pomiędzy nimi a graczami na przeciwnym końcu od słuchaczy hip-hopu
+Implicit	Temporal.Synchronous	i (and)	Możecie zobaczyć, że napięcia panujące w San Francisco w związku z gentryfikacją i nowymi firmami gwarantującymi bogactwo i przebudowę miasta są prawdziwe, widać je na tej mapie	Możecie zauważyć, że społeczność LGBT nie dogaduje się z okularnikami, społecznością artystów i muzyków
+Explicit	Comparison.Contrast	A	Możecie zauważyć, że społeczność LGBT nie dogaduje się z okularnikami, społecznością artystów i muzyków	to prowadzi do czegoś takiego
+Implicit	Expansion.Level-of-detail.Arg2-as-detail	otóż	Dostałem to zdjęcie parę tygodni temu	Obrazujące ono, co dzieje się w San Francisco
+Implicit	Expansion.Level-of-detail.Arg2-as-detail	mianowicie	Spędziłem kilka tygodni, zbierając dane o tym mieście i szczególnie uderzyło mnie to, że wszystko jest tu pomieszane	To miasto bardziej różnorodne niż Baltimore czy San Francisco
+Implicit	Comparison.Concession.Arg2-as-denier	chociaż	To miasto bardziej różnorodne niż Baltimore czy San Francisco	Nadal mamy odłam ludzi zaangażowanych w politykę czy media
+Implicit	Comparison.Contrast	a	Nadal mamy odłam ludzi zaangażowanych w politykę czy media	TEDxRio jest na dole po prawej, tuż obok pisarzy i blogerów
+Explicit	Comparison.Contrast	Ale	TEDxRio jest na dole po prawej, tuż obok pisarzy i blogerów	widzimy też ogromną różnorodność ludzi wynikającą ze słuchania różnej muzyki
+Implicit	Expansion.Conjunction	i (and)	Ale widzimy też ogromną różnorodność ludzi wynikającą ze słuchania różnej muzyki	Są nawet fani Justina Biebera
+Implicit	Expansion.Conjunction	i (and)	Są nawet fani Justina Biebera	Inne boys bandy, piosenkarze country, muzyka gospel, funk, rap, komicy stand-up, jest nawet sekcja kawałów i narkotyków
+Explicit	Contingency.Cause.Result	Więc	Swoich przedstawicieli ma nawet drużyna piłkarska Flamengo	mamy taką samą mapę sportu, spraw miejskich, sztuki i muzyki ale reprezentowanych całkiem inaczej, w zgodzie z naszym wyobrażeniem Rio jako multikulturowego i muzycznie zróżnicowanego miasta
+Explicit	Contingency.Cause.Result	Więc	Więc mamy taką samą mapę sportu, spraw miejskich, sztuki i muzyki ale reprezentowanych całkiem inaczej, w zgodzie z naszym wyobrażeniem Rio jako multikulturowego i muzycznie zróżnicowanego miasta	mamy te wszystkie dane
+Implicit	Expansion.Level-of-detail.Arg1-as-detail	krótko mówiąc	mamy te wszystkie dane	W dzisiejszych czasach mamy bardo dużo informacji o miastach, pewnie więcej niż w jakimkolwiek zbiorze danych wcześniej
+Explicit	Comparison.Contrast	Ale	W dzisiejszych czasach mamy bardo dużo informacji o miastach, pewnie więcej niż w jakimkolwiek zbiorze danych wcześniej	co możemy z nimi zrobić
+AltLex	Comparison.Contrast	co	Po pierwsze musimy zrozumieć, że segregacja jest konstruktem społecznym	możemy z nimi zrobić
+Implicit	Expansion.Level-of-detail.Arg2-as-detail	otóż	Po pierwsze musimy zrozumieć, że segregacja jest konstruktem społecznym	Jest to coś, co wybieramy, więc możemy wybrać inaczej
+Implicit	Expansion.Conjunction	i (and)	Jeśli się nad tym zastanowić, to nasze badanie jest jak patrzenie przez teleskop na ogromną szkolną stołówkę i określanie, kto z kim siedzi	Może nadszedł czas zburzyć ten ład
+Implicit	Contingency.Cause.Reason	ponieważ (because)	Może nadszedł czas zburzyć ten ład	Zaczynamy rozumieć, że rasa to zły wyznacznik różnorodności
+Implicit	Contingency.Cause.Reason	ponieważ (because)	Zaczynamy rozumieć, że rasa to zły wyznacznik różnorodności	Ludzie wszystkich ras są rozrzuceni po całej mapie
+Implicit	Expansion.Conjunction	i (and)	Ludzie wszystkich ras są rozrzuceni po całej mapie	Analizowanie grup wyłącznie według ras nie mówi nam nic o różnorodności
+Implicit	Contingency.Cause.Result	więc (so)	Analizowanie grup wyłącznie według ras nie mówi nam nic o różnorodności	Jeśli chcemy używać różnorodności jako sposobu na rozwiązanie zawiłych problemów, to musimy inaczej ją rozumieć
+Implicit	Expansion.Instantiation	na przykład	Jeśli chcemy używać różnorodności jako sposobu na rozwiązanie zawiłych problemów, to musimy inaczej ją rozumieć	Możemy zmienić strukturę naszych miast i wierzę, że skoro mamy takie możliwości, jest to wręcz nasz obowiązek
+AltLex	Expansion.Level-of-detail.Arg2-as-detail	Czym	Niektórzy stwierdzą, że to obszar geograficzny, zbiór ulic i budynków	więc jest miasto
+Explicit	Contingency.Cause+Belief.Reason+Belief	więc	Możemy zmienić strukturę naszych miast i wierzę, że skoro mamy takie możliwości, jest to wręcz nasz obowiązek	
+Explicit	Comparison.Contrast	Jednak	Niektórzy stwierdzą, że to obszar geograficzny, zbiór ulic i budynków	moim zdaniem jest to suma związków pomiędzy jego mieszkańcami
+Implicit	Expansion.Conjunction	i (and)	Jednak moim zdaniem jest to suma związków pomiędzy jego mieszkańcami	Jeśli zaczniemy je naprawdę rejestrować, to być może uda się stworzyć takie miasta, o jakich marzymy
